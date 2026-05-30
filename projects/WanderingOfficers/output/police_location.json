@@ -1,0 +1,4018 @@
+{
+    "Abingdon Police Department, Illinois": {
+        "Latitude": 40.8026397,
+        "Longitude": -90.3980947
+    },
+    "Abraham Lincoln Capital Airport Police Department, Illinois": {
+        "Latitude": 39.8441943,
+        "Longitude": -89.6722723
+    },
+    "Adams County Sheriff's Office, Illinois": {
+        "Latitude": 40.0577692,
+        "Longitude": -91.13530200000001
+    },
+    "Addison Police Department, Illinois": {
+        "Latitude": 41.9325018,
+        "Longitude": -87.9921143
+    },
+    "Ag Valley Railroad Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Albers Police Department, Illinois": {
+        "Latitude": 38.5433823,
+        "Longitude": -89.61231289999999
+    },
+    "Albion Police Department, Illinois": {
+        "Latitude": 38.3775236,
+        "Longitude": -88.0570982
+    },
+    "Aledo Police Department, Illinois": {
+        "Latitude": 41.2023668,
+        "Longitude": -90.74758059999999
+    },
+    "Alexander Co Coroner's Office, Illinois": {
+        "Latitude": 37.0053822,
+        "Longitude": -89.1761669
+    },
+    "Alexander County Sheriff's Office, Illinois": {
+        "Latitude": 37.1670164,
+        "Longitude": -89.3606298
+    },
+    "Alexis Police Department, Illinois": {
+        "Latitude": 41.0633866,
+        "Longitude": -90.5553459
+    },
+    "Algonquin Police Department, Illinois": {
+        "Latitude": 42.1650526,
+        "Longitude": -88.32721049999999
+    },
+    "Alorton Police Department, Illinois": {
+        "Latitude": 38.589773,
+        "Longitude": -90.1201087
+    },
+    "Alpha Police Department, Illinois": {
+        "Latitude": 41.1914116,
+        "Longitude": -90.3820571
+    },
+    "Alsey Police Department, Illinois": {
+        "Latitude": 39.5606026,
+        "Longitude": -90.4340126
+    },
+    "Alsip Police Department, Illinois": {
+        "Latitude": 41.6695778,
+        "Longitude": -87.73217939999999
+    },
+    "Altamont Police Department, Illinois": {
+        "Latitude": 39.062112,
+        "Longitude": -88.7493087
+    },
+    "Alton And Southern Railway Police, Illinois": {
+        "Latitude": 38.5995429,
+        "Longitude": -90.14935050000001
+    },
+    "Alton Police Department, Illinois": {
+        "Latitude": 38.8887563,
+        "Longitude": -90.15923939999999
+    },
+    "Amtrak Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Andalusia Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Anna Police Department, Illinois": {
+        "Latitude": 37.45919749999999,
+        "Longitude": -89.24094389999999
+    },
+    "Annawan Police Department, Illinois": {
+        "Latitude": 41.4024424,
+        "Longitude": -89.907332
+    },
+    "Apple River Police Department, Illinois": {
+        "Latitude": 42.50500539999999,
+        "Longitude": -90.0987361
+    },
+    "Arcola Police Department, Illinois": {
+        "Latitude": 39.68500100000001,
+        "Longitude": -88.30632349999999
+    },
+    "Arlington Heights Police Department, Illinois": {
+        "Latitude": 42.0812974,
+        "Longitude": -87.97895840000001
+    },
+    "Armington Police Department, Illinois": {
+        "Latitude": 40.33977429999999,
+        "Longitude": -89.31204009999999
+    },
+    "Aroma Park Police Department, Illinois": {
+        "Latitude": 41.0851587,
+        "Longitude": -87.8106371
+    },
+    "Arthur Police Department, Illinois": {
+        "Latitude": 39.71708479999999,
+        "Longitude": -88.47118739999999
+    },
+    "Ashley Police Department, Illinois": {
+        "Latitude": 38.3294569,
+        "Longitude": -89.1908373
+    },
+    "Astoria Police Department, Illinois": {
+        "Latitude": 40.22674930000001,
+        "Longitude": -90.35867669999999
+    },
+    "Athens Police Department, Illinois": {
+        "Latitude": 39.9608275,
+        "Longitude": -89.72410359999999
+    },
+    "Atkinson Police Department, Illinois": {
+        "Latitude": 41.4161808,
+        "Longitude": -90.015881
+    },
+    "Atlanta Police Department, Illinois": {
+        "Latitude": 40.259449,
+        "Longitude": -89.23342199999999
+    },
+    "Atwood Police Department, Illinois": {
+        "Latitude": 39.7994772,
+        "Longitude": -88.4622789
+    },
+    "Auburn Police Department, Illinois": {
+        "Latitude": 39.5920675,
+        "Longitude": -89.74477569999999
+    },
+    "Augusta Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Aurora Police Department, Illinois": {
+        "Latitude": 41.7831701,
+        "Longitude": -88.28697969999999
+    },
+    "Ava Police Department, Illinois": {
+        "Latitude": 37.8880828,
+        "Longitude": -89.49758279999999
+    },
+    "Aviston Police Department, Illinois": {
+        "Latitude": 38.6100884,
+        "Longitude": -89.6054094
+    },
+    "Avon Police Department, Illinois": {
+        "Latitude": 40.66181110000001,
+        "Longitude": -90.43475939999999
+    },
+    "Baldwin Police Department, Illinois": {
+        "Latitude": 38.1797992,
+        "Longitude": -89.84245779999999
+    },
+    "Bannockburn Police Department, Illinois": {
+        "Latitude": 42.1938508,
+        "Longitude": -87.866145
+    },
+    "Barrington Hills Police Department, Illinois": {
+        "Latitude": 42.113822,
+        "Longitude": -88.18184989999999
+    },
+    "Barrington Police Department, Illinois": {
+        "Latitude": 42.1571718,
+        "Longitude": -88.1291541
+    },
+    "Barry Police Department, Illinois": {
+        "Latitude": 39.6916888,
+        "Longitude": -91.04016089999999
+    },
+    "Bartlett Police Department, Illinois": {
+        "Latitude": 41.9910558,
+        "Longitude": -88.18545879999999
+    },
+    "Bartonville Police Department, Illinois": {
+        "Latitude": 40.6510007,
+        "Longitude": -89.6517363
+    },
+    "Bath Police Department, Illinois": {
+        "Latitude": 40.190158,
+        "Longitude": -90.14236
+    },
+    "Baylis Police Department, Illinois": {
+        "Latitude": 39.7286753,
+        "Longitude": -90.9086993
+    },
+    "Bayview Gardens Police Department, Illinois": {
+        "Latitude": 40.810848,
+        "Longitude": -89.5188731
+    },
+    "Beardstown Police Department, Illinois": {
+        "Latitude": 40.0194195,
+        "Longitude": -90.4312609
+    },
+    "Bedford Park Police Department, Illinois": {
+        "Latitude": 41.76993820000001,
+        "Longitude": -87.81824929999999
+    },
+    "Beecher Police Department, Illinois": {
+        "Latitude": 41.34059,
+        "Longitude": -87.6214286
+    },
+    "Belgium Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Belleville Police Department, Illinois": {
+        "Latitude": 38.5719302,
+        "Longitude": -90.05414540000001
+    },
+    "Bellwood Police Department, Illinois": {
+        "Latitude": 41.8812887,
+        "Longitude": -87.87209469999999
+    },
+    "Belt Railway Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Belvidere Police Department, Illinois": {
+        "Latitude": 42.2656079,
+        "Longitude": -88.8446962
+    },
+    "Benedictine University Police Department, Illinois": {
+        "Latitude": 41.775912,
+        "Longitude": -88.0973613
+    },
+    "Benld Police Department, Illinois": {
+        "Latitude": 39.0928917,
+        "Longitude": -89.80557569999999
+    },
+    "Bensenville Police Department, Illinois": {
+        "Latitude": 41.9541747,
+        "Longitude": -87.93395919999999
+    },
+    "Benton Police Department, Illinois": {
+        "Latitude": 37.9980223,
+        "Longitude": -88.9246486
+    },
+    "Berkeley Police Department, Illinois": {
+        "Latitude": 41.8819844,
+        "Longitude": -87.91378619999999
+    },
+    "Berwyn Police Department, Illinois": {
+        "Latitude": 41.8364114,
+        "Longitude": -87.7853165
+    },
+    "Bethalto Police Department, Illinois": {
+        "Latitude": 38.91079860000001,
+        "Longitude": -90.0400058
+    },
+    "Bethany Police Department, Illinois": {
+        "Latitude": 39.6455727,
+        "Longitude": -88.7399518
+    },
+    "Black Hawk College Police Department, Illinois": {
+        "Latitude": 41.47688369999999,
+        "Longitude": -90.4479459
+    },
+    "Blandinsville Police Department, Illinois": {
+        "Latitude": 40.5558544,
+        "Longitude": -90.8670679
+    },
+    "Bloomingdale Police Department, Illinois": {
+        "Latitude": 41.9495865,
+        "Longitude": -88.0802903
+    },
+    "Bloomington Police Department, Illinois": {
+        "Latitude": 40.475811,
+        "Longitude": -88.99253
+    },
+    "Blue Island Police Department, Illinois": {
+        "Latitude": 41.6561627,
+        "Longitude": -87.68241619999999
+    },
+    "Blue Mound Police Department, Illinois": {
+        "Latitude": 39.7011516,
+        "Longitude": -89.1231356
+    },
+    "Bluffs Police Department, Illinois": {
+        "Latitude": 39.7519902,
+        "Longitude": -90.53512580000002
+    },
+    "Bolingbrook Police Department, Illinois": {
+        "Latitude": 41.6965443,
+        "Longitude": -88.0802594
+    },
+    "Bond County Sheriff's Office, Illinois": {
+        "Latitude": 38.8894164,
+        "Longitude": -89.41266089999999
+    },
+    "Boone County Sheriff's Office, Illinois": {
+        "Latitude": 42.2656079,
+        "Longitude": -88.8446962
+    },
+    "Bourbonnais Police Department, Illinois": {
+        "Latitude": 41.1760108,
+        "Longitude": -87.87952299999999
+    },
+    "Bradford Police Department, Illinois": {
+        "Latitude": 41.1810792,
+        "Longitude": -89.65806479999999
+    },
+    "Bradley Police Department, Illinois": {
+        "Latitude": 41.141774,
+        "Longitude": -87.86536749999999
+    },
+    "Bradley University Police Department, Illinois": {
+        "Latitude": 40.6987179,
+        "Longitude": -89.6118182
+    },
+    "Braidwood Police Department, Illinois": {
+        "Latitude": 41.2643988,
+        "Longitude": -88.2175511
+    },
+    "Bridgeport Police Department, Illinois": {
+        "Latitude": 38.7066135,
+        "Longitude": -87.7612637
+    },
+    "Bridgeview Police Department, Illinois": {
+        "Latitude": 41.7549153,
+        "Longitude": -87.8052869
+    },
+    "Brighton Police Department, Illinois": {
+        "Latitude": 39.0381392,
+        "Longitude": -90.1414909
+    },
+    "Broadview Police Department, Illinois": {
+        "Latitude": 41.8616202,
+        "Longitude": -87.8633535
+    },
+    "Brocton Police Department, Illinois": {
+        "Latitude": 39.7155902,
+        "Longitude": -87.9325327
+    },
+    "Brookfield Police Department, Illinois": {
+        "Latitude": 41.8239203,
+        "Longitude": -87.8517253
+    },
+    "Brookfield Zoo Police Department, Illinois": {
+        "Latitude": 41.83352259999999,
+        "Longitude": -87.8362185
+    },
+    "Brooklyn Police Department, Illinois": {
+        "Latitude": 38.6561714,
+        "Longitude": -90.166277
+    },
+    "Brookport Police Department, Illinois": {
+        "Latitude": 37.1233457,
+        "Longitude": -88.6281722
+    },
+    "Brown Co Coroner's Office, Illinois": {
+        "Latitude": 39.9379573,
+        "Longitude": -90.7152749
+    },
+    "Brown County Sheriff's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Brownstown Police Department, Illinois": {
+        "Latitude": 38.9945556,
+        "Longitude": -88.9535925
+    },
+    "Buckingham Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Buckley Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Buckner Police Department, Illinois": {
+        "Latitude": 37.9974402,
+        "Longitude": -88.9164711
+    },
+    "Buda Police Department, Illinois": {
+        "Latitude": 41.3264671,
+        "Longitude": -89.6802484
+    },
+    "Buffalo-mechanicsburg Police Department, Illinois": {
+        "Latitude": 39.8471112,
+        "Longitude": -89.4055193
+    },
+    "Bull Valley Police Department, Illinois": {
+        "Latitude": 42.3007764,
+        "Longitude": -88.3523187
+    },
+    "Bunker Hill Police Department, Illinois": {
+        "Latitude": 39.034712,
+        "Longitude": -89.9494414
+    },
+    "Burbank Police Department, Illinois": {
+        "Latitude": 41.7558611,
+        "Longitude": -87.7625138
+    },
+    "Bureau County Sheriff's Office, Illinois": {
+        "Latitude": 41.3946796,
+        "Longitude": -89.44950879999999
+    },
+    "Burlington Northern/santa Fe Railrd, Illinois": {
+        "Latitude": 40.9027869,
+        "Longitude": -90.403379
+    },
+    "Burnham Police Department, Illinois": {
+        "Latitude": 41.6319331,
+        "Longitude": -87.5557379
+    },
+    "Burr Ridge Police Department, Illinois": {
+        "Latitude": 41.7488482,
+        "Longitude": -87.9165771
+    },
+    "Cahokia Heights Police Department, Illinois": {
+        "Latitude": 38.5718498,
+        "Longitude": -90.10890959999999
+    },
+    "Cahokia Police Department, Illinois": {
+        "Latitude": 38.5718498,
+        "Longitude": -90.10890959999999
+    },
+    "Cairo Police Department, Illinois": {
+        "Latitude": 37.0025418,
+        "Longitude": -89.17283599999999
+    },
+    "Calhoun Co Coroner's Office, Illinois": {
+        "Latitude": 39.1733216,
+        "Longitude": -90.658333
+    },
+    "Calhoun County Sheriff's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Calumet City Police Department, Illinois": {
+        "Latitude": 41.615711,
+        "Longitude": -87.5548742
+    },
+    "Calumet Park Police Department, Illinois": {
+        "Latitude": 41.6681026,
+        "Longitude": -87.65341719999999
+    },
+    "Cambria Police Department, Illinois": {
+        "Latitude": 37.783592,
+        "Longitude": -89.1188718
+    },
+    "Campton Hills Police Department, Illinois": {
+        "Latitude": 41.9364448,
+        "Longitude": -88.3969051
+    },
+    "Canadian National Railroad Police, Illinois": {
+        "Latitude": 42.2353599,
+        "Longitude": -89.3088521
+    },
+    "Canadian Pacific Police Service, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Canton Park District Police Department, Illinois": {
+        "Latitude": 40.5580945,
+        "Longitude": -90.03511669999999
+    },
+    "Canton Police Department, Illinois": {
+        "Latitude": 40.5559758,
+        "Longitude": -90.0352418
+    },
+    "Carbon Cliff Police Department, Illinois": {
+        "Latitude": 41.4956187,
+        "Longitude": -90.3868182
+    },
+    "Carbondale Police Department, Illinois": {
+        "Latitude": 37.7227339,
+        "Longitude": -89.20665919999999
+    },
+    "Carlinville Police Department, Illinois": {
+        "Latitude": 39.2860261,
+        "Longitude": -89.88274
+    },
+    "Carlyle Police Department, Illinois": {
+        "Latitude": 38.6256451,
+        "Longitude": -89.37046
+    },
+    "Carmi Police Department, Illinois": {
+        "Latitude": 38.0908824,
+        "Longitude": -88.1592131
+    },
+    "Carol Stream Police Department, Illinois": {
+        "Latitude": 41.9161375,
+        "Longitude": -88.12210689999999
+    },
+    "Carpentersville Police Department, Illinois": {
+        "Latitude": 42.1176319,
+        "Longitude": -88.2654273
+    },
+    "Carrier Mills Police Department, Illinois": {
+        "Latitude": 37.738693,
+        "Longitude": -88.54038849999999
+    },
+    "Carroll Co Coroner's Office, Illinois": {
+        "Latitude": 42.0385843,
+        "Longitude": -89.9626799
+    },
+    "Carrollton Police Department, Illinois": {
+        "Latitude": 39.30024969999999,
+        "Longitude": -90.41050369999999
+    },
+    "Carterville Police Department, Illinois": {
+        "Latitude": 37.761682,
+        "Longitude": -89.078141
+    },
+    "Carthage Police Department, Illinois": {
+        "Latitude": 40.412084,
+        "Longitude": -91.1349659
+    },
+    "Cary Police Department, Illinois": {
+        "Latitude": 42.2165493,
+        "Longitude": -88.2664027
+    },
+    "Casey Police Department, Illinois": {
+        "Latitude": 39.2994461,
+        "Longitude": -87.9946398
+    },
+    "Caseyville Police Department, Illinois": {
+        "Latitude": 38.6371823,
+        "Longitude": -90.0271004
+    },
+    "Cass County Sheriff's Office, Illinois": {
+        "Latitude": 39.9513721,
+        "Longitude": -90.2108171
+    },
+    "Catlin Police Department, Illinois": {
+        "Latitude": 40.0645215,
+        "Longitude": -87.7028218
+    },
+    "Cave-in-rock Police Department, Illinois": {
+        "Latitude": 37.4692168,
+        "Longitude": -88.1653082
+    },
+    "Cedar Point Police Department, Illinois": {
+        "Latitude": 41.2158697,
+        "Longitude": -89.06671519999999
+    },
+    "Central City Police Department, Illinois": {
+        "Latitude": 38.548934,
+        "Longitude": -89.1268473
+    },
+    "Centralia Police Department, Illinois": {
+        "Latitude": 38.52553590000001,
+        "Longitude": -89.13350700000001
+    },
+    "Centreville Police Department, Illinois": {
+        "Latitude": 38.5734689,
+        "Longitude": -90.1198888
+    },
+    "Champaign Co Coroner's Office, Illinois": {
+        "Latitude": 40.2138865,
+        "Longitude": -88.24611829999999
+    },
+    "Champaign Co State's Attorney, Illinois": {
+        "Latitude": 40.2138865,
+        "Longitude": -88.24611829999999
+    },
+    "Champaign County Sheriff's Office, Illinois": {
+        "Latitude": 40.113035,
+        "Longitude": -88.20577829999999
+    },
+    "Champaign Police Department, Illinois": {
+        "Latitude": 40.1167514,
+        "Longitude": -88.2392763
+    },
+    "Chandlerville Police Department, Illinois": {
+        "Latitude": 40.0481033,
+        "Longitude": -90.15511889999999
+    },
+    "Channahon Police Department, Illinois": {
+        "Latitude": 41.4371762,
+        "Longitude": -88.21971909999999
+    },
+    "Chapin Police Department, Illinois": {
+        "Latitude": 39.7658948,
+        "Longitude": -90.3990126
+    },
+    "Chatham Police Department, Illinois": {
+        "Latitude": 39.6756669,
+        "Longitude": -89.70352059999999
+    },
+    "Chenoa Police Department, Illinois": {
+        "Latitude": 40.7439259,
+        "Longitude": -88.7203857
+    },
+    "Cherry Police Department, Illinois": {
+        "Latitude": 41.4269787,
+        "Longitude": -89.213419
+    },
+    "Cherry Valley Police Department, Illinois": {
+        "Latitude": 42.2374077,
+        "Longitude": -88.94259079999999
+    },
+    "Chester Police Department, Illinois": {
+        "Latitude": 37.9147781,
+        "Longitude": -89.8202807
+    },
+    "Chesterfield Police Department, Illinois": {
+        "Latitude": 39.2546614,
+        "Longitude": -90.0625132
+    },
+    "Chicago Department Of Aviation Police, Illinois": {
+        "Latitude": 41.9775098,
+        "Longitude": -87.8809655
+    },
+    "Chicago Heights Park District Police Department, Illinois": {
+        "Latitude": 41.5056845,
+        "Longitude": -87.6418477
+    },
+    "Chicago Heights Police Department, Illinois": {
+        "Latitude": 41.5017674,
+        "Longitude": -87.635656
+    },
+    "Chicago Housing Authority Police Department, Illinois": {
+        "Latitude": 41.88325,
+        "Longitude": -87.6323879
+    },
+    "Chicago Police Department, Illinois": {
+        "Latitude": 41.9799735,
+        "Longitude": -87.6930108
+    },
+    "Chicago Ridge Police Department, Illinois": {
+        "Latitude": 41.7021767,
+        "Longitude": -87.7786912
+    },
+    "Chicago State University Police, Illinois": {
+        "Latitude": 41.7179751,
+        "Longitude": -87.60943879999999
+    },
+    "Chillicothe Police Department, Illinois": {
+        "Latitude": 40.9160062,
+        "Longitude": -89.48611489999999
+    },
+    "Chrisman Police Department, Illinois": {
+        "Latitude": 39.8045655,
+        "Longitude": -87.68024020000001
+    },
+    "Christian Co State's Attorney, Illinois": {
+        "Latitude": 39.5672183,
+        "Longitude": -89.3226954
+    },
+    "Christian County Sheriff's Office, Illinois": {
+        "Latitude": 39.5476489,
+        "Longitude": -89.29802049999999
+    },
+    "Christopher Police Department, Illinois": {
+        "Latitude": 37.9730805,
+        "Longitude": -89.05567010000001
+    },
+    "Cicero Police Department, Illinois": {
+        "Latitude": 41.8507232,
+        "Longitude": -87.74743649999999
+    },
+    "Clay County Sheriff's Office, Illinois": {
+        "Latitude": 38.77274,
+        "Longitude": -88.49912719999999
+    },
+    "Clifton Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Clinton County Sheriff's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Clyde Park District Police Department, Illinois": {
+        "Latitude": 41.8408052,
+        "Longitude": -87.7766407
+    },
+    "Cms: Isp Protective Services Unit, Illinois": {
+        "Latitude": 41.8849932,
+        "Longitude": -87.632256
+    },
+    "Coal City Police Department, Illinois": {
+        "Latitude": 41.281581,
+        "Longitude": -88.28482699999999
+    },
+    "Coal Valley Police Department, Illinois": {
+        "Latitude": 41.4286456,
+        "Longitude": -90.4609648
+    },
+    "Cobden Police Department, Illinois": {
+        "Latitude": 37.5313834,
+        "Longitude": -89.2527898
+    },
+    "Coffeen Police Department, Illinois": {
+        "Latitude": 39.0892128,
+        "Longitude": -89.3906379
+    },
+    "Colchester Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Coles County Sheriff's Office, Illinois": {
+        "Latitude": 39.4935616,
+        "Longitude": -88.17409219999999
+    },
+    "Colfax Police Department, Illinois": {
+        "Latitude": 40.5699566,
+        "Longitude": -88.612488
+    },
+    "College Of Dupage Police Department, Illinois": {
+        "Latitude": 41.843979,
+        "Longitude": -88.0782438
+    },
+    "College Of Lake County Police Department, Illinois": {
+        "Latitude": 42.354675,
+        "Longitude": -88.0120506
+    },
+    "Collinsville Police Department, Illinois": {
+        "Latitude": 38.6702809,
+        "Longitude": -89.9882872
+    },
+    "Colona Police Department, Illinois": {
+        "Latitude": 41.48024179999999,
+        "Longitude": -90.3584633
+    },
+    "Columbia Police Department, Illinois": {
+        "Latitude": 38.4515607,
+        "Longitude": -90.2094578
+    },
+    "Conrail Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Cook Co State's Attorney, Illinois": {
+        "Latitude": 41.883046,
+        "Longitude": -87.6299212
+    },
+    "Cook County Court Services, Illinois": {
+        "Latitude": 41.7376587,
+        "Longitude": -87.697554
+    },
+    "Cook County Department Of Corrections, Illinois": {
+        "Latitude": 41.8425353,
+        "Longitude": -87.69709080000001
+    },
+    "Cook County Forest Pres District Police, Illinois": {
+        "Latitude": 42.067448,
+        "Longitude": -88.0924083
+    },
+    "Cook County Hospital System Police, Illinois": {
+        "Latitude": 41.8727197,
+        "Longitude": -87.6737256
+    },
+    "Cook County Probation, Illinois": {
+        "Latitude": 41.7376587,
+        "Longitude": -87.697554
+    },
+    "Cook County Sheriff's Office, Illinois": {
+        "Latitude": 42.0873953,
+        "Longitude": -88.0086532
+    },
+    "Cook County Sheriff's Police, Illinois": {
+        "Latitude": 41.87425349999999,
+        "Longitude": -87.825453
+    },
+    "Cordova Police Department, Illinois": {
+        "Latitude": 41.680058,
+        "Longitude": -90.31837600000001
+    },
+    "Cortland Police Department, Illinois": {
+        "Latitude": 41.9154615,
+        "Longitude": -88.6896765
+    },
+    "Coulterville Police Department, Illinois": {
+        "Latitude": 38.1863159,
+        "Longitude": -89.6048232
+    },
+    "Country Club Hills Police Department, Illinois": {
+        "Latitude": 41.5713012,
+        "Longitude": -87.708146
+    },
+    "Cowden Police Department, Illinois": {
+        "Latitude": 39.2483753,
+        "Longitude": -88.8622895
+    },
+    "Crainville Police Department, Illinois": {
+        "Latitude": 37.7503031,
+        "Longitude": -89.0691107
+    },
+    "Crawford County Sheriff's Office, Illinois": {
+        "Latitude": 39.0499568,
+        "Longitude": -87.77633329999999
+    },
+    "Creal Springs Police Department, Illinois": {
+        "Latitude": 37.6194946,
+        "Longitude": -88.8367311
+    },
+    "Crest Hill Police Department, Illinois": {
+        "Latitude": 41.571563,
+        "Longitude": -88.117357
+    },
+    "Crestwood Police Department, Illinois": {
+        "Latitude": 41.6413822,
+        "Longitude": -87.7381982
+    },
+    "Crete Police Department, Illinois": {
+        "Latitude": 41.4437872,
+        "Longitude": -87.6327366
+    },
+    "Creve Coeur Police Department, Illinois": {
+        "Latitude": 40.6467312,
+        "Longitude": -89.6004868
+    },
+    "Crossville Police Department, Illinois": {
+        "Latitude": 38.161787,
+        "Longitude": -88.06481169999999
+    },
+    "Crystal Lake Park District Police Department, Illinois": {
+        "Latitude": 42.24091380000001,
+        "Longitude": -88.3206237
+    },
+    "Crystal Lake Police Department, Illinois": {
+        "Latitude": 42.245037,
+        "Longitude": -88.3228851
+    },
+    "Csx Railroad Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Cta Inspector General, Illinois": {
+        "Latitude": 41.9545936,
+        "Longitude": -87.6568644
+    },
+    "Cuba Police Department, Illinois": {
+        "Latitude": 40.4920151,
+        "Longitude": -90.19460989999999
+    },
+    "Cumberland County Sheriff's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Cutler Police Department, Illinois": {
+        "Latitude": 38.0322733,
+        "Longitude": -89.56565119999999
+    },
+    "Cypress Police Department, Illinois": {
+        "Latitude": 37.3648933,
+        "Longitude": -89.0158093
+    },
+    "Dallas City Police Department, Illinois": {
+        "Latitude": 40.6361526,
+        "Longitude": -91.16736809999999
+    },
+    "Dalzell Police Department, Illinois": {
+        "Latitude": 41.3578126,
+        "Longitude": -89.17619599999999
+    },
+    "Dana Police Department, Illinois": {
+        "Latitude": 40.9568932,
+        "Longitude": -88.9494648
+    },
+    "Danvers Police Department, Illinois": {
+        "Latitude": 40.52784279999999,
+        "Longitude": -89.17469799999999
+    },
+    "Danville Police Department, Illinois": {
+        "Latitude": 40.1221253,
+        "Longitude": -87.6292806
+    },
+    "Darien Police Department, Illinois": {
+        "Latitude": 41.7448279,
+        "Longitude": -87.98607799999999
+    },
+    "Decatur Park Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Decatur Police Department, Illinois": {
+        "Latitude": 39.8224715,
+        "Longitude": -88.9682722
+    },
+    "Deer Creek Police Department, Illinois": {
+        "Latitude": 40.6274486,
+        "Longitude": -89.3317739
+    },
+    "Dekalb County Sheriff's Office, Illinois": {
+        "Latitude": 41.9892715,
+        "Longitude": -88.683908
+    },
+    "Dekalb Police Department, Illinois": {
+        "Latitude": 41.9305909,
+        "Longitude": -88.7675122
+    },
+    "Delavan Police Department, Illinois": {
+        "Latitude": 40.3736502,
+        "Longitude": -89.54741179999999
+    },
+    "Depue Police Department, Illinois": {
+        "Latitude": 41.3222025,
+        "Longitude": -89.306248
+    },
+    "Des Plaines Police Department, Illinois": {
+        "Latitude": 42.0423239,
+        "Longitude": -87.8886287
+    },
+    "Desoto Police Department, Illinois": {
+        "Latitude": 37.8172886,
+        "Longitude": -89.2303445
+    },
+    "Dewitt Co State's Attorney, Illinois": {
+        "Latitude": 40.1810363,
+        "Longitude": -88.90306
+    },
+    "Dewitt County Sheriff's Office, Illinois": {
+        "Latitude": 40.1538041,
+        "Longitude": -88.9611798
+    },
+    "Divernon Police Department, Illinois": {
+        "Latitude": 39.5673897,
+        "Longitude": -89.65544109999999
+    },
+    "Dixmoor Park District Police Department, Illinois": {
+        "Latitude": 41.6298973,
+        "Longitude": -87.6609098
+    },
+    "Dixmoor Police Department, Illinois": {
+        "Latitude": 41.6260414,
+        "Longitude": -87.666437
+    },
+    "Dixon Police Department, Illinois": {
+        "Latitude": 41.841704,
+        "Longitude": -89.4831377
+    },
+    "Dolton Police Department, Illinois": {
+        "Latitude": 41.6396672,
+        "Longitude": -87.6103974
+    },
+    "Donnellson Police Department, Illinois": {
+        "Latitude": 39.027824,
+        "Longitude": -89.4734175
+    },
+    "Douglas Co Coroner's Office, Illinois": {
+        "Latitude": 39.7950561,
+        "Longitude": -88.285061
+    },
+    "Douglas Co State's Attorney, Illinois": {
+        "Latitude": 39.79584850000001,
+        "Longitude": -88.2853836
+    },
+    "Douglas County Sheriff's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Dowell Police Department, Illinois": {
+        "Latitude": 37.9397727,
+        "Longitude": -89.23786079999999
+    },
+    "Downers Grove Police Department, Illinois": {
+        "Latitude": 41.7950092,
+        "Longitude": -88.00607800000002
+    },
+    "Downs Police Department, Illinois": {
+        "Latitude": 40.39698,
+        "Longitude": -88.8706291
+    },
+    "Dunfermline Police Department, Illinois": {
+        "Latitude": 38.223939,
+        "Longitude": -89.21230109999999
+    },
+    "Dupage County Sheriff's Office, Illinois": {
+        "Latitude": 41.8243831,
+        "Longitude": -88.0900762
+    },
+    "Dupo Police Department, Illinois": {
+        "Latitude": 38.5190904,
+        "Longitude": -90.20921919999999
+    },
+    "Dwight Police Department, Illinois": {
+        "Latitude": 41.0923709,
+        "Longitude": -88.42905429999999
+    },
+    "Earlville Police Department, Illinois": {
+        "Latitude": 41.5902527,
+        "Longitude": -88.9236399
+    },
+    "East Alton Police Department, Illinois": {
+        "Latitude": 38.88311460000001,
+        "Longitude": -90.1111789
+    },
+    "East Carondelet Police Department, Illinois": {
+        "Latitude": 38.5414398,
+        "Longitude": -90.23173229999999
+    },
+    "East Dundee Police Department, Illinois": {
+        "Latitude": 42.1013528,
+        "Longitude": -88.2764724
+    },
+    "East Galesburg Police Department, Illinois": {
+        "Latitude": 40.94781580000001,
+        "Longitude": -90.3101264
+    },
+    "East Hazel Crest Police Department, Illinois": {
+        "Latitude": 41.5756387,
+        "Longitude": -87.648228
+    },
+    "East Moline Police Department, Illinois": {
+        "Latitude": 41.5153681,
+        "Longitude": -90.440643
+    },
+    "East Peoria Police Department, Illinois": {
+        "Latitude": 40.674503,
+        "Longitude": -89.5818212
+    },
+    "East St. Louis Park District Police, Illinois": {
+        "Latitude": 38.6280545,
+        "Longitude": -90.1164689
+    },
+    "East St. Louis Police Department, Illinois": {
+        "Latitude": 38.6265179,
+        "Longitude": -90.1625482
+    },
+    "Eastern Illinois University Police Department, Illinois": {
+        "Latitude": 39.4817361,
+        "Longitude": -88.1737187
+    },
+    "Easton Police Department, Illinois": {
+        "Latitude": 40.232265,
+        "Longitude": -89.8428069
+    },
+    "Edgar County Sheriff's Office, Illinois": {
+        "Latitude": 39.71312229999999,
+        "Longitude": -87.77633329999999
+    },
+    "Edgewood Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Edwards County Sheriff's Office, Illinois": {
+        "Latitude": 38.4267827,
+        "Longitude": -88.050979
+    },
+    "Effingham Co Coroner's Office, Illinois": {
+        "Latitude": 39.06217729999999,
+        "Longitude": -88.55653099999999
+    },
+    "Effingham County Sheriff's Office, Illinois": {
+        "Latitude": 39.06217729999999,
+        "Longitude": -88.55653099999999
+    },
+    "Effingham Police Department, Illinois": {
+        "Latitude": 39.1207092,
+        "Longitude": -88.5402371
+    },
+    "Effingham Water Authority Police Department, Illinois": {
+        "Latitude": 39.1200418,
+        "Longitude": -88.5433829
+    },
+    "El Paso Police Department, Illinois": {
+        "Latitude": 40.7367114,
+        "Longitude": -89.0080511
+    },
+    "Elburn Police Department, Illinois": {
+        "Latitude": 41.8918292,
+        "Longitude": -88.4692634
+    },
+    "Eldorado Police Department, Illinois": {
+        "Latitude": 37.8132847,
+        "Longitude": -88.4370986
+    },
+    "Elgin Police Department, Illinois": {
+        "Latitude": 42.0400081,
+        "Longitude": -88.2836518
+    },
+    "Elizabeth Police Department, Illinois": {
+        "Latitude": 42.3182195,
+        "Longitude": -90.2279221
+    },
+    "Elk Grove Village Police Department, Illinois": {
+        "Latitude": 42.0032055,
+        "Longitude": -88.0075337
+    },
+    "Elkhart Police Department, Illinois": {
+        "Latitude": 40.0206041,
+        "Longitude": -89.4828792
+    },
+    "Elkville Police Department, Illinois": {
+        "Latitude": 37.905951,
+        "Longitude": -89.2341646
+    },
+    "Ellis Grove Police Department, Illinois": {
+        "Latitude": 37.9037323,
+        "Longitude": -89.8283336
+    },
+    "Elmhurst Police Department, Illinois": {
+        "Latitude": 41.9001659,
+        "Longitude": -87.9387672
+    },
+    "Elmwood Park Police Department, Illinois": {
+        "Latitude": 41.9236487,
+        "Longitude": -87.8121656
+    },
+    "Elmwood Police Department, Illinois": {
+        "Latitude": 40.778237,
+        "Longitude": -89.967699
+    },
+    "Elwood Police Department, Illinois": {
+        "Latitude": 41.4056193,
+        "Longitude": -88.10617839999999
+    },
+    "Energy Police Department, Illinois": {
+        "Latitude": 37.7755569,
+        "Longitude": -89.0259823
+    },
+    "Erie Police Department, Illinois": {
+        "Latitude": 41.655928,
+        "Longitude": -90.0794615
+    },
+    "Essex Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Eureka College Police Department., Illinois": {
+        "Latitude": 40.7137749,
+        "Longitude": -89.2682877
+    },
+    "Eureka Police Department, Illinois": {
+        "Latitude": 40.7227684,
+        "Longitude": -89.2731352
+    },
+    "Evanston Police Department, Illinois": {
+        "Latitude": 42.0444959,
+        "Longitude": -87.68380979999999
+    },
+    "Evansville Police Department, Illinois": {
+        "Latitude": 38.0907519,
+        "Longitude": -89.9363249
+    },
+    "Evergreen Park Police Department, Illinois": {
+        "Latitude": 41.72183709999999,
+        "Longitude": -87.702152
+    },
+    "Ewing Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Fairbury Police Department, Illinois": {
+        "Latitude": 40.74668399999999,
+        "Longitude": -88.5150566
+    },
+    "Fairfield Police Department, Illinois": {
+        "Latitude": 38.3765882,
+        "Longitude": -88.3739149
+    },
+    "Fairmont City Police Department, Illinois": {
+        "Latitude": 38.6514591,
+        "Longitude": -90.10306829999999
+    },
+    "Fairmount Police Department, Illinois": {
+        "Latitude": 40.04441449999999,
+        "Longitude": -87.8301103
+    },
+    "Fairview Heights Police Department, Illinois": {
+        "Latitude": 38.5969452,
+        "Longitude": -90.0121612
+    },
+    "Fairview Police Department, Illinois": {
+        "Latitude": 38.5969452,
+        "Longitude": -90.0121612
+    },
+    "Farina Police Department, Illinois": {
+        "Latitude": 38.8312896,
+        "Longitude": -88.7732212
+    },
+    "Farmer City Police Department, Illinois": {
+        "Latitude": 40.2439146,
+        "Longitude": -88.64213
+    },
+    "Farmersville Police Department, Illinois": {
+        "Latitude": 39.4433853,
+        "Longitude": -89.6517619
+    },
+    "Farmington Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Fayette County Sheriff's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Fayetteville Police Department, Illinois": {
+        "Latitude": 38.9531001,
+        "Longitude": -88.6236615
+    },
+    "Findlay Police Department, Illinois": {
+        "Latitude": 39.5199804,
+        "Longitude": -88.75184259999999
+    },
+    "Fisher Police Department, Illinois": {
+        "Latitude": 40.3180685,
+        "Longitude": -88.3507127
+    },
+    "Fithian Police Department, Illinois": {
+        "Latitude": 40.1153164,
+        "Longitude": -87.8730685
+    },
+    "Flossmoor Police Department, Illinois": {
+        "Latitude": 41.5421176,
+        "Longitude": -87.6851956
+    },
+    "Fondulac Park District Police Department, Illinois": {
+        "Latitude": 40.6648855,
+        "Longitude": -89.5652028
+    },
+    "Ford Co Coroner's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Ford County Sheriff's Office, Illinois": {
+        "Latitude": 40.4988592,
+        "Longitude": -88.2071598
+    },
+    "Ford Heights Police Department, Illinois": {
+        "Latitude": 41.506424,
+        "Longitude": -87.5917092
+    },
+    "Forest City Police Department, Illinois": {
+        "Latitude": 40.3703446,
+        "Longitude": -89.82854929999999
+    },
+    "Forest Park Police Department, Illinois": {
+        "Latitude": 41.8770277,
+        "Longitude": -87.8149419
+    },
+    "Forest View Police Department, Illinois": {
+        "Latitude": 41.8770277,
+        "Longitude": -87.8149419
+    },
+    "Fox Lake Police Department, Illinois": {
+        "Latitude": 42.3884382,
+        "Longitude": -88.1577478
+    },
+    "Fox River Grove Police Department, Illinois": {
+        "Latitude": 42.2008575,
+        "Longitude": -88.2145259
+    },
+    "Fox Valley Park District Police Department, Illinois": {
+        "Latitude": 41.7655049,
+        "Longitude": -88.2992495
+    },
+    "Frankfort Police Department, Illinois": {
+        "Latitude": 41.5161759,
+        "Longitude": -87.8529501
+    },
+    "Franklin County Sheriff's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Franklin Grove Police Department, Illinois": {
+        "Latitude": 41.8416982,
+        "Longitude": -89.3003765
+    },
+    "Franklin Park Police Department, Illinois": {
+        "Latitude": 41.9365473,
+        "Longitude": -87.8649228
+    },
+    "Freeburg Police Department, Illinois": {
+        "Latitude": 38.4181482,
+        "Longitude": -89.9065584
+    },
+    "Freeman Spur Police Department, Illinois": {
+        "Latitude": 37.861161,
+        "Longitude": -88.9972949
+    },
+    "Freeport Police Department, Illinois": {
+        "Latitude": 42.2975937,
+        "Longitude": -89.6245393
+    },
+    "Fulton Co State's Attorneys, Illinois": {
+        "Latitude": 40.5531823,
+        "Longitude": -90.2244662
+    },
+    "Fulton County Sheriff's Office, Illinois": {
+        "Latitude": 40.5531823,
+        "Longitude": -90.2244662
+    },
+    "Fulton Police Department, Illinois": {
+        "Latitude": 41.8665086,
+        "Longitude": -90.16504739999999
+    },
+    "Galatia Police Department, Illinois": {
+        "Latitude": 37.8408294,
+        "Longitude": -88.614133
+    },
+    "Galena Police Department, Illinois": {
+        "Latitude": 42.4179104,
+        "Longitude": -90.4256049
+    },
+    "Galesburg Police Department, Illinois": {
+        "Latitude": 40.9456559,
+        "Longitude": -90.37188019999999
+    },
+    "Gallatin County Sheriff's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Galva Police Department, Illinois": {
+        "Latitude": 41.167537,
+        "Longitude": -90.0426136
+    },
+    "Gardner Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Geneva Police Department, Illinois": {
+        "Latitude": 41.8869745,
+        "Longitude": -88.3049149
+    },
+    "Genoa Police Department, Illinois": {
+        "Latitude": 42.1000772,
+        "Longitude": -88.6883569
+    },
+    "Georgetown Police Department, Illinois": {
+        "Latitude": 39.9741306,
+        "Longitude": -87.6359442
+    },
+    "Germantown Police Department, Illinois": {
+        "Latitude": 38.553386,
+        "Longitude": -89.5396095
+    },
+    "Gibson City Police Department, Illinois": {
+        "Latitude": 40.4648772,
+        "Longitude": -88.37474870000001
+    },
+    "Gifford Police Department, Illinois": {
+        "Latitude": 40.3068719,
+        "Longitude": -88.02042039999999
+    },
+    "Gilberts Police Department, Illinois": {
+        "Latitude": 42.1056342,
+        "Longitude": -88.3756289
+    },
+    "Gillespie Police Department, Illinois": {
+        "Latitude": 39.1249137,
+        "Longitude": -89.81566529999999
+    },
+    "Gilman Police Department, Illinois": {
+        "Latitude": 40.7761465,
+        "Longitude": -87.7364218
+    },
+    "Girard Police Department, Illinois": {
+        "Latitude": 39.4452213,
+        "Longitude": -89.7778055
+    },
+    "Glasford Police Department, Illinois": {
+        "Latitude": 40.5716194,
+        "Longitude": -89.8115341
+    },
+    "Glen Carbon Police Department, Illinois": {
+        "Latitude": 38.7632694,
+        "Longitude": -89.9687684
+    },
+    "Glen Ellyn Police Department, Illinois": {
+        "Latitude": 41.8568764,
+        "Longitude": -88.06148569999999
+    },
+    "Glendale Heights Police Department, Illinois": {
+        "Latitude": 41.9191162,
+        "Longitude": -88.076911
+    },
+    "Glenview Police Department, Illinois": {
+        "Latitude": 42.0784379,
+        "Longitude": -87.8225269
+    },
+    "Glenwood Police Department, Illinois": {
+        "Latitude": 41.5450025,
+        "Longitude": -87.6134828
+    },
+    "Golden Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Golf Police Department, Illinois": {
+        "Latitude": 42.0584339,
+        "Longitude": -87.797049
+    },
+    "Goreville Police Department, Illinois": {
+        "Latitude": 37.5544953,
+        "Longitude": -88.9722932
+    },
+    "Gorham Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Governors State University Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Grafton Police Department, Illinois": {
+        "Latitude": 38.9699813,
+        "Longitude": -90.4336555
+    },
+    "Grand Ridge Police Department, Illinois": {
+        "Latitude": 41.2369791,
+        "Longitude": -88.8314652
+    },
+    "Grand Tower Police Department, Illinois": {
+        "Latitude": 37.6264388,
+        "Longitude": -89.49787429999999
+    },
+    "Grandview Police Department, Illinois": {
+        "Latitude": 39.8525933,
+        "Longitude": -89.4086968
+    },
+    "Granite City Police Department, Illinois": {
+        "Latitude": 38.7014389,
+        "Longitude": -90.14871989999999
+    },
+    "Grant Park Police Department, Illinois": {
+        "Latitude": 41.241309,
+        "Longitude": -87.6436143
+    },
+    "Grantfork Police Department, Illinois": {
+        "Latitude": 38.8300469,
+        "Longitude": -89.6656453
+    },
+    "Grayslake Police Department, Illinois": {
+        "Latitude": 42.34367659999999,
+        "Longitude": -88.039215
+    },
+    "Grayville Police Department, Illinois": {
+        "Latitude": 38.256963,
+        "Longitude": -87.994678
+    },
+    "Green Valley Police Department, Illinois": {
+        "Latitude": 40.4075731,
+        "Longitude": -89.64218819999999
+    },
+    "Greene County Sheriff's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Greenfield Police Department, Illinois": {
+        "Latitude": 39.3433539,
+        "Longitude": -90.21091430000001
+    },
+    "Greenup Police Department, Illinois": {
+        "Latitude": 39.2470392,
+        "Longitude": -88.1635718
+    },
+    "Greenview Police Department, Illinois": {
+        "Latitude": 40.0845565,
+        "Longitude": -89.73914979999999
+    },
+    "Greenville Police Department, Illinois": {
+        "Latitude": 38.8891759,
+        "Longitude": -89.41321839999999
+    },
+    "Gridley Police Department, Illinois": {
+        "Latitude": 40.7421348,
+        "Longitude": -88.8800413
+    },
+    "Griggsville Police Department, Illinois": {
+        "Latitude": 39.7089361,
+        "Longitude": -90.7245722
+    },
+    "Grundy Co Coroner's Office, Illinois": {
+        "Latitude": 41.3500531,
+        "Longitude": -88.4016041
+    },
+    "Grundy County Sheriff's Office, Illinois": {
+        "Latitude": 41.3562537,
+        "Longitude": -88.4230937
+    },
+    "Gulfport Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Gurnee Police Department, Illinois": {
+        "Latitude": 42.3609956,
+        "Longitude": -87.9152202
+    },
+    "Hainesville Police Department, Illinois": {
+        "Latitude": 42.3450219,
+        "Longitude": -88.06785800000002
+    },
+    "Hamel Police Department, Illinois": {
+        "Latitude": 38.8883314,
+        "Longitude": -89.8459845
+    },
+    "Hamilton County Sheriff's Office, Illinois": {
+        "Latitude": 38.0543187,
+        "Longitude": -88.55653099999999
+    },
+    "Hamilton Police Department, Illinois": {
+        "Latitude": 40.3928921,
+        "Longitude": -91.3450648
+    },
+    "Hampshire Police Department, Illinois": {
+        "Latitude": 42.1011786,
+        "Longitude": -88.5219412
+    },
+    "Hampton Police Department, Illinois": {
+        "Latitude": 41.5517548,
+        "Longitude": -90.4040789
+    },
+    "Hancock County Sheriff's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Hanover Park Police Department, Illinois": {
+        "Latitude": 41.9893834,
+        "Longitude": -88.1556607
+    },
+    "Hanover Police Department, Illinois": {
+        "Latitude": 41.9893834,
+        "Longitude": -88.1556607
+    },
+    "Hardin Co Coroner's Office, Illinois": {
+        "Latitude": 37.4995097,
+        "Longitude": -88.362785
+    },
+    "Hardin County Sheriff's Office, Illinois": {
+        "Latitude": 37.4474814,
+        "Longitude": -88.3047132
+    },
+    "Hardin Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Harper College Police Department, Illinois": {
+        "Latitude": 42.0815941,
+        "Longitude": -88.074388
+    },
+    "Hartford Police Department, Illinois": {
+        "Latitude": 38.8381412,
+        "Longitude": -90.095899
+    },
+    "Harvard Police Department, Illinois": {
+        "Latitude": 42.4222693,
+        "Longitude": -88.6159114
+    },
+    "Harvel Police Department, Illinois": {
+        "Latitude": 39.356123,
+        "Longitude": -89.5322612
+    },
+    "Harvey Police Department, Illinois": {
+        "Latitude": 41.6117924,
+        "Longitude": -87.67081809999999
+    },
+    "Harwood Heights Police Department, Illinois": {
+        "Latitude": 41.9642557,
+        "Longitude": -87.8097884
+    },
+    "Hawthorn Woods Police Department, Illinois": {
+        "Latitude": 42.217748,
+        "Longitude": -88.0537673
+    },
+    "Hawthorne Park District Police Department, Illinois": {
+        "Latitude": 41.8396531,
+        "Longitude": -87.7540913
+    },
+    "Hazel Crest Police Department, Illinois": {
+        "Latitude": 41.571701,
+        "Longitude": -87.6944915
+    },
+    "Hebron Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Henderson County Sheriff's Office, Illinois": {
+        "Latitude": 40.9349772,
+        "Longitude": -90.9534582
+    },
+    "Henning Police Department, Illinois": {
+        "Latitude": 40.1311857,
+        "Longitude": -87.62895329999999
+    },
+    "Henry County Sheriff's Office, Illinois": {
+        "Latitude": 41.3022824,
+        "Longitude": -90.1976474
+    },
+    "Henry Police Department, Illinois": {
+        "Latitude": 41.110045,
+        "Longitude": -89.3667308
+    },
+    "Herrick Police Department, Illinois": {
+        "Latitude": 39.2203197,
+        "Longitude": -88.9845172
+    },
+    "Herrin Police Department, Illinois": {
+        "Latitude": 37.8059689,
+        "Longitude": -89.0267161
+    },
+    "Herscher Police Department, Illinois": {
+        "Latitude": 41.0513416,
+        "Longitude": -88.0953615
+    },
+    "Heyworth Police Department, Illinois": {
+        "Latitude": 40.3140904,
+        "Longitude": -88.977614
+    },
+    "Highland Park Police Department, Illinois": {
+        "Latitude": 42.17406460000001,
+        "Longitude": -87.82231139999999
+    },
+    "Highland Police Department, Illinois": {
+        "Latitude": 38.7416545,
+        "Longitude": -89.68443870000002
+    },
+    "Highwood Police Department, Illinois": {
+        "Latitude": 42.2013402,
+        "Longitude": -87.8089451
+    },
+    "Hillcrest Police Department, Illinois": {
+        "Latitude": 41.9511398,
+        "Longitude": -89.0645413
+    },
+    "Hillsboro Police Department, Illinois": {
+        "Latitude": 39.1575394,
+        "Longitude": -89.4932908
+    },
+    "Hillsdale Police Department, Illinois": {
+        "Latitude": 41.6138516,
+        "Longitude": -90.17438659999999
+    },
+    "Hillside Police Department, Illinois": {
+        "Latitude": 41.87768579999999,
+        "Longitude": -87.9072944
+    },
+    "Hinckley Police Department, Illinois": {
+        "Latitude": 41.7689102,
+        "Longitude": -88.6312335
+    },
+    "Hodgkins Police Department, Illinois": {
+        "Latitude": 41.7827686,
+        "Longitude": -87.8567341
+    },
+    "Holiday Hills Police Department, Illinois": {
+        "Latitude": 42.2953033,
+        "Longitude": -88.2221232
+    },
+    "Homer Police Department, Illinois": {
+        "Latitude": 40.0383613,
+        "Longitude": -87.9520041
+    },
+    "Hometown Police Department, Illinois": {
+        "Latitude": 41.728373,
+        "Longitude": -87.7302438
+    },
+    "Homewood Police Department, Illinois": {
+        "Latitude": 41.5630752,
+        "Longitude": -87.6656514
+    },
+    "Hoopeston Police Department, Illinois": {
+        "Latitude": 40.4672587,
+        "Longitude": -87.6683573
+    },
+    "Hopedale Police Department, Illinois": {
+        "Latitude": 40.4208735,
+        "Longitude": -89.41454039999999
+    },
+    "Hopkins Park Police Department, Illinois": {
+        "Latitude": 41.06336659999999,
+        "Longitude": -87.6250348
+    },
+    "Hudson Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Huntley Police Department, Illinois": {
+        "Latitude": 42.1675645,
+        "Longitude": -88.41004699999999
+    },
+    "Hurst Police Department, Illinois": {
+        "Latitude": 37.8291012,
+        "Longitude": -89.14416159999999
+    },
+    "Hutsonville Police Department, Illinois": {
+        "Latitude": 39.1094852,
+        "Longitude": -87.6564145
+    },
+    "Iletsb, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Illinois Attorney General, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Illinois Central College Police Department, Illinois": {
+        "Latitude": 40.7060346,
+        "Longitude": -89.5208394
+    },
+    "Illinois Commerce Commission Police, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Illinois Department Of Corrections, Illinois": {
+        "Latitude": 39.5982023,
+        "Longitude": -90.84440359999999
+    },
+    "Illinois Department Of Fin. And Profess Reg, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Illinois Department Of Natural Resources, Illinois": {
+        "Latitude": 39.8403408,
+        "Longitude": -89.6466063
+    },
+    "Illinois Department Of Revenue, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Illinois Gaming Board Police, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Illinois State Police, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Illinois State University Police, Illinois": {
+        "Latitude": 40.5102755,
+        "Longitude": -89.0001561
+    },
+    "Illiopolis Police Department, Illinois": {
+        "Latitude": 39.8536535,
+        "Longitude": -89.2420291
+    },
+    "Ina Police Department, Illinois": {
+        "Latitude": 38.1511606,
+        "Longitude": -88.9039554
+    },
+    "Indian Head Park Police Department, Illinois": {
+        "Latitude": 41.7698632,
+        "Longitude": -87.89696649999999
+    },
+    "Indianola Police Department, Illinois": {
+        "Latitude": 39.92725799999999,
+        "Longitude": -87.74002500000002
+    },
+    "Iroquois Co Coroner's Office, Illinois": {
+        "Latitude": 40.7740275,
+        "Longitude": -87.697554
+    },
+    "Iroquois County Sheriff's Office, Illinois": {
+        "Latitude": 40.7718443,
+        "Longitude": -87.718228
+    },
+    "Irving Police Department, Illinois": {
+        "Latitude": 39.1699825,
+        "Longitude": -89.4793763
+    },
+    "Irvington Police Department, Illinois": {
+        "Latitude": 38.4387353,
+        "Longitude": -89.15970019999999
+    },
+    "Island Lake Police Department, Illinois": {
+        "Latitude": 42.2761341,
+        "Longitude": -88.19202720000001
+    },
+    "Jackson County Sheriff's Office, Illinois": {
+        "Latitude": 37.762586,
+        "Longitude": -89.33481590000001
+    },
+    "Jacksonville Police Department, Illinois": {
+        "Latitude": 39.7364029,
+        "Longitude": -90.2306899
+    },
+    "Jasper County Sheriff's Office, Illinois": {
+        "Latitude": 38.99170549999999,
+        "Longitude": -88.1601941
+    },
+    "Jefferson County Sheriff's Office, Illinois": {
+        "Latitude": 38.3142597,
+        "Longitude": -88.9026743
+    },
+    "Jerome Police Department, Illinois": {
+        "Latitude": 39.7677829,
+        "Longitude": -89.681338
+    },
+    "Jersey County Sheriff's Office, Illinois": {
+        "Latitude": 39.1195051,
+        "Longitude": -90.3291002
+    },
+    "Jo Daviess County Sheriff's Office, Illinois": {
+        "Latitude": 42.41850729999999,
+        "Longitude": -90.42587569999999
+    },
+    "John A Logan College Police Department, Illinois": {
+        "Latitude": 37.7484016,
+        "Longitude": -89.0911838
+    },
+    "Johnsburg Police Department, Illinois": {
+        "Latitude": 42.3800209,
+        "Longitude": -88.2420315
+    },
+    "Johnson Co Coroner's Office, Illinois": {
+        "Latitude": 37.42037639999999,
+        "Longitude": -88.90306
+    },
+    "Johnson County Sheriff's Office, Illinois": {
+        "Latitude": 37.4147699,
+        "Longitude": -88.8981008
+    },
+    "Johnston City Police Department, Illinois": {
+        "Latitude": 37.8168962,
+        "Longitude": -88.928328
+    },
+    "Joliet Junior College Police Department, Illinois": {
+        "Latitude": 41.5042347,
+        "Longitude": -88.1796749
+    },
+    "Joliet Police Department, Illinois": {
+        "Latitude": 41.5234428,
+        "Longitude": -88.08529770000001
+    },
+    "Jonesboro Police Department, Illinois": {
+        "Latitude": 37.4521836,
+        "Longitude": -89.2685326
+    },
+    "Joppa Police Department, Illinois": {
+        "Latitude": 37.152747,
+        "Longitude": -88.7332342
+    },
+    "Joy Police Department, Illinois": {
+        "Latitude": 41.19639919999999,
+        "Longitude": -90.88047139999999
+    },
+    "Junction City Police Department, Illinois": {
+        "Latitude": 38.5803267,
+        "Longitude": -89.1278468
+    },
+    "Justice Police Department, Illinois": {
+        "Latitude": 41.7497328,
+        "Longitude": -87.83937689999999
+    },
+    "Kane Co Coroner's Office, Illinois": {
+        "Latitude": 41.987884,
+        "Longitude": -88.4016041
+    },
+    "Kane Co Forest Pres Police Department, Illinois": {
+        "Latitude": 41.987884,
+        "Longitude": -88.4016041
+    },
+    "Kane County Sheriff's Office, Illinois": {
+        "Latitude": 41.9002091,
+        "Longitude": -88.3559861
+    },
+    "Kankakee Community College Police, Illinois": {
+        "Latitude": 41.0985076,
+        "Longitude": -87.8504829
+    },
+    "Kankakee County Sheriff's Office, Illinois": {
+        "Latitude": 41.076386,
+        "Longitude": -87.85793579999999
+    },
+    "Kankakee Police Department, Illinois": {
+        "Latitude": 41.1214851,
+        "Longitude": -87.861147
+    },
+    "Kansas Police Department, Illinois": {
+        "Latitude": 39.5527768,
+        "Longitude": -87.9397884
+    },
+    "Kappa Police Department, Illinois": {
+        "Latitude": 40.67586860000001,
+        "Longitude": -89.007852
+    },
+    "Karnak Police Department, Illinois": {
+        "Latitude": 37.2934815,
+        "Longitude": -88.97343529999999
+    },
+    "Keithsburg Police Department, Illinois": {
+        "Latitude": 41.0981111,
+        "Longitude": -90.93159200000001
+    },
+    "Kendall Co Coroner's Office, Illinois": {
+        "Latitude": 41.5507043,
+        "Longitude": -88.4403883
+    },
+    "Kendall County Sheriff's Office, Illinois": {
+        "Latitude": 41.5507043,
+        "Longitude": -88.4403883
+    },
+    "Kenilworth Police Department, Illinois": {
+        "Latitude": 42.085862,
+        "Longitude": -87.71756069999999
+    },
+    "Kewanee Park District Police Department, Illinois": {
+        "Latitude": 41.2566977,
+        "Longitude": -89.93494030000001
+    },
+    "Kewanee Police Department, Illinois": {
+        "Latitude": 41.2452737,
+        "Longitude": -89.920068
+    },
+    "Keyesport Police Department, Illinois": {
+        "Latitude": 38.7419922,
+        "Longitude": -89.2736838
+    },
+    "Kilbourne Police Department, Illinois": {
+        "Latitude": 40.1519897,
+        "Longitude": -90.0101153
+    },
+    "Kildeer Police Department, Illinois": {
+        "Latitude": 42.1740313,
+        "Longitude": -88.0577698
+    },
+    "Kingston Police Department, Illinois": {
+        "Latitude": 42.1002769,
+        "Longitude": -88.7589074
+    },
+    "Kirkland Police Department, Illinois": {
+        "Latitude": 42.0928714,
+        "Longitude": -88.8502039
+    },
+    "Knox County Sheriff's Office, Illinois": {
+        "Latitude": 40.8776411,
+        "Longitude": -90.2244662
+    },
+    "Knoxville Police Department, Illinois": {
+        "Latitude": 40.9082483,
+        "Longitude": -90.2845281
+    },
+    "La Grange Park Police Department, Illinois": {
+        "Latitude": 41.8347535,
+        "Longitude": -87.86172599999999
+    },
+    "La Grange Police Department, Illinois": {
+        "Latitude": 41.8148334,
+        "Longitude": -87.8735621
+    },
+    "Lacon Police Department, Illinois": {
+        "Latitude": 41.0244842,
+        "Longitude": -89.40828259999999
+    },
+    "Ladd Police Department, Illinois": {
+        "Latitude": 41.383582,
+        "Longitude": -89.219163
+    },
+    "Laharpe Police Department, Illinois": {
+        "Latitude": 40.5833272,
+        "Longitude": -90.9671656
+    },
+    "Lake Bluff Police Department, Illinois": {
+        "Latitude": 42.278554,
+        "Longitude": -87.84465449999999
+    },
+    "Lake Co Coroner's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Lake Co Forest Pres Police Department, Illinois": {
+        "Latitude": 42.2904579,
+        "Longitude": -87.6186379
+    },
+    "Lake Co Sheriff Offc. Marine Unit, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Lake Co State's Attorney, Illinois": {
+        "Latitude": 42.2904579,
+        "Longitude": -87.6186379
+    },
+    "Lake County Sheriff's Office, Illinois": {
+        "Latitude": 42.3584304,
+        "Longitude": -87.8335764
+    },
+    "Lake Forest Police Department, Illinois": {
+        "Latitude": 42.2477673,
+        "Longitude": -87.8528596
+    },
+    "Lake In The Hills Police Department, Illinois": {
+        "Latitude": 42.18711649999999,
+        "Longitude": -88.330829
+    },
+    "Lake Villa Police Department, Illinois": {
+        "Latitude": 42.4161399,
+        "Longitude": -88.08117779999999
+    },
+    "Lake Zurich Police Department, Illinois": {
+        "Latitude": 42.194194,
+        "Longitude": -88.085651
+    },
+    "Lakemoor Police Department, Illinois": {
+        "Latitude": 42.3255484,
+        "Longitude": -88.1894164
+    },
+    "Lakewood Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Lanark Police Department, Illinois": {
+        "Latitude": 42.1016279,
+        "Longitude": -89.8327655
+    },
+    "Lasalle County Sheriff's Office, Illinois": {
+        "Latitude": 41.4363987,
+        "Longitude": -88.94138650000001
+    },
+    "Lawrence Co Coroner's Office, Illinois": {
+        "Latitude": 38.7157534,
+        "Longitude": -87.77633329999999
+    },
+    "Lawrence County Sheriff's Office, Illinois": {
+        "Latitude": 38.7157534,
+        "Longitude": -87.77633329999999
+    },
+    "Lawrenceville Police Department, Illinois": {
+        "Latitude": 38.7291452,
+        "Longitude": -87.6782987
+    },
+    "Lebanon Police Department, Illinois": {
+        "Latitude": 38.6041248,
+        "Longitude": -89.8119597
+    },
+    "Lee Co State's Attorney, Illinois": {
+        "Latitude": 41.8412792,
+        "Longitude": -89.48203869999999
+    },
+    "Leland Grove Police Department, Illinois": {
+        "Latitude": 39.7777286,
+        "Longitude": -89.6862589
+    },
+    "Leland Police Department, Illinois": {
+        "Latitude": 41.6142603,
+        "Longitude": -88.79900769999999
+    },
+    "Lemont Police Department, Illinois": {
+        "Latitude": 41.6567591,
+        "Longitude": -87.9755244
+    },
+    "Lena Police Department, Illinois": {
+        "Latitude": 42.3791774,
+        "Longitude": -89.82481899999999
+    },
+    "Lenzburg Police Department, Illinois": {
+        "Latitude": 38.2872709,
+        "Longitude": -89.8173228
+    },
+    "Leroy Police Department, Illinois": {
+        "Latitude": 40.3465081,
+        "Longitude": -88.7591464
+    },
+    "Lewistown Police Department, Illinois": {
+        "Latitude": 40.3964449,
+        "Longitude": -90.15607469999999
+    },
+    "Lexington Police Department, Illinois": {
+        "Latitude": 40.6422543,
+        "Longitude": -88.7842775
+    },
+    "Lincoln Land Community College, Illinois": {
+        "Latitude": 39.72035109999999,
+        "Longitude": -89.6120151
+    },
+    "Lincoln Police Department, Illinois": {
+        "Latitude": 40.14742210000001,
+        "Longitude": -89.3784895
+    },
+    "Lincolnshire Police Department, Illinois": {
+        "Latitude": 42.20080189999999,
+        "Longitude": -87.92642029999999
+    },
+    "Lincolnwood Police Department, Illinois": {
+        "Latitude": 42.0067528,
+        "Longitude": -87.7338583
+    },
+    "Lindenhurst Police Department, Illinois": {
+        "Latitude": 42.4059727,
+        "Longitude": -88.0261474
+    },
+    "Lisle Police Department, Illinois": {
+        "Latitude": 41.7936898,
+        "Longitude": -88.07730629999999
+    },
+    "Livingston County Sheriff's Office, Illinois": {
+        "Latitude": 40.8688604,
+        "Longitude": -88.55653099999999
+    },
+    "Livingston Police Department, Illinois": {
+        "Latitude": 38.9674203,
+        "Longitude": -89.76452599999999
+    },
+    "Loami Police Department, Illinois": {
+        "Latitude": 39.8525933,
+        "Longitude": -89.4086968
+    },
+    "Lockport Township Park District Police, Illinois": {
+        "Latitude": 41.57774209999999,
+        "Longitude": -88.055619
+    },
+    "Logan Co Coroner's Office, Illinois": {
+        "Latitude": 40.061338,
+        "Longitude": -89.3226954
+    },
+    "Logan Co State's Attorney, Illinois": {
+        "Latitude": 40.1458514,
+        "Longitude": -89.3615346
+    },
+    "Logan County Sheriff's Office, Illinois": {
+        "Latitude": 40.061338,
+        "Longitude": -89.3226954
+    },
+    "Lombard Police Department, Illinois": {
+        "Latitude": 41.8670193,
+        "Longitude": -88.0121762
+    },
+    "London Mills Police Department, Illinois": {
+        "Latitude": 40.7105947,
+        "Longitude": -90.2662354
+    },
+    "Lostant Police Department, Illinois": {
+        "Latitude": 41.1428134,
+        "Longitude": -89.06005739999999
+    },
+    "Lovington Police Department, Illinois": {
+        "Latitude": 39.7156618,
+        "Longitude": -88.63238319999999
+    },
+    "Loyola University Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Ludlow Police Department, Illinois": {
+        "Latitude": 40.3861845,
+        "Longitude": -88.1257062
+    },
+    "Lynwood Police Department, Illinois": {
+        "Latitude": 41.5052025,
+        "Longitude": -87.5333101
+    },
+    "Lyons Police Department, Illinois": {
+        "Latitude": 41.813953,
+        "Longitude": -87.82632009999999
+    },
+    "Macomb Police Department, Illinois": {
+        "Latitude": 40.4583513,
+        "Longitude": -90.67352439999999
+    },
+    "Macon County Sheriff's Office, Illinois": {
+        "Latitude": 39.8949055,
+        "Longitude": -89.0179332
+    },
+    "Macoupin County Sheriff's Office, Illinois": {
+        "Latitude": 39.2779245,
+        "Longitude": -89.8798782
+    },
+    "Madison County Sheriff's Office, Illinois": {
+        "Latitude": 38.812169,
+        "Longitude": -89.95946430000001
+    },
+    "Mahomet Police Department, Illinois": {
+        "Latitude": 40.1916118,
+        "Longitude": -88.4049708
+    },
+    "Malta Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Manhattan Police Department, Illinois": {
+        "Latitude": 41.4333109,
+        "Longitude": -87.9949869
+    },
+    "Manito Police Department, Illinois": {
+        "Latitude": 40.425678,
+        "Longitude": -89.78077309999999
+    },
+    "Mansfield Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Manteno Police Department, Illinois": {
+        "Latitude": 41.2499708,
+        "Longitude": -87.8444445
+    },
+    "Maple Park Police Department, Illinois": {
+        "Latitude": 41.9058841,
+        "Longitude": -88.60001700000001
+    },
+    "Marengo Police Department, Illinois": {
+        "Latitude": 42.2500139,
+        "Longitude": -88.60686079999999
+    },
+    "Marine Police Department, Illinois": {
+        "Latitude": 38.7896248,
+        "Longitude": -89.77884619999999
+    },
+    "Marion County Sheriff's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Marissa Police Department, Illinois": {
+        "Latitude": 38.2569681,
+        "Longitude": -89.75426809999999
+    },
+    "Markham Park District Police Department, Illinois": {
+        "Latitude": 41.5982154,
+        "Longitude": -87.6857959
+    },
+    "Markham Police Department, Illinois": {
+        "Latitude": 41.5931341,
+        "Longitude": -87.693871
+    },
+    "Maroa Police Department, Illinois": {
+        "Latitude": 40.0356153,
+        "Longitude": -88.95049019999999
+    },
+    "Marquette Heights Police Department, Illinois": {
+        "Latitude": 40.6170628,
+        "Longitude": -89.602567
+    },
+    "Marseilles Police Department, Illinois": {
+        "Latitude": 41.3278174,
+        "Longitude": -88.706767
+    },
+    "Marshall County Sheriff's Office, Illinois": {
+        "Latitude": 41.0249801,
+        "Longitude": -89.40697399999999
+    },
+    "Martinsville Police Department, Illinois": {
+        "Latitude": 39.3329069,
+        "Longitude": -87.8829701
+    },
+    "Maryville Police Department, Illinois": {
+        "Latitude": 38.7279852,
+        "Longitude": -89.9545505
+    },
+    "Mascoutah Police Department, Illinois": {
+        "Latitude": 38.4905428,
+        "Longitude": -89.7977507
+    },
+    "Mason City Police Department, Illinois": {
+        "Latitude": 40.2016067,
+        "Longitude": -89.69761109999999
+    },
+    "Mason Co State's Attorney, Illinois": {
+        "Latitude": 40.3015898,
+        "Longitude": -90.06121949999999
+    },
+    "Mason County Sheriff's Office, Illinois": {
+        "Latitude": 40.2271003,
+        "Longitude": -89.9253233
+    },
+    "Massac Co Coroner's Office, Illinois": {
+        "Latitude": 37.2478298,
+        "Longitude": -88.7493998
+    },
+    "Massac County Sheriff's Office, Illinois": {
+        "Latitude": 37.1526424,
+        "Longitude": -88.73320950000002
+    },
+    "Matteson Police Department, Illinois": {
+        "Latitude": 41.5176265,
+        "Longitude": -87.73335689999999
+    },
+    "Mattoon Police Department, Illinois": {
+        "Latitude": 39.4805943,
+        "Longitude": -88.37550580000001
+    },
+    "Maywood Park District Police Department, Illinois": {
+        "Latitude": 41.8793507,
+        "Longitude": -87.8434564
+    },
+    "Maywood Police Department, Illinois": {
+        "Latitude": 41.8865492,
+        "Longitude": -87.8388021
+    },
+    "Mccook Police Department, Illinois": {
+        "Latitude": 41.8011144,
+        "Longitude": -87.8324874
+    },
+    "Mccullom Lake Police Department, Illinois": {
+        "Latitude": 42.3661463,
+        "Longitude": -88.29162889999999
+    },
+    "Mcdonough County Sheriff's Office, Illinois": {
+        "Latitude": 40.4583513,
+        "Longitude": -90.67352439999999
+    },
+    "Mchenry Co State's Attorney, Illinois": {
+        "Latitude": 42.3404544,
+        "Longitude": -88.4408969
+    },
+    "Mchenry County Sheriff's Office, Illinois": {
+        "Latitude": 42.3405518,
+        "Longitude": -88.440393
+    },
+    "Mchenry Police Department, Illinois": {
+        "Latitude": 42.34060239999999,
+        "Longitude": -88.26013080000001
+    },
+    "Mckendree University Public Safety, Illinois": {
+        "Latitude": 38.6088113,
+        "Longitude": -89.8146127
+    },
+    "Mclean County Sheriff's Office, Illinois": {
+        "Latitude": 40.4775471,
+        "Longitude": -88.9941394
+    },
+    "Mclean Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Mcleansboro Police Department, Illinois": {
+        "Latitude": 38.0930585,
+        "Longitude": -88.53698229999999
+    },
+    "Melrose Park Police Department, Illinois": {
+        "Latitude": 41.89065069999999,
+        "Longitude": -87.85628539999999
+    },
+    "Memorial Park District Police Department, Illinois": {
+        "Latitude": 41.8823782,
+        "Longitude": -87.87085619999999
+    },
+    "Menard County Sheriff's Office, Illinois": {
+        "Latitude": 40.0107899,
+        "Longitude": -89.84913139999999
+    },
+    "Mendota Police Department, Illinois": {
+        "Latitude": 41.5470143,
+        "Longitude": -89.1196978
+    },
+    "Mercer Co Coroner's Office, Illinois": {
+        "Latitude": 41.1985037,
+        "Longitude": -90.6773046
+    },
+    "Mercer County Sheriff's Office, Illinois": {
+        "Latitude": 41.19952929999999,
+        "Longitude": -90.7591896
+    },
+    "Meredosia Police Department, Illinois": {
+        "Latitude": 39.8304165,
+        "Longitude": -90.5605145
+    },
+    "Merrionette Park Police Department, Illinois": {
+        "Latitude": 41.6790084,
+        "Longitude": -87.7009559
+    },
+    "Metamora Police Department, Illinois": {
+        "Latitude": 40.790627,
+        "Longitude": -89.361611
+    },
+    "Metra Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Metro Water Reclamation District Of, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Metropolis Police Department, Illinois": {
+        "Latitude": 37.1581413,
+        "Longitude": -88.73086649999999
+    },
+    "Metropolitan Airport Authority Police, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Midlothian Police Department, Illinois": {
+        "Latitude": 41.6234855,
+        "Longitude": -87.7172241
+    },
+    "Milan Police Department, Illinois": {
+        "Latitude": 41.449506,
+        "Longitude": -90.5659996
+    },
+    "Milford Police Department, Illinois": {
+        "Latitude": 40.6285096,
+        "Longitude": -87.6950524
+    },
+    "Milledgeville Police Department, Illinois": {
+        "Latitude": 41.9633615,
+        "Longitude": -89.7745604
+    },
+    "Millstadt Police Department, Illinois": {
+        "Latitude": 38.45961399999999,
+        "Longitude": -90.09335159999999
+    },
+    "Minier Police Department, Illinois": {
+        "Latitude": 40.4336504,
+        "Longitude": -89.3131465
+    },
+    "Minonk Police Department, Illinois": {
+        "Latitude": 40.9038526,
+        "Longitude": -89.03425829999999
+    },
+    "Minooka Police Department, Illinois": {
+        "Latitude": 41.4487447,
+        "Longitude": -88.2604351
+    },
+    "Mokena Police Department, Illinois": {
+        "Latitude": 41.5428364,
+        "Longitude": -87.86827249999999
+    },
+    "Moline Police Department, Illinois": {
+        "Latitude": 41.505523,
+        "Longitude": -90.5129618
+    },
+    "Momence Police Department, Illinois": {
+        "Latitude": 41.1630135,
+        "Longitude": -87.6620143
+    },
+    "Monee Police Department, Illinois": {
+        "Latitude": 41.420034,
+        "Longitude": -87.7417114
+    },
+    "Monmouth Police Department, Illinois": {
+        "Latitude": 40.90735100000001,
+        "Longitude": -90.64896159999999
+    },
+    "Monroe Co Coroner's Office, Illinois": {
+        "Latitude": 38.2742526,
+        "Longitude": -90.1869644
+    },
+    "Monroe County Sheriff's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Montgomery County Sheriff's Office, Illinois": {
+        "Latitude": 39.2363688,
+        "Longitude": -89.4742177
+    },
+    "Montgomery Police Department, Illinois": {
+        "Latitude": 41.7242439,
+        "Longitude": -88.3874472
+    },
+    "Monticello Police Department, Illinois": {
+        "Latitude": 40.026899,
+        "Longitude": -88.5694826
+    },
+    "Moraine Valley C C Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Morgan County Sheriff's Office, Illinois": {
+        "Latitude": 39.7352526,
+        "Longitude": -90.2318689
+    },
+    "Morris Police Department, Illinois": {
+        "Latitude": 41.3624747,
+        "Longitude": -88.42228829999999
+    },
+    "Morrison Police Department, Illinois": {
+        "Latitude": 41.8099279,
+        "Longitude": -89.9680419
+    },
+    "Morrisonville Police Department, Illinois": {
+        "Latitude": 39.5476489,
+        "Longitude": -89.29802049999999
+    },
+    "Morton College Police Department, Illinois": {
+        "Latitude": 41.8242401,
+        "Longitude": -87.76227589999999
+    },
+    "Morton Grove Park District Police Department, Illinois": {
+        "Latitude": 42.041653,
+        "Longitude": -87.796978
+    },
+    "Morton Grove Police Department, Illinois": {
+        "Latitude": 42.0378672,
+        "Longitude": -87.7790268
+    },
+    "Morton Police Department, Illinois": {
+        "Latitude": 40.605784,
+        "Longitude": -89.4726889
+    },
+    "Moultrie County Sheriff's Office, Illinois": {
+        "Latitude": 39.6077214,
+        "Longitude": -88.6306936
+    },
+    "Mound City Police Department, Illinois": {
+        "Latitude": 37.0853291,
+        "Longitude": -89.1625731
+    },
+    "Mounds Police Department, Illinois": {
+        "Latitude": 37.1142176,
+        "Longitude": -89.197853
+    },
+    "Mount Auburn Police Department, Illinois": {
+        "Latitude": 39.766154,
+        "Longitude": -89.26174879999999
+    },
+    "Mount Carmel Police Department, Illinois": {
+        "Latitude": 38.4108801,
+        "Longitude": -87.7614174
+    },
+    "Mount Carroll Police Department, Illinois": {
+        "Latitude": 42.0950233,
+        "Longitude": -89.9781797
+    },
+    "Mount Morris Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Mount Olive Police Department, Illinois": {
+        "Latitude": 39.07226900000001,
+        "Longitude": -89.7273148
+    },
+    "Mount Pulaski Police Department, Illinois": {
+        "Latitude": 40.008546,
+        "Longitude": -89.2838398
+    },
+    "Mount Sterling Police Department, Illinois": {
+        "Latitude": 39.9872707,
+        "Longitude": -90.763463
+    },
+    "Mount Vernon Police Department, Illinois": {
+        "Latitude": 38.3169269,
+        "Longitude": -88.90362239999999
+    },
+    "Mount Zion Police Department, Illinois": {
+        "Latitude": 39.7714252,
+        "Longitude": -88.8742405
+    },
+    "Moweaqua Police Department, Illinois": {
+        "Latitude": 39.6257313,
+        "Longitude": -89.0194795
+    },
+    "Mulberry Grove Police Department, Illinois": {
+        "Latitude": 38.92504599999999,
+        "Longitude": -89.2689626
+    },
+    "Mundelein Park District Police Department, Illinois": {
+        "Latitude": 42.2858382,
+        "Longitude": -88.0174205
+    },
+    "Mundelein Police Department, Illinois": {
+        "Latitude": 42.2669562,
+        "Longitude": -88.0036775
+    },
+    "Murphysboro Police Department, Illinois": {
+        "Latitude": 37.7657822,
+        "Longitude": -89.3348872
+    },
+    "Murrayville Police Department, Illinois": {
+        "Latitude": 39.5856024,
+        "Longitude": -90.25206449999999
+    },
+    "Naperville Park District Police Department, Illinois": {
+        "Latitude": 41.7509859,
+        "Longitude": -88.1535746
+    },
+    "Naperville Police Department, Illinois": {
+        "Latitude": 41.7649293,
+        "Longitude": -88.176951
+    },
+    "Naplate Police Department, Illinois": {
+        "Latitude": 41.3336449,
+        "Longitude": -88.8781334
+    },
+    "Nashville Police Department, Illinois": {
+        "Latitude": 38.33760669999999,
+        "Longitude": -89.38114399999999
+    },
+    "Nauvoo Police Department, Illinois": {
+        "Latitude": 40.550433,
+        "Longitude": -91.38321619999999
+    },
+    "Neoga Police Department, Illinois": {
+        "Latitude": 39.3186961,
+        "Longitude": -88.4539671
+    },
+    "New Athens Police Department, Illinois": {
+        "Latitude": 38.317827,
+        "Longitude": -89.87174
+    },
+    "New Baden Police Department, Illinois": {
+        "Latitude": 38.5353915,
+        "Longitude": -89.69906089999999
+    },
+    "New Berlin Police Department, Illinois": {
+        "Latitude": 39.7246354,
+        "Longitude": -89.91024430000002
+    },
+    "New Boston Police Department, Illinois": {
+        "Latitude": 41.1703108,
+        "Longitude": -90.99681129999999
+    },
+    "New Lenox Police Department, Illinois": {
+        "Latitude": 41.5149206,
+        "Longitude": -87.9789747
+    },
+    "New Windsor Police Department, Illinois": {
+        "Latitude": 41.2031904,
+        "Longitude": -90.44089029999999
+    },
+    "Newman Police Department, Illinois": {
+        "Latitude": 39.7963888,
+        "Longitude": -87.9877748
+    },
+    "Newton Police Department, Illinois": {
+        "Latitude": 38.9915757,
+        "Longitude": -88.1610192
+    },
+    "Niantic Police Department, Illinois": {
+        "Latitude": 39.85392969999999,
+        "Longitude": -89.16619419999999
+    },
+    "Niles Police Department, Illinois": {
+        "Latitude": 42.0120182,
+        "Longitude": -87.8019297
+    },
+    "Nilwood Police Department, Illinois": {
+        "Latitude": 39.3981062,
+        "Longitude": -89.8087086
+    },
+    "Nokomis Police Department, Illinois": {
+        "Latitude": 39.3001137,
+        "Longitude": -89.2877965
+    },
+    "Norfolk Southern Railroad Police, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Normal Police Department, Illinois": {
+        "Latitude": 40.507324,
+        "Longitude": -88.98353329999999
+    },
+    "Norridge Police Department, Illinois": {
+        "Latitude": 41.9537337,
+        "Longitude": -87.8149023
+    },
+    "Norris City Police Department, Illinois": {
+        "Latitude": 37.9777001,
+        "Longitude": -88.3290628
+    },
+    "North Aurora Police Department, Illinois": {
+        "Latitude": 41.79910659999999,
+        "Longitude": -88.3255502
+    },
+    "North Chicago Police Department, Illinois": {
+        "Latitude": 42.3254019,
+        "Longitude": -87.85675049999999
+    },
+    "North Pekin Police Department, Illinois": {
+        "Latitude": 40.6207835,
+        "Longitude": -89.61965939999999
+    },
+    "North Riverside Police Department, Illinois": {
+        "Latitude": 41.8464993,
+        "Longitude": -87.82158489999999
+    },
+    "North Utica Police Department, Illinois": {
+        "Latitude": 41.341412,
+        "Longitude": -89.009716
+    },
+    "Northbrook Police Department, Illinois": {
+        "Latitude": 42.1269194,
+        "Longitude": -87.8574871
+    },
+    "Northeastern Illinois University Police Department, Illinois": {
+        "Latitude": 41.9828785,
+        "Longitude": -87.7198129
+    },
+    "Northern Illinois University Police, Illinois": {
+        "Latitude": 41.9360826,
+        "Longitude": -88.7645433
+    },
+    "Northlake Police Department, Illinois": {
+        "Latitude": 41.9060736,
+        "Longitude": -87.90133689999999
+    },
+    "Northwestern University Police Department, Illinois": {
+        "Latitude": 42.0564594,
+        "Longitude": -87.67526699999999
+    },
+    "Norwood Police Department, Illinois": {
+        "Latitude": 40.6809459,
+        "Longitude": -89.6027948
+    },
+    "Oak Brook Police Department, Illinois": {
+        "Latitude": 41.8332457,
+        "Longitude": -87.9472571
+    },
+    "Oak Forest Health Centr Public. Safety, Illinois": {
+        "Latitude": 41.6028116,
+        "Longitude": -87.74393839999999
+    },
+    "Oak Forest Park District Police Department, Illinois": {
+        "Latitude": 41.6073746,
+        "Longitude": -87.75530719999999
+    },
+    "Oak Park Police Department, Illinois": {
+        "Latitude": 41.8793525,
+        "Longitude": -87.77885289999999
+    },
+    "Oakbrook Terrace Police Department, Illinois": {
+        "Latitude": 41.8540315,
+        "Longitude": -87.9646133
+    },
+    "Oakland Police Department, Illinois": {
+        "Latitude": 39.6550189,
+        "Longitude": -88.0267027
+    },
+    "Oakton C C Public Safety Department, Illinois": {
+        "Latitude": 42.0633874,
+        "Longitude": -87.8802084
+    },
+    "Oakwood Hills Police Department, Illinois": {
+        "Latitude": 42.2464123,
+        "Longitude": -88.24286149999999
+    },
+    "Oakwood Police Department, Illinois": {
+        "Latitude": 40.1311857,
+        "Longitude": -87.62895329999999
+    },
+    "Oblong Police Department, Illinois": {
+        "Latitude": 39.0006613,
+        "Longitude": -87.9091778
+    },
+    "Odin Police Department, Illinois": {
+        "Latitude": 38.617204,
+        "Longitude": -89.0534349
+    },
+    "Ogden Police Department, Illinois": {
+        "Latitude": 40.1311857,
+        "Longitude": -87.62895329999999
+    },
+    "Ogle County Sheriff's Office, Illinois": {
+        "Latitude": 42.0129207,
+        "Longitude": -89.3291756
+    },
+    "Okawville Police Department, Illinois": {
+        "Latitude": 38.137828,
+        "Longitude": -89.2300807
+    },
+    "Olmsted Police Department, Illinois": {
+        "Latitude": 37.1815467,
+        "Longitude": -89.0882611
+    },
+    "Olympia Fields Police Department, Illinois": {
+        "Latitude": 41.5251361,
+        "Longitude": -87.7016679
+    },
+    "Oquawka Police Department, Illinois": {
+        "Latitude": 40.9334817,
+        "Longitude": -90.9516898
+    },
+    "Oregon Police Department, Illinois": {
+        "Latitude": 42.0152363,
+        "Longitude": -89.3309474
+    },
+    "Orion Police Department, Illinois": {
+        "Latitude": 41.3525666,
+        "Longitude": -90.3817794
+    },
+    "Orland Hills Police Department, Illinois": {
+        "Latitude": 41.5983166,
+        "Longitude": -87.8472808
+    },
+    "Orland Park Police Department, Illinois": {
+        "Latitude": 41.6153495,
+        "Longitude": -87.8573493
+    },
+    "Oswego Police Department, Illinois": {
+        "Latitude": 41.6723829,
+        "Longitude": -88.3262888
+    },
+    "Ottawa Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Palestine Police Department, Illinois": {
+        "Latitude": 39.0036537,
+        "Longitude": -87.612802
+    },
+    "Palmyra Police Department, Illinois": {
+        "Latitude": 39.4342801,
+        "Longitude": -89.9955335
+    },
+    "Palos Heights Police Department, Illinois": {
+        "Latitude": 41.6747692,
+        "Longitude": -87.8091104
+    },
+    "Palos Hills Police Department, Illinois": {
+        "Latitude": 41.7031662,
+        "Longitude": -87.8313257
+    },
+    "Palos Park Police Department, Illinois": {
+        "Latitude": 41.6669463,
+        "Longitude": -87.8397675
+    },
+    "Panama Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Paris Police Department, Illinois": {
+        "Latitude": 39.6103992,
+        "Longitude": -87.6976176
+    },
+    "Park City Police Department, Illinois": {
+        "Latitude": 42.3494886,
+        "Longitude": -87.8866163
+    },
+    "Park Forest Police Department, Illinois": {
+        "Latitude": 41.4914236,
+        "Longitude": -87.6744891
+    },
+    "Park Ridge Police Department, Illinois": {
+        "Latitude": 42.00814219999999,
+        "Longitude": -87.8305297
+    },
+    "Parkland College Police Department, Illinois": {
+        "Latitude": 40.1319415,
+        "Longitude": -88.2885819
+    },
+    "Patoka Police Department, Illinois": {
+        "Latitude": 38.7553259,
+        "Longitude": -89.09534169999999
+    },
+    "Pawnee Police Department, Illinois": {
+        "Latitude": 39.5926161,
+        "Longitude": -89.5794268
+    },
+    "Paxton Police Department, Illinois": {
+        "Latitude": 40.4685574,
+        "Longitude": -88.09188019999999
+    },
+    "Pearl City Police Department, Illinois": {
+        "Latitude": 42.2652969,
+        "Longitude": -89.82595320000001
+    },
+    "Pecatonica Police Department, Illinois": {
+        "Latitude": 42.3137259,
+        "Longitude": -89.3597599
+    },
+    "Peoria County Sheriff's Office, Illinois": {
+        "Latitude": 40.6905847,
+        "Longitude": -89.6960156
+    },
+    "Peoria Heights Police Department, Illinois": {
+        "Latitude": 40.7399678,
+        "Longitude": -89.57335139999999
+    },
+    "Peoria Park District Police Department, Illinois": {
+        "Latitude": 40.7035952,
+        "Longitude": -89.6254965
+    },
+    "Peoria Police Department, Illinois": {
+        "Latitude": 40.6874781,
+        "Longitude": -89.5960372
+    },
+    "Peoria Public School District Police Department, Illinois": {
+        "Latitude": 40.6928141,
+        "Longitude": -89.5906035
+    },
+    "Peotone Police Department, Illinois": {
+        "Latitude": 41.3322554,
+        "Longitude": -87.78532170000001
+    },
+    "Percy Police Department, Illinois": {
+        "Latitude": 38.016427,
+        "Longitude": -89.6174509
+    },
+    "Perry County Sheriff's Office, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Petersburg Police Department, Illinois": {
+        "Latitude": 40.0105457,
+        "Longitude": -89.8482226
+    },
+    "Phoenix Police Department, Illinois": {
+        "Latitude": 41.6151531,
+        "Longitude": -87.63192389999999
+    },
+    "Piatt Co State's Attorney, Illinois": {
+        "Latitude": 40.0543526,
+        "Longitude": -88.55653099999999
+    },
+    "Piatt County Sheriff's Office, Illinois": {
+        "Latitude": 40.0543526,
+        "Longitude": -88.55653099999999
+    },
+    "Pierron Police Department, Illinois": {
+        "Latitude": 38.7797065,
+        "Longitude": -89.5974866
+    },
+    "Pike Co Coroner's Office, Illinois": {
+        "Latitude": 39.5662363,
+        "Longitude": -90.8294002
+    },
+    "Pike Co State's Attorney, Illinois": {
+        "Latitude": 39.5662363,
+        "Longitude": -90.8294002
+    },
+    "Pike County Sheriff's Office, Illinois": {
+        "Latitude": 39.6082359,
+        "Longitude": -90.8041787
+    },
+    "Pingree Grove Police Department, Illinois": {
+        "Latitude": 42.0738917,
+        "Longitude": -88.4173098
+    },
+    "Piper City Police Department, Illinois": {
+        "Latitude": 40.756702,
+        "Longitude": -88.19115800000002
+    },
+    "Pittsburg Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Pittsfield Police Department, Illinois": {
+        "Latitude": 39.6086183,
+        "Longitude": -90.8047977
+    },
+    "Plainfield Police Department, Illinois": {
+        "Latitude": 41.621073,
+        "Longitude": -88.2174733
+    },
+    "Plano Police Department, Illinois": {
+        "Latitude": 41.6633198,
+        "Longitude": -88.53574069999999
+    },
+    "Pleasant Hill Police Department, Illinois": {
+        "Latitude": 39.6078254,
+        "Longitude": -90.8051289
+    },
+    "Pleasant Plains Police Department, Illinois": {
+        "Latitude": 39.875632,
+        "Longitude": -89.9221053
+    },
+    "Plymouth Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Polo Police Department, Illinois": {
+        "Latitude": 41.9859261,
+        "Longitude": -89.5773559
+    },
+    "Pontiac Police Department, Illinois": {
+        "Latitude": 40.8814872,
+        "Longitude": -88.6300843
+    },
+    "Pontoon Beach Police Department, Illinois": {
+        "Latitude": 38.7458955,
+        "Longitude": -90.0720966
+    },
+    "Pope Co State's Attorney, Illinois": {
+        "Latitude": 37.3668728,
+        "Longitude": -88.4852714
+    },
+    "Pope County Sheriff's Office, Illinois": {
+        "Latitude": 37.3688324,
+        "Longitude": -88.4849646
+    },
+    "Port Byron Police Department, Illinois": {
+        "Latitude": 41.607033,
+        "Longitude": -90.33612049999999
+    },
+    "Posen Police Department, Illinois": {
+        "Latitude": 41.6265916,
+        "Longitude": -87.68072769999999
+    },
+    "Potomac Police Department, Illinois": {
+        "Latitude": 40.305036,
+        "Longitude": -87.8005829
+    },
+    "Prairie Du Rocher Police Department, Illinois": {
+        "Latitude": 38.0830698,
+        "Longitude": -90.09615989999999
+    },
+    "Prairie Grove Police Department, Illinois": {
+        "Latitude": 42.2844809,
+        "Longitude": -88.2618383
+    },
+    "Prairie State College Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Princeton Police Department, Illinois": {
+        "Latitude": 41.3872141,
+        "Longitude": -89.4522811
+    },
+    "Prophetstown Police Department, Illinois": {
+        "Latitude": 41.66969599999999,
+        "Longitude": -89.93644309999999
+    },
+    "Prospect Heights Police Department, Illinois": {
+        "Latitude": 42.0958019,
+        "Longitude": -87.93470490000001
+    },
+    "Ptb Intern Program, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Pulaski Co Coroner's Office, Illinois": {
+        "Latitude": 37.2512419,
+        "Longitude": -89.1324866
+    },
+    "Pulaski County Sheriff's Office, Illinois": {
+        "Latitude": 37.2512419,
+        "Longitude": -89.1324866
+    },
+    "Pulaski Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Putnam Co State's Attorney, Illinois": {
+        "Latitude": 41.238474,
+        "Longitude": -89.28472510000002
+    },
+    "Putnam County Sheriff's Office, Illinois": {
+        "Latitude": 41.2534155,
+        "Longitude": -89.342506
+    },
+    "Quincy Police Department, Illinois": {
+        "Latitude": 39.9354634,
+        "Longitude": -91.40703429999999
+    },
+    "Ramsey Police Department, Illinois": {
+        "Latitude": 39.1409508,
+        "Longitude": -89.1087158
+    },
+    "Randolph County Sheriff's Office, Illinois": {
+        "Latitude": 38.0629321,
+        "Longitude": -89.77553379999999
+    },
+    "Rankin Police Department, Illinois": {
+        "Latitude": 40.463333,
+        "Longitude": -87.89650139999999
+    },
+    "Rantoul Police Department, Illinois": {
+        "Latitude": 40.3122745,
+        "Longitude": -88.1577727
+    },
+    "Red Bud Police Department, Illinois": {
+        "Latitude": 38.211513,
+        "Longitude": -89.9930004
+    },
+    "Rend Lake Conserv District Police Department, Illinois": {
+        "Latitude": 38.1115261,
+        "Longitude": -88.9701082
+    },
+    "Richland County Sheriff's Office, Illinois": {
+        "Latitude": 38.7212791,
+        "Longitude": -88.0900762
+    },
+    "Richmond Police Department, Illinois": {
+        "Latitude": 42.4666957,
+        "Longitude": -88.30593309999999
+    },
+    "Richton Park Police Department, Illinois": {
+        "Latitude": 41.484479,
+        "Longitude": -87.7033787
+    },
+    "Ridge Farm Police Department, Illinois": {
+        "Latitude": 39.8955918,
+        "Longitude": -87.65196689999999
+    },
+    "Ridgway Police Department, Illinois": {
+        "Latitude": 37.7985822,
+        "Longitude": -88.270971
+    },
+    "River Forest Police Department, Illinois": {
+        "Latitude": 41.8875143,
+        "Longitude": -87.8201383
+    },
+    "River Grove Police Department, Illinois": {
+        "Latitude": 41.9272224,
+        "Longitude": -87.8352239
+    },
+    "Riverdale Police Department, Illinois": {
+        "Latitude": 41.64574349999999,
+        "Longitude": -87.6397265
+    },
+    "Riverton Police Department, Illinois": {
+        "Latitude": 39.8595241,
+        "Longitude": -89.531471
+    },
+    "Robbins Police Department, Illinois": {
+        "Latitude": 41.6439452,
+        "Longitude": -87.70250209999999
+    },
+    "Robinson Police Department, Illinois": {
+        "Latitude": 39.003851,
+        "Longitude": -87.7371271
+    },
+    "Rochelle Police Department, Illinois": {
+        "Latitude": 41.9234506,
+        "Longitude": -89.0679784
+    },
+    "Rochester Police Department, Illinois": {
+        "Latitude": 39.7447482,
+        "Longitude": -89.5263112
+    },
+    "Rock Falls Police Department, Illinois": {
+        "Latitude": 41.7711238,
+        "Longitude": -89.6969392
+    },
+    "Rock Island County Sheriff's Office, Illinois": {
+        "Latitude": 41.5091135,
+        "Longitude": -90.580835
+    },
+    "Rock Island Police Department, Illinois": {
+        "Latitude": 41.5061802,
+        "Longitude": -90.58140139999999
+    },
+    "Rock Valley College Police Department, Illinois": {
+        "Latitude": 42.3071212,
+        "Longitude": -88.9961558
+    },
+    "Rockdale Police Department, Illinois": {
+        "Latitude": 41.5060428,
+        "Longitude": -88.1080648
+    },
+    "Rockford Metro Centre Police Department, Illinois": {
+        "Latitude": 42.2399428,
+        "Longitude": -89.0568316
+    },
+    "Rockford Park District Police Department, Illinois": {
+        "Latitude": 42.268422,
+        "Longitude": -89.0972335
+    },
+    "Rockford Police Department, Illinois": {
+        "Latitude": 42.2617216,
+        "Longitude": -89.01420499999999
+    },
+    "Rockton Police Department, Illinois": {
+        "Latitude": 42.452278,
+        "Longitude": -89.0719029
+    },
+    "Rolling Meadows Police Department, Illinois": {
+        "Latitude": 42.080655,
+        "Longitude": -88.02503159999999
+    },
+    "Roodhouse Police Department, Illinois": {
+        "Latitude": 39.4843764,
+        "Longitude": -90.3715057
+    },
+    "Roscoe Police Department, Illinois": {
+        "Latitude": 42.4145108,
+        "Longitude": -89.00905279999999
+    },
+    "Roselle Police Department, Illinois": {
+        "Latitude": 41.9819959,
+        "Longitude": -88.0770399
+    },
+    "Rosemont Police Department, Illinois": {
+        "Latitude": 41.9747111,
+        "Longitude": -87.8648094
+    },
+    "Rosiclare Police Department, Illinois": {
+        "Latitude": 37.4236626,
+        "Longitude": -88.3461483
+    },
+    "Rossville Police Department, Illinois": {
+        "Latitude": 40.37945879999999,
+        "Longitude": -87.66804069999999
+    },
+    "Round Lake Area Park District Police, Illinois": {
+        "Latitude": 42.3586049,
+        "Longitude": -88.1037211
+    },
+    "Round Lake Beach Police Department, Illinois": {
+        "Latitude": 42.3833868,
+        "Longitude": -88.0699843
+    },
+    "Round Lake Heights Police Department, Illinois": {
+        "Latitude": 42.3800212,
+        "Longitude": -88.1042489
+    },
+    "Round Lake Park Police Department, Illinois": {
+        "Latitude": 42.34816350000001,
+        "Longitude": -88.0784346
+    },
+    "Royalton Police Department, Illinois": {
+        "Latitude": 37.87770990000001,
+        "Longitude": -89.1139347
+    },
+    "Ruma Police Department, Illinois": {
+        "Latitude": 38.1350512,
+        "Longitude": -89.9978864
+    },
+    "Rushville Police Department, Illinois": {
+        "Latitude": 40.1212585,
+        "Longitude": -90.5644045
+    },
+    "Rutland Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Saint Anne Police Department, Illinois": {
+        "Latitude": 41.0244345,
+        "Longitude": -87.71381749999999
+    },
+    "Saint Charles Police Department, Illinois": {
+        "Latitude": 41.9108108,
+        "Longitude": -88.33271549999999
+    },
+    "Saint Clair Co Coroner's Office, Illinois": {
+        "Latitude": 38.40081199999999,
+        "Longitude": -89.9253233
+    },
+    "Saint Clair County Sheriff's Office, Illinois": {
+        "Latitude": 38.40081199999999,
+        "Longitude": -89.9253233
+    },
+    "Saint David Police Department, Illinois": {
+        "Latitude": 40.4933728,
+        "Longitude": -90.04872840000002
+    },
+    "Saint Elmo Police Department, Illinois": {
+        "Latitude": 39.02623510000001,
+        "Longitude": -88.8537254
+    },
+    "Saint Francisville Police Department, Illinois": {
+        "Latitude": 38.5911584,
+        "Longitude": -87.646692
+    },
+    "Saint Jacob Police Department, Illinois": {
+        "Latitude": 38.7141102,
+        "Longitude": -89.7683538
+    },
+    "Saint Johns Police Department, Illinois": {
+        "Latitude": 38.0315974,
+        "Longitude": -89.239589
+    },
+    "Saint Peter Police Department, Illinois": {
+        "Latitude": 38.8681016,
+        "Longitude": -88.8539455
+    },
+    "Saint Xavier University Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Salem Police Department, Illinois": {
+        "Latitude": 38.6260192,
+        "Longitude": -88.9432854
+    },
+    "Saline County Sheriff's Office, Illinois": {
+        "Latitude": 37.7149675,
+        "Longitude": -88.55653099999999
+    },
+    "San Jose Police Department, Illinois": {
+        "Latitude": 40.3029033,
+        "Longitude": -89.60417489999999
+    },
+    "Sandoval Police Department, Illinois": {
+        "Latitude": 38.614637,
+        "Longitude": -89.1196024
+    },
+    "Sandwich Police Department, Illinois": {
+        "Latitude": 41.6514355,
+        "Longitude": -88.6052077
+    },
+    "Sangamon Co Coroner's Office, Illinois": {
+        "Latitude": 39.7337353,
+        "Longitude": -89.62516459999999
+    },
+    "Sangamon County Sheriff's Office, Illinois": {
+        "Latitude": 39.7337353,
+        "Longitude": -89.62516459999999
+    },
+    "Sauget Police Department, Illinois": {
+        "Latitude": 38.5907326,
+        "Longitude": -90.1695907
+    },
+    "Sauk Village Police Department, Illinois": {
+        "Latitude": 41.49458690000001,
+        "Longitude": -87.55764769999999
+    },
+    "Savanna Police Department, Illinois": {
+        "Latitude": 42.0908986,
+        "Longitude": -90.1503858
+    },
+    "Saybrook Police Department, Illinois": {
+        "Latitude": 40.1311857,
+        "Longitude": -87.62895329999999
+    },
+    "Schaumburg Police Department, Illinois": {
+        "Latitude": 42.0279008,
+        "Longitude": -88.10382080000001
+    },
+    "Schiller Park Police Department, Illinois": {
+        "Latitude": 41.9550917,
+        "Longitude": -87.86475589999999
+    },
+    "Schuyler County Sheriff's Office, Illinois": {
+        "Latitude": 40.1844543,
+        "Longitude": -90.6393702
+    },
+    "Scott County Sheriff's Office, Illinois": {
+        "Latitude": 39.6094934,
+        "Longitude": -90.4879916
+    },
+    "Secretary Of State Police, Illinois": {
+        "Latitude": 39.800056,
+        "Longitude": -89.6543901
+    },
+    "Seneca Police Department, Illinois": {
+        "Latitude": 41.3169316,
+        "Longitude": -88.61079319999999
+    },
+    "Sesser Police Department, Illinois": {
+        "Latitude": 38.0920871,
+        "Longitude": -89.0529467
+    },
+    "Shannon Police Department, Illinois": {
+        "Latitude": 42.1544932,
+        "Longitude": -89.7390382
+    },
+    "Shawneetown Police Department, Illinois": {
+        "Latitude": 37.7155257,
+        "Longitude": -88.1862544
+    },
+    "Sheffield Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Shelby Co State's Attorney, Illinois": {
+        "Latitude": 39.3980704,
+        "Longitude": -88.86469799999999
+    },
+    "Sheldon Police Department, Illinois": {
+        "Latitude": 40.7704602,
+        "Longitude": -87.5634831
+    },
+    "Sheridan Police Department, Illinois": {
+        "Latitude": 41.5303777,
+        "Longitude": -88.6802955
+    },
+    "Sherman Police Department, Illinois": {
+        "Latitude": 39.8964261,
+        "Longitude": -89.6044312
+    },
+    "Sherrard Police Department, Illinois": {
+        "Latitude": 41.3176075,
+        "Longitude": -90.50576629999999
+    },
+    "Shiloh Police Department, Illinois": {
+        "Latitude": 38.5471679,
+        "Longitude": -89.92579719999999
+    },
+    "Sidell Police Department, Illinois": {
+        "Latitude": 39.9097575,
+        "Longitude": -87.8211393
+    },
+    "Siu Police Department, Illinois": {
+        "Latitude": 37.713392,
+        "Longitude": -89.212899
+    },
+    "Siu School Of Medicine Police, Illinois": {
+        "Latitude": 39.8105211,
+        "Longitude": -89.6577235
+    },
+    "Siu-e Police Department, Illinois": {
+        "Latitude": 38.7833544,
+        "Longitude": -89.9887632
+    },
+    "Skokie Police Department, Illinois": {
+        "Latitude": 42.0138291,
+        "Longitude": -87.76220839999999
+    },
+    "Sleepy Hollow Police Department, Illinois": {
+        "Latitude": 42.0931168,
+        "Longitude": -88.31523349999999
+    },
+    "Smithton Police Department, Illinois": {
+        "Latitude": 38.4074757,
+        "Longitude": -89.9919669
+    },
+    "Somonauk Police Department, Illinois": {
+        "Latitude": 41.6329441,
+        "Longitude": -88.6836285
+    },
+    "Sos Capitol Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "South Barrington Police Department, Illinois": {
+        "Latitude": 42.0736636,
+        "Longitude": -88.141993
+    },
+    "South Beloit Police Department, Illinois": {
+        "Latitude": 42.4930708,
+        "Longitude": -89.0367763
+    },
+    "South Chicago Heights Police Department, Illinois": {
+        "Latitude": 41.48081370000001,
+        "Longitude": -87.644367
+    },
+    "South Elgin Police Department, Illinois": {
+        "Latitude": 41.994687,
+        "Longitude": -88.29602330000002
+    },
+    "South Holland Police Department, Illinois": {
+        "Latitude": 41.5979161,
+        "Longitude": -87.607936
+    },
+    "South Jacksonville Police Department, Illinois": {
+        "Latitude": 39.7086803,
+        "Longitude": -90.2292384
+    },
+    "South Pekin Police Department, Illinois": {
+        "Latitude": 40.49455700000001,
+        "Longitude": -89.65470529999999
+    },
+    "South Roxana Police Department, Illinois": {
+        "Latitude": 38.8314054,
+        "Longitude": -90.0633841
+    },
+    "South Suburban College Police Department, Illinois": {
+        "Latitude": 41.6063537,
+        "Longitude": -87.61928549999999
+    },
+    "Southern Illinois Airport Authorityority, Illinois": {
+        "Latitude": 37.7774799,
+        "Longitude": -89.253622
+    },
+    "Southern View Police Department, Illinois": {
+        "Latitude": 39.757273,
+        "Longitude": -89.65370999999999
+    },
+    "Southwestern Illinois College Police Department, Illinois": {
+        "Latitude": 38.516694,
+        "Longitude": -89.923345
+    },
+    "Sparta Police Department, Illinois": {
+        "Latitude": 38.1218203,
+        "Longitude": -89.7026077
+    },
+    "Spaulding Police Department, Illinois": {
+        "Latitude": 39.8663431,
+        "Longitude": -89.5390374
+    },
+    "Spillertown Police Department, Illinois": {
+        "Latitude": 37.7664385,
+        "Longitude": -88.91951379999999
+    },
+    "Spring Bay Police Department, Illinois": {
+        "Latitude": 40.6811529,
+        "Longitude": -89.603241
+    },
+    "Spring Grove Police Department, Illinois": {
+        "Latitude": 42.4338374,
+        "Longitude": -88.2382937
+    },
+    "Spring Valley Police Department, Illinois": {
+        "Latitude": 41.325847,
+        "Longitude": -89.1974346
+    },
+    "Springfield Park District Police Department, Illinois": {
+        "Latitude": 39.7909604,
+        "Longitude": -89.6791612
+    },
+    "Springfield Police Department, Illinois": {
+        "Latitude": 39.799004,
+        "Longitude": -89.644607
+    },
+    "Stark County Sheriff's Office, Illinois": {
+        "Latitude": 41.0795661,
+        "Longitude": -89.81303559999999
+    },
+    "Staunton Police Department, Illinois": {
+        "Latitude": 39.0116349,
+        "Longitude": -89.7893459
+    },
+    "Steeleville Police Department, Illinois": {
+        "Latitude": 38.0075394,
+        "Longitude": -89.6591214
+    },
+    "Steger Police Department, Illinois": {
+        "Latitude": 41.4707295,
+        "Longitude": -87.63813929999999
+    },
+    "Stephenson County Sheriff's Office, Illinois": {
+        "Latitude": 42.29808209999999,
+        "Longitude": -89.62180359999999
+    },
+    "Stewardson Police Department, Illinois": {
+        "Latitude": 39.263096,
+        "Longitude": -88.6297778
+    },
+    "Stickney Police Department, Illinois": {
+        "Latitude": 41.8211379,
+        "Longitude": -87.78688629999999
+    },
+    "Stockton Police Department, Illinois": {
+        "Latitude": 42.35730410000001,
+        "Longitude": -90.00769059999999
+    },
+    "Stone Park Police Department, Illinois": {
+        "Latitude": 41.9010452,
+        "Longitude": -87.8834916
+    },
+    "Stonington Police Department, Illinois": {
+        "Latitude": 39.5476489,
+        "Longitude": -89.29802049999999
+    },
+    "Streamwood Police Department, Illinois": {
+        "Latitude": 42.0107951,
+        "Longitude": -88.1711541
+    },
+    "Streator Police Department, Illinois": {
+        "Latitude": 41.1191542,
+        "Longitude": -88.83610879999999
+    },
+    "Stronghurst Police Department, Illinois": {
+        "Latitude": 40.7460993,
+        "Longitude": -90.90528599999999
+    },
+    "Sugar Grove Police Department, Illinois": {
+        "Latitude": 41.764378,
+        "Longitude": -88.4547328
+    },
+    "Summit Police Department, Illinois": {
+        "Latitude": 41.7858232,
+        "Longitude": -87.811345
+    },
+    "Sumner Police Department, Illinois": {
+        "Latitude": 38.7154172,
+        "Longitude": -87.8610722
+    },
+    "Swansea Police Department, Illinois": {
+        "Latitude": 38.52751,
+        "Longitude": -89.98389499999999
+    },
+    "Tamms Police Department, Illinois": {
+        "Latitude": 37.2341399,
+        "Longitude": -89.270641
+    },
+    "Tampico Police Department, Illinois": {
+        "Latitude": 41.63031,
+        "Longitude": -89.7862177
+    },
+    "Taylorville Police Department, Illinois": {
+        "Latitude": 39.550055,
+        "Longitude": -89.29542099999999
+    },
+    "Tazewell Co State's Attorney, Illinois": {
+        "Latitude": 40.5522078,
+        "Longitude": -89.4742177
+    },
+    "Tazewell County Probation, Illinois": {
+        "Latitude": 40.5522078,
+        "Longitude": -89.4742177
+    },
+    "Tazewell County Sheriff's Office, Illinois": {
+        "Latitude": 40.5691335,
+        "Longitude": -89.6496332
+    },
+    "Terminal Railroad Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Teutopolis Police Department, Illinois": {
+        "Latitude": 39.1330967,
+        "Longitude": -88.4719918
+    },
+    "Thayer Police Department, Illinois": {
+        "Latitude": 39.5373689,
+        "Longitude": -89.7603793
+    },
+    "Thebes Police Department, Illinois": {
+        "Latitude": 37.2208838,
+        "Longitude": -89.46092089999999
+    },
+    "Thomasboro Police Department, Illinois": {
+        "Latitude": 40.2417001,
+        "Longitude": -88.18421339999999
+    },
+    "Thomson Police Department, Illinois": {
+        "Latitude": 41.95891580000001,
+        "Longitude": -90.0992924
+    },
+    "Thornton Police Department, Illinois": {
+        "Latitude": 41.5760648,
+        "Longitude": -87.6098677
+    },
+    "Tilden Police Department, Illinois": {
+        "Latitude": 38.2114959,
+        "Longitude": -89.6802585
+    },
+    "Tilton Police Department, Illinois": {
+        "Latitude": 40.1066059,
+        "Longitude": -87.6390333
+    },
+    "Tinley Park Police Department, Illinois": {
+        "Latitude": 41.5589145,
+        "Longitude": -87.80806779999999
+    },
+    "Tiskilwa Police Department, Illinois": {
+        "Latitude": 41.2921462,
+        "Longitude": -89.50622539999999
+    },
+    "Toledo Police Department, Illinois": {
+        "Latitude": 39.2736575,
+        "Longitude": -88.24365209999999
+    },
+    "Tolono Police Department, Illinois": {
+        "Latitude": 39.9861415,
+        "Longitude": -88.2589387
+    },
+    "Toluca Police Department, Illinois": {
+        "Latitude": 41.0022556,
+        "Longitude": -89.133416
+    },
+    "Tonica Police Department, Illinois": {
+        "Latitude": 41.2153691,
+        "Longitude": -89.0657633
+    },
+    "Topeka Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Toulon Police Department, Illinois": {
+        "Latitude": 41.0947258,
+        "Longitude": -89.86439060000001
+    },
+    "Tower Lakes Police Department, Illinois": {
+        "Latitude": 42.2338015,
+        "Longitude": -88.1559741
+    },
+    "Tremont Police Department, Illinois": {
+        "Latitude": 40.5258072,
+        "Longitude": -89.4915491
+    },
+    "Trenton Police Department, Illinois": {
+        "Latitude": 38.6032782,
+        "Longitude": -89.683285
+    },
+    "Triton College Police Department, Illinois": {
+        "Latitude": 41.9167262,
+        "Longitude": -87.84541270000001
+    },
+    "Troy Police Department, Illinois": {
+        "Latitude": 38.7292449,
+        "Longitude": -89.8821669
+    },
+    "Tuscola Police Department, Illinois": {
+        "Latitude": 39.8001137,
+        "Longitude": -88.2896224
+    },
+    "Ullin Police Department, Illinois": {
+        "Latitude": 37.2763529,
+        "Longitude": -89.1857636
+    },
+    "Union County Sheriff's Office, Illinois": {
+        "Latitude": 37.4525238,
+        "Longitude": -89.2717017
+    },
+    "Union Pacific Railroad Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Union Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "University Of Chicago Police Department, Illinois": {
+        "Latitude": 41.7904484,
+        "Longitude": -87.6003953
+    },
+    "University Of Illinois At Chicago Campus Police Department, Illinois": {
+        "Latitude": 41.8686034,
+        "Longitude": -87.6484377
+    },
+    "University Of Illinois Police Department, Illinois": {
+        "Latitude": 40.1129869,
+        "Longitude": -88.22348649999999
+    },
+    "University Park Police Department, Illinois": {
+        "Latitude": 41.4482094,
+        "Longitude": -87.6870447
+    },
+    "Urbana Police Department, Illinois": {
+        "Latitude": 40.1100173,
+        "Longitude": -88.2046297
+    },
+    "Valier Police Department, Illinois": {
+        "Latitude": 38.0136162,
+        "Longitude": -89.03738299999999
+    },
+    "Vandalia Police Department, Illinois": {
+        "Latitude": 38.9600939,
+        "Longitude": -89.0962248
+    },
+    "Venice Police Department, Illinois": {
+        "Latitude": 38.6725358,
+        "Longitude": -90.1701155
+    },
+    "Vermilion Co Coroner's Office, Illinois": {
+        "Latitude": 40.122469,
+        "Longitude": -87.697554
+    },
+    "Vermilion County Sheriff's Office, Illinois": {
+        "Latitude": 40.1221253,
+        "Longitude": -87.6292806
+    },
+    "Vermont Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Vernon Hills Police Department, Illinois": {
+        "Latitude": 42.2380411,
+        "Longitude": -87.9600985
+    },
+    "Veterans Park District Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Vienna Police Department, Illinois": {
+        "Latitude": 37.41600529999999,
+        "Longitude": -88.89624839999999
+    },
+    "Villa Grove Police Department, Illinois": {
+        "Latitude": 39.8628101,
+        "Longitude": -88.16226540000001
+    },
+    "Villa Park Police Department, Illinois": {
+        "Latitude": 41.8885921,
+        "Longitude": -87.9794854
+    },
+    "Viola Police Department, Illinois": {
+        "Latitude": 41.20309109999999,
+        "Longitude": -90.58707919999999
+    },
+    "Virden Police Department, Illinois": {
+        "Latitude": 39.5008835,
+        "Longitude": -89.766644
+    },
+    "Virginia Police Department, Illinois": {
+        "Latitude": 39.949806,
+        "Longitude": -90.2101161
+    },
+    "Walnut Police Department, Illinois": {
+        "Latitude": 41.5568516,
+        "Longitude": -89.59289389999999
+    },
+    "Wamac Police Department, Illinois": {
+        "Latitude": 38.5088253,
+        "Longitude": -89.1397331
+    },
+    "Warren County Sheriff's Office, Illinois": {
+        "Latitude": 40.912937,
+        "Longitude": -90.64918
+    },
+    "Warren Police Department, Illinois": {
+        "Latitude": 42.4997718,
+        "Longitude": -89.9927707
+    },
+    "Warrensburg Police Department, Illinois": {
+        "Latitude": 39.9303169,
+        "Longitude": -89.0611284
+    },
+    "Warrenville Police Department, Illinois": {
+        "Latitude": 41.8231111,
+        "Longitude": -88.1796773
+    },
+    "Washburn Police Department, Illinois": {
+        "Latitude": 40.9186752,
+        "Longitude": -89.29102449999999
+    },
+    "Washington County Sheriff's Office, Illinois": {
+        "Latitude": 38.3988869,
+        "Longitude": -89.3226954
+    },
+    "Washington Park Police Department, Illinois": {
+        "Latitude": 38.6371335,
+        "Longitude": -90.0899827
+    },
+    "Washington Police Department, Illinois": {
+        "Latitude": 40.7056399,
+        "Longitude": -89.408558
+    },
+    "Waterloo Police Department, Illinois": {
+        "Latitude": 38.333569,
+        "Longitude": -90.1501286
+    },
+    "Watseka Police Department, Illinois": {
+        "Latitude": 40.7784137,
+        "Longitude": -87.7139707
+    },
+    "Waubonsee College Police Department, Illinois": {
+        "Latitude": 41.795704,
+        "Longitude": -88.459994
+    },
+    "Wauconda Police Department, Illinois": {
+        "Latitude": 42.257813,
+        "Longitude": -88.13912859999999
+    },
+    "Waukegan Police Department, Illinois": {
+        "Latitude": 42.3613048,
+        "Longitude": -87.8350737
+    },
+    "Waverly Police Department, Illinois": {
+        "Latitude": 39.5924353,
+        "Longitude": -89.95370109999999
+    },
+    "Wayne City Police Department, Illinois": {
+        "Latitude": 38.346221,
+        "Longitude": -88.5883724
+    },
+    "Wayne County Sheriff's Office, Illinois": {
+        "Latitude": 38.3899815,
+        "Longitude": -88.4016041
+    },
+    "Wayne Police Department, Illinois": {
+        "Latitude": 41.95094719999999,
+        "Longitude": -88.2399216
+    },
+    "Wenona Police Department, Illinois": {
+        "Latitude": 41.0524861,
+        "Longitude": -89.05129
+    },
+    "West Chicago Police Department, Illinois": {
+        "Latitude": 41.8805903,
+        "Longitude": -88.2001075
+    },
+    "West City Police Department, Illinois": {
+        "Latitude": 37.99433,
+        "Longitude": -88.938599
+    },
+    "West Dundee Police Department, Illinois": {
+        "Latitude": 42.091283,
+        "Longitude": -88.2873339
+    },
+    "West Frankfort Police Department, Illinois": {
+        "Latitude": 37.8996431,
+        "Longitude": -88.9263446
+    },
+    "West Salem Police Department, Illinois": {
+        "Latitude": 38.5207611,
+        "Longitude": -88.005596
+    },
+    "Westchester Police Department, Illinois": {
+        "Latitude": 41.864022,
+        "Longitude": -87.8805967
+    },
+    "Westmont Police Department, Illinois": {
+        "Latitude": 41.7958639,
+        "Longitude": -87.9756175
+    },
+    "Westville Police Department, Illinois": {
+        "Latitude": 40.044308,
+        "Longitude": -87.6382926
+    },
+    "Wheaton Police Department, Illinois": {
+        "Latitude": 41.8638342,
+        "Longitude": -88.1199863
+    },
+    "Wheeling Police Department, Illinois": {
+        "Latitude": 42.138762,
+        "Longitude": -87.92141699999999
+    },
+    "White Co State's Attorney, Illinois": {
+        "Latitude": 38.0916953,
+        "Longitude": -88.1594447
+    },
+    "White County Sheriff's Office, Illinois": {
+        "Latitude": 38.0501137,
+        "Longitude": -88.24611829999999
+    },
+    "White Hall Police Department, Illinois": {
+        "Latitude": 39.436685,
+        "Longitude": -90.4033517
+    },
+    "Whiteash Police Department, Illinois": {
+        "Latitude": 37.7853405,
+        "Longitude": -88.9294133
+    },
+    "Whiteside Co State's Attorney, Illinois": {
+        "Latitude": 41.7605503,
+        "Longitude": -89.8505012
+    },
+    "Whiteside County Sheriff's Office, Illinois": {
+        "Latitude": 41.8099906,
+        "Longitude": -89.963482
+    },
+    "Will Co Forest Pres Police Department, Illinois": {
+        "Latitude": 41.5054724,
+        "Longitude": -88.0900762
+    },
+    "Will Co State's Attorney, Illinois": {
+        "Latitude": 41.5252118,
+        "Longitude": -88.0831772
+    },
+    "Will County Sheriff's Office, Illinois": {
+        "Latitude": 41.5054724,
+        "Longitude": -88.0900762
+    },
+    "Williamsfield Police Department, Illinois": {
+        "Latitude": 40.9239161,
+        "Longitude": -90.0238475
+    },
+    "Williamson Co Coroner's Office, Illinois": {
+        "Latitude": 37.7183241,
+        "Longitude": -88.86469799999999
+    },
+    "Williamson County Sheriff's Office, Illinois": {
+        "Latitude": 37.7331727,
+        "Longitude": -88.92846759999999
+    },
+    "Williamson Police Department, Illinois": {
+        "Latitude": 38.9859574,
+        "Longitude": -89.7647841
+    },
+    "Williamsville Police Department, Illinois": {
+        "Latitude": 39.9536497,
+        "Longitude": -89.5489565
+    },
+    "Willisville Police Department, Illinois": {
+        "Latitude": 39.9536497,
+        "Longitude": -89.5489565
+    },
+    "Willow Springs Police Department, Illinois": {
+        "Latitude": 41.7394833,
+        "Longitude": -87.88554099999999
+    },
+    "Wilmington Police Department, Illinois": {
+        "Latitude": 41.29446,
+        "Longitude": -88.1368262
+    },
+    "Wilsonville Police Department, Illinois": {
+        "Latitude": 39.0696378,
+        "Longitude": -89.85479409999999
+    },
+    "Winchester Police Department, Illinois": {
+        "Latitude": 39.6272554,
+        "Longitude": -90.45582279999999
+    },
+    "Windsor Police Department, Illinois": {
+        "Latitude": 39.438228,
+        "Longitude": -88.5943779
+    },
+    "Winnebago County Sheriff's Office, Illinois": {
+        "Latitude": 42.272633,
+        "Longitude": -89.0994939
+    },
+    "Winnebago Police Department, Illinois": {
+        "Latitude": 42.2659752,
+        "Longitude": -89.2416294
+    },
+    "Winthrop Harbor Police Department, Illinois": {
+        "Latitude": 42.4794187,
+        "Longitude": -87.8240548
+    },
+    "Witt Police Department, Illinois": {
+        "Latitude": 39.2564351,
+        "Longitude": -89.3481413
+    },
+    "Wiu Office Of Public Safety, Illinois": {
+        "Latitude": 40.4661216,
+        "Longitude": -90.6839869
+    },
+    "Wonder Lake Police Department, Illinois": {
+        "Latitude": 42.3914942,
+        "Longitude": -88.3686123
+    },
+    "Woodford County Probation, Illinois": {
+        "Latitude": 40.72253449999999,
+        "Longitude": -89.2725354
+    },
+    "Woodford County Sheriff's Office, Illinois": {
+        "Latitude": 40.7128889,
+        "Longitude": -89.1705998
+    },
+    "Woodhull Police Department, Illinois": {
+        "Latitude": 41.1778858,
+        "Longitude": -90.3154672
+    },
+    "Woodridge Police Department, Illinois": {
+        "Latitude": 41.75519449999999,
+        "Longitude": -88.03993539999999
+    },
+    "Woodstock Police Department, Illinois": {
+        "Latitude": 42.3073584,
+        "Longitude": -88.4380338
+    },
+    "Worden Police Department, Illinois": {
+        "Latitude": 38.9318829,
+        "Longitude": -89.8399103
+    },
+    "Worth Police Department, Illinois": {
+        "Latitude": 41.6902449,
+        "Longitude": -87.79576899999999
+    },
+    "Wyanet Police Department, Illinois": {
+        "Latitude": 41.3662309,
+        "Longitude": -89.5838876
+    },
+    "Wyoming Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Xenia Police Department, Illinois": {
+        "Latitude": 40.6331249,
+        "Longitude": -89.3985283
+    },
+    "Yates City Police Department, Illinois": {
+        "Latitude": 40.7784328,
+        "Longitude": -90.0149162
+    },
+    "Yorkville Police Department, Illinois": {
+        "Latitude": 41.6637072,
+        "Longitude": -88.4308916
+    },
+    "Zeigler Police Department, Illinois": {
+        "Latitude": 37.9015494,
+        "Longitude": -89.0530232
+    },
+    "Zion Police Department, Illinois": {
+        "Latitude": 42.4494311,
+        "Longitude": -87.8415181
+    }
+}

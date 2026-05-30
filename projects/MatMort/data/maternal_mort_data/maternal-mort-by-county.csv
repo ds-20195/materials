@@ -1,0 +1,1568 @@
+"Notes","County","County Code",Deaths,Population,Crude Rate,Crude Rate Lower 95% Confidence Interval,Crude Rate Upper 95% Confidence Interval
+,"Autauga County, AL","01001",Suppressed,183380,Suppressed,Suppressed,Suppressed
+,"Baldwin County, AL","01003",Suppressed,673219,Suppressed,Suppressed,Suppressed
+,"Barbour County, AL","01005",Suppressed,75775,Suppressed,Suppressed,Suppressed
+,"Bibb County, AL","01007",Suppressed,71809,Suppressed,Suppressed,Suppressed
+,"Blount County, AL","01009",Suppressed,174393,Suppressed,Suppressed,Suppressed
+,"Bullock County, AL","01011",Suppressed,32256,Suppressed,Suppressed,Suppressed
+,"Calhoun County, AL","01015",Suppressed,359526,Suppressed,Suppressed,Suppressed
+,"Chilton County, AL","01021",Suppressed,137913,Suppressed,Suppressed,Suppressed
+,"Choctaw County, AL","01023",Suppressed,32774,Suppressed,Suppressed,Suppressed
+,"Clarke County, AL","01025",Suppressed,65702,Suppressed,Suppressed,Suppressed
+,"Clay County, AL","01027",Suppressed,38332,Suppressed,Suppressed,Suppressed
+,"Colbert County, AL","01033",Suppressed,165810,Suppressed,Suppressed,Suppressed
+,"Conecuh County, AL","01035",Suppressed,30503,Suppressed,Suppressed,Suppressed
+,"Covington County, AL","01039",Suppressed,103320,Suppressed,Suppressed,Suppressed
+,"Cullman County, AL","01043",Suppressed,263130,Suppressed,Suppressed,Suppressed
+,"Dale County, AL","01045",Suppressed,152621,Suppressed,Suppressed,Suppressed
+,"Dallas County, AL","01047",Suppressed,105170,Suppressed,Suppressed,Suppressed
+,"DeKalb County, AL","01049",Suppressed,217414,Suppressed,Suppressed,Suppressed
+,"Elmore County, AL","01051",Suppressed,277807,Suppressed,Suppressed,Suppressed
+,"Etowah County, AL","01055",Suppressed,305408,Suppressed,Suppressed,Suppressed
+,"Geneva County, AL","01061",Suppressed,75333,Suppressed,Suppressed,Suppressed
+,"Houston County, AL","01069",Suppressed,323387,Suppressed,Suppressed,Suppressed
+,"Jackson County, AL","01071",Suppressed,151390,Suppressed,Suppressed,Suppressed
+,"Jefferson County, AL","01073",14,2130795,0.7,0.4,1.1
+,"Lamar County, AL","01075",Suppressed,37866,Suppressed,Suppressed,Suppressed
+,"Lauderdale County, AL","01077",Suppressed,291654,Suppressed,Suppressed,Suppressed
+,"Lawrence County, AL","01079",Suppressed,95439,Suppressed,Suppressed,Suppressed
+,"Lee County, AL","01081",Suppressed,644547,Suppressed,Suppressed,Suppressed
+,"Limestone County, AL","01083",Suppressed,340628,Suppressed,Suppressed,Suppressed
+,"Madison County, AL","01089",Suppressed,1273200,Suppressed,Suppressed,Suppressed
+,"Marengo County, AL","01091",Suppressed,53973,Suppressed,Suppressed,Suppressed
+,"Marion County, AL","01093",Suppressed,83287,Suppressed,Suppressed,Suppressed
+,"Marshall County, AL","01095",Suppressed,292048,Suppressed,Suppressed,Suppressed
+,"Mobile County, AL","01097",14,1290810,1.1,0.6,1.8
+,"Montgomery County, AL","01101",11,727522,1.5,0.8,2.7
+,"Morgan County, AL","01103",Suppressed,365974,Suppressed,Suppressed,Suppressed
+,"Perry County, AL","01105",Suppressed,25408,Suppressed,Suppressed,Suppressed
+,"Russell County, AL","01113",Suppressed,184489,Suppressed,Suppressed,Suppressed
+,"St. Clair County, AL","01115",Suppressed,283226,Suppressed,Suppressed,Suppressed
+,"Shelby County, AL","01117",Suppressed,715727,Suppressed,Suppressed,Suppressed
+,"Talladega County, AL","01121",Suppressed,244274,Suppressed,Suppressed,Suppressed
+,"Tallapoosa County, AL","01123",Suppressed,108464,Suppressed,Suppressed,Suppressed
+,"Tuscaloosa County, AL","01125",Suppressed,822676,Suppressed,Suppressed,Suppressed
+,"Washington County, AL","01129",Suppressed,43988,Suppressed,Suppressed,Suppressed
+,"Wilcox County, AL","01131",Suppressed,29107,Suppressed,Suppressed,Suppressed
+,"Anchorage Borough, AK","02020",Suppressed,1013024,Suppressed,Suppressed,Suppressed
+,"Bethel Census Area, AK","02050",Suppressed,59618,Suppressed,Suppressed,Suppressed
+,"Fairbanks North Star Borough, AK","02090",Suppressed,353649,Suppressed,Suppressed,Suppressed
+,"Hoonah-Angoon Census Area, AK","02105",Suppressed,5362,Suppressed,Suppressed,Suppressed
+,"Juneau Borough, AK","02110",Suppressed,105105,Suppressed,Suppressed,Suppressed
+,"Kenai Peninsula Borough, AK","02122",Suppressed,175599,Suppressed,Suppressed,Suppressed
+,"Matanuska-Susitna Borough, AK","02170",Suppressed,366441,Suppressed,Suppressed,Suppressed
+,"North Slope Borough, AK","02185",Suppressed,34676,Suppressed,Suppressed,Suppressed
+,"Northwest Arctic Borough, AK","02188",Suppressed,23855,Suppressed,Suppressed,Suppressed
+,"Southeast Fairbanks Census Area, AK","02240",Suppressed,21559,Suppressed,Suppressed,Suppressed
+,"Wade Hampton Census Area, AK","02270",Suppressed,25486,Suppressed,Suppressed,Suppressed
+,"Apache County, AZ","04001",Suppressed,208067,Suppressed,Suppressed,Suppressed
+,"Cochise County, AZ","04003",Suppressed,357688,Suppressed,Suppressed,Suppressed
+,"Coconino County, AZ","04005",Suppressed,542947,Suppressed,Suppressed,Suppressed
+,"Graham County, AZ","04009",Suppressed,132911,Suppressed,Suppressed,Suppressed
+,"La Paz County, AZ","04012",Suppressed,37713,Suppressed,Suppressed,Suppressed
+,"Maricopa County, AZ","04013",90,15095626,0.6,0.5,0.7
+,"Mohave County, AZ","04015",Suppressed,505867,Suppressed,Suppressed,Suppressed
+,"Navajo County, AZ","04017",Suppressed,314996,Suppressed,Suppressed,Suppressed
+,"Pima County, AZ","04019",17,3351066,0.5,0.3,0.8
+,"Pinal County, AZ","04021",11,1449948,0.8,0.4,1.4
+,"Santa Cruz County, AZ","04023",Suppressed,142177,Suppressed,Suppressed,Suppressed
+,"Yavapai County, AZ","04025",Suppressed,542256,Suppressed,Suppressed,Suppressed
+,"Yuma County, AZ","04027",Suppressed,669534,Suppressed,Suppressed,Suppressed
+,"Baxter County, AR","05005",Suppressed,99760,Suppressed,Suppressed,Suppressed
+,"Benton County, AR","05007",Suppressed,1003997,Suppressed,Suppressed,Suppressed
+,"Boone County, AR","05009",Suppressed,107853,Suppressed,Suppressed,Suppressed
+,"Bradley County, AR","05011",Suppressed,29980,Suppressed,Suppressed,Suppressed
+,"Clark County, AR","05019",Suppressed,76725,Suppressed,Suppressed,Suppressed
+,"Cleburne County, AR","05023",Suppressed,62590,Suppressed,Suppressed,Suppressed
+,"Cleveland County, AR","05025",Suppressed,21439,Suppressed,Suppressed,Suppressed
+,"Columbia County, AR","05027",Suppressed,75600,Suppressed,Suppressed,Suppressed
+,"Craighead County, AR","05031",Suppressed,384048,Suppressed,Suppressed,Suppressed
+,"Cross County, AR","05037",Suppressed,48329,Suppressed,Suppressed,Suppressed
+,"Dallas County, AR","05039",Suppressed,17155,Suppressed,Suppressed,Suppressed
+,"Faulkner County, AR","05045",Suppressed,458119,Suppressed,Suppressed,Suppressed
+,"Garland County, AR","05051",Suppressed,271545,Suppressed,Suppressed,Suppressed
+,"Greene County, AR","05055",Suppressed,145650,Suppressed,Suppressed,Suppressed
+,"Hempstead County, AR","05057",Suppressed,57157,Suppressed,Suppressed,Suppressed
+,"Izard County, AR","05065",Suppressed,37429,Suppressed,Suppressed,Suppressed
+,"Jefferson County, AR","05069",Suppressed,202696,Suppressed,Suppressed,Suppressed
+,"Lafayette County, AR","05073",Suppressed,16461,Suppressed,Suppressed,Suppressed
+,"Lawrence County, AR","05075",Suppressed,48578,Suppressed,Suppressed,Suppressed
+,"Lee County, AR","05077",Suppressed,27304,Suppressed,Suppressed,Suppressed
+,"Lincoln County, AR","05079",Suppressed,48112,Suppressed,Suppressed,Suppressed
+,"Logan County, AR","05083",Suppressed,60143,Suppressed,Suppressed,Suppressed
+,"Lonoke County, AR","05085",Suppressed,243874,Suppressed,Suppressed,Suppressed
+,"Marion County, AR","05089",Suppressed,38698,Suppressed,Suppressed,Suppressed
+,"Mississippi County, AR","05093",Suppressed,122789,Suppressed,Suppressed,Suppressed
+,"Nevada County, AR","05099",Suppressed,22429,Suppressed,Suppressed,Suppressed
+,"Ouachita County, AR","05103",Suppressed,62118,Suppressed,Suppressed,Suppressed
+,"Phillips County, AR","05107",Suppressed,44167,Suppressed,Suppressed,Suppressed
+,"Poinsett County, AR","05111",Suppressed,67504,Suppressed,Suppressed,Suppressed
+,"Polk County, AR","05113",Suppressed,52114,Suppressed,Suppressed,Suppressed
+,"Pulaski County, AR","05119",12,1274091,0.9,0.5,1.6
+,"St. Francis County, AR","05123",Suppressed,76497,Suppressed,Suppressed,Suppressed
+,"Saline County, AR","05125",Suppressed,387692,Suppressed,Suppressed,Suppressed
+,"Scott County, AR","05127",Suppressed,27416,Suppressed,Suppressed,Suppressed
+,"Sebastian County, AR","05131",Suppressed,402314,Suppressed,Suppressed,Suppressed
+,"Sharp County, AR","05135",Suppressed,44779,Suppressed,Suppressed,Suppressed
+,"Union County, AR","05139",Suppressed,110940,Suppressed,Suppressed,Suppressed
+,"Van Buren County, AR","05141",Suppressed,40201,Suppressed,Suppressed,Suppressed
+,"Washington County, AR","05143",Suppressed,924601,Suppressed,Suppressed,Suppressed
+,"Alameda County, CA","06001",14,5740279,0.2,0.1,0.4
+,"Butte County, CA","06007",Suppressed,715830,Suppressed,Suppressed,Suppressed
+,"Calaveras County, CA","06009",Suppressed,110784,Suppressed,Suppressed,Suppressed
+,"Contra Costa County, CA","06013",10,3660927,0.3,0.1,0.5
+,"El Dorado County, CA","06017",Suppressed,520753,Suppressed,Suppressed,Suppressed
+,"Fresno County, CA","06019",14,3417534,0.4,0.2,0.7
+,"Humboldt County, CA","06023",Suppressed,450149,Suppressed,Suppressed,Suppressed
+,"Imperial County, CA","06025",Suppressed,598834,Suppressed,Suppressed,Suppressed
+,"Inyo County, CA","06027",Suppressed,49575,Suppressed,Suppressed,Suppressed
+,"Kern County, CA","06029",10,3127466,0.3,0.2,0.6
+,"Kings County, CA","06031",Suppressed,558079,Suppressed,Suppressed,Suppressed
+,"Lake County, CA","06033",Suppressed,176479,Suppressed,Suppressed,Suppressed
+,"Los Angeles County, CA","06037",70,33992342,0.2,0.2,0.3
+,"Madera County, CA","06039",Suppressed,525439,Suppressed,Suppressed,Suppressed
+,"Marin County, CA","06041",Suppressed,684673,Suppressed,Suppressed,Suppressed
+,"Merced County, CA","06047",Suppressed,985476,Suppressed,Suppressed,Suppressed
+,"Monterey County, CA","06053",Suppressed,1436518,Suppressed,Suppressed,Suppressed
+,"Nevada County, CA","06057",Suppressed,253924,Suppressed,Suppressed,Suppressed
+,"Orange County, CA","06059",18,10356512,0.2,0.1,0.3
+,"Placer County, CA","06061",Suppressed,1218808,Suppressed,Suppressed,Suppressed
+,"Plumas County, CA","06063",Suppressed,44455,Suppressed,Suppressed,Suppressed
+,"Riverside County, CA","06065",31,8207534,0.4,0.3,0.5
+,"Sacramento County, CA","06067",21,5281373,0.4,0.2,0.6
+,"San Benito County, CA","06069",Suppressed,219138,Suppressed,Suppressed,Suppressed
+,"San Bernardino County, CA","06071",22,7566710,0.3,0.2,0.4
+,"San Diego County, CA","06073",16,11491217,0.1,0.1,0.2
+,"San Francisco County, CA","06075",Suppressed,3119111,Suppressed,Suppressed,Suppressed
+,"San Joaquin County, CA","06077",Suppressed,2626483,Suppressed,Suppressed,Suppressed
+,"San Luis Obispo County, CA","06079",Suppressed,909976,Suppressed,Suppressed,Suppressed
+,"San Mateo County, CA","06081",Suppressed,2430286,Suppressed,Suppressed,Suppressed
+,"Santa Barbara County, CA","06083",Suppressed,1528967,Suppressed,Suppressed,Suppressed
+,"Santa Clara County, CA","06085",10,6624206,0.2,0.1,0.3
+,"Shasta County, CA","06089",Suppressed,523285,Suppressed,Suppressed,Suppressed
+,"Solano County, CA","06095",Suppressed,1438306,Suppressed,Suppressed,Suppressed
+,"Sonoma County, CA","06097",Suppressed,1469236,Suppressed,Suppressed,Suppressed
+,"Stanislaus County, CA","06099",Suppressed,1833950,Suppressed,Suppressed,Suppressed
+,"Tehama County, CA","06103",Suppressed,184824,Suppressed,Suppressed,Suppressed
+,"Tulare County, CA","06107",Suppressed,1601830,Suppressed,Suppressed,Suppressed
+,"Tuolumne County, CA","06109",Suppressed,146028,Suppressed,Suppressed,Suppressed
+,"Ventura County, CA","06111",Suppressed,2661826,Suppressed,Suppressed,Suppressed
+,"Yuba County, CA","06115",Suppressed,275955,Suppressed,Suppressed,Suppressed
+,"Adams County, CO","08001",Suppressed,1896285,Suppressed,Suppressed,Suppressed
+,"Arapahoe County, CO","08005",Suppressed,2268009,Suppressed,Suppressed,Suppressed
+,"Archuleta County, CO","08007",Suppressed,33828,Suppressed,Suppressed,Suppressed
+,"Boulder County, CO","08013",Suppressed,1175342,Suppressed,Suppressed,Suppressed
+,"Costilla County, CO","08023",Suppressed,9106,Suppressed,Suppressed,Suppressed
+,"Denver County, CO","08031",Suppressed,2888618,Suppressed,Suppressed,Suppressed
+,"Douglas County, CO","08035",Suppressed,1211903,Suppressed,Suppressed,Suppressed
+,"El Paso County, CO","08041",12,2568303,0.5,0.2,0.8
+,"Gunnison County, CO","08051",Suppressed,66438,Suppressed,Suppressed,Suppressed
+,"Jefferson County, CO","08059",Suppressed,1918103,Suppressed,Suppressed,Suppressed
+,"Larimer County, CO","08069",Suppressed,1292036,Suppressed,Suppressed,Suppressed
+,"Las Animas County, CO","08071",Suppressed,39854,Suppressed,Suppressed,Suppressed
+,"Mesa County, CO","08077",Suppressed,481678,Suppressed,Suppressed,Suppressed
+,"Montezuma County, CO","08083",Suppressed,71096,Suppressed,Suppressed,Suppressed
+,"Morgan County, CO","08087",Suppressed,91442,Suppressed,Suppressed,Suppressed
+,"Otero County, CO","08089",Suppressed,53428,Suppressed,Suppressed,Suppressed
+,"Pueblo County, CO","08101",Suppressed,521526,Suppressed,Suppressed,Suppressed
+,"Saguache County, CO","08109",Suppressed,16785,Suppressed,Suppressed,Suppressed
+,"Summit County, CO","08117",Suppressed,109744,Suppressed,Suppressed,Suppressed
+,"Teller County, CO","08119",Suppressed,61840,Suppressed,Suppressed,Suppressed
+,"Washington County, CO","08121",Suppressed,13718,Suppressed,Suppressed,Suppressed
+,"Weld County, CO","08123",Suppressed,1177548,Suppressed,Suppressed,Suppressed
+,"Fairfield County, CT","09001",Suppressed,Not Available,Suppressed,Suppressed,Suppressed
+,"Hartford County, CT","09003",12,Not Available,Not Available,Not Available,Not Available
+,"Litchfield County, CT","09005",Suppressed,Not Available,Suppressed,Suppressed,Suppressed
+,"New Haven County, CT","09009",Suppressed,Not Available,Suppressed,Suppressed,Suppressed
+,"New London County, CT","09011",Suppressed,Not Available,Suppressed,Suppressed,Suppressed
+,"Tolland County, CT","09013",Suppressed,Not Available,Suppressed,Suppressed,Suppressed
+,"Kent County, DE","10001",Suppressed,576951,Suppressed,Suppressed,Suppressed
+,"New Castle County, DE","10003",Suppressed,1833286,Suppressed,Suppressed,Suppressed
+,"Sussex County, DE","10005",Suppressed,577624,Suppressed,Suppressed,Suppressed
+,"District of Columbia, DC","11001",16,2736943,0.6,0.3,0.9
+,"Alachua County, FL","12001",Suppressed,1071709,Suppressed,Suppressed,Suppressed
+,"Baker County, FL","12003",Suppressed,93764,Suppressed,Suppressed,Suppressed
+,"Bay County, FL","12005",Suppressed,555897,Suppressed,Suppressed,Suppressed
+,"Brevard County, FL","12009",17,1678771,1.0,0.6,1.6
+,"Broward County, FL","12011",35,6129332,0.6,0.4,0.8
+,"Calhoun County, FL","12013",Suppressed,43236,Suppressed,Suppressed,Suppressed
+,"Citrus County, FL","12017",Suppressed,328755,Suppressed,Suppressed,Suppressed
+,"Clay County, FL","12019",Suppressed,696589,Suppressed,Suppressed,Suppressed
+,"Collier County, FL","12021",Suppressed,924177,Suppressed,Suppressed,Suppressed
+,"DeSoto County, FL","12027",Suppressed,112800,Suppressed,Suppressed,Suppressed
+,"Duval County, FL","12031",30,3318935,0.9,0.6,1.3
+,"Escambia County, FL","12033",11,1042898,1.1,0.5,1.9
+,"Flagler County, FL","12035",Suppressed,288333,Suppressed,Suppressed,Suppressed
+,"Gadsden County, FL","12039",Suppressed,130688,Suppressed,Suppressed,Suppressed
+,"Hernando County, FL","12053",Suppressed,533333,Suppressed,Suppressed,Suppressed
+,"Hillsborough County, FL","12057",22,5092867,0.4,0.3,0.7
+,"Holmes County, FL","12059",Suppressed,59096,Suppressed,Suppressed,Suppressed
+,"Indian River County, FL","12061",Suppressed,366326,Suppressed,Suppressed,Suppressed
+,"Lake County, FL","12069",Suppressed,1055836,Suppressed,Suppressed,Suppressed
+,"Lee County, FL","12071",Suppressed,2069838,Suppressed,Suppressed,Suppressed
+,"Leon County, FL","12073",13,1135395,1.1,0.6,2.0
+,"Madison County, FL","12079",Suppressed,54759,Suppressed,Suppressed,Suppressed
+,"Manatee County, FL","12081",Suppressed,1065312,Suppressed,Suppressed,Suppressed
+,"Marion County, FL","12083",Suppressed,990934,Suppressed,Suppressed,Suppressed
+,"Miami-Dade County, FL","12086",37,8817345,0.4,0.3,0.6
+,"Nassau County, FL","12089",Suppressed,255406,Suppressed,Suppressed,Suppressed
+,"Okaloosa County, FL","12091",Suppressed,692139,Suppressed,Suppressed,Suppressed
+,"Okeechobee County, FL","12093",Suppressed,124024,Suppressed,Suppressed,Suppressed
+,"Orange County, FL","12095",16,5185060,0.3,0.2,0.5
+,"Osceola County, FL","12097",Suppressed,1417107,Suppressed,Suppressed,Suppressed
+,"Palm Beach County, FL","12099",26,4255822,0.6,0.4,0.9
+,"Pasco County, FL","12101",12,1712135,0.7,0.4,1.2
+,"Pinellas County, FL","12103",Suppressed,2605749,Suppressed,Suppressed,Suppressed
+,"Polk County, FL","12105",14,2386299,0.6,0.3,1.0
+,"Putnam County, FL","12107",Suppressed,197187,Suppressed,Suppressed,Suppressed
+,"St. Johns County, FL","12109",Suppressed,834525,Suppressed,Suppressed,Suppressed
+,"St. Lucie County, FL","12111",Suppressed,963789,Suppressed,Suppressed,Suppressed
+,"Santa Rosa County, FL","12113",Suppressed,610385,Suppressed,Suppressed,Suppressed
+,"Seminole County, FL","12117",Suppressed,1583403,Suppressed,Suppressed,Suppressed
+,"Sumter County, FL","12119",Suppressed,186570,Suppressed,Suppressed,Suppressed
+,"Taylor County, FL","12123",Suppressed,63942,Suppressed,Suppressed,Suppressed
+,"Volusia County, FL","12127",Suppressed,1565216,Suppressed,Suppressed,Suppressed
+,"Walton County, FL","12131",Suppressed,224965,Suppressed,Suppressed,Suppressed
+,"Washington County, FL","12133",Suppressed,80727,Suppressed,Suppressed,Suppressed
+,"Appling County, GA","13001",Suppressed,54570,Suppressed,Suppressed,Suppressed
+,"Atkinson County, GA","13003",Suppressed,26614,Suppressed,Suppressed,Suppressed
+,"Bacon County, GA","13005",Suppressed,34464,Suppressed,Suppressed,Suppressed
+,"Baldwin County, GA","13009",Suppressed,152936,Suppressed,Suppressed,Suppressed
+,"Bartow County, GA","13015",Suppressed,357369,Suppressed,Suppressed,Suppressed
+,"Bibb County, GA","13021",Suppressed,493790,Suppressed,Suppressed,Suppressed
+,"Brantley County, GA","13025",Suppressed,55600,Suppressed,Suppressed,Suppressed
+,"Burke County, GA","13033",Suppressed,69754,Suppressed,Suppressed,Suppressed
+,"Butts County, GA","13035",Suppressed,86260,Suppressed,Suppressed,Suppressed
+,"Camden County, GA","13039",Suppressed,188643,Suppressed,Suppressed,Suppressed
+,"Carroll County, GA","13045",Suppressed,420045,Suppressed,Suppressed,Suppressed
+,"Catoosa County, GA","13047",Suppressed,208230,Suppressed,Suppressed,Suppressed
+,"Chatham County, GA","13051",12,1006088,1.2,0.6,2.1
+,"Chattahoochee County, GA","13053",Suppressed,45606,Suppressed,Suppressed,Suppressed
+,"Cherokee County, GA","13057",Suppressed,871706,Suppressed,Suppressed,Suppressed
+,"Clarke County, GA","13059",Suppressed,544742,Suppressed,Suppressed,Suppressed
+,"Clayton County, GA","13063",14,1020907,1.4,0.7,2.3
+,"Clinch County, GA","13065",Suppressed,20376,Suppressed,Suppressed,Suppressed
+,"Cobb County, GA","13067",14,2633735,0.5,0.3,0.9
+,"Columbia County, GA","13073",Suppressed,528183,Suppressed,Suppressed,Suppressed
+,"Coweta County, GA","13077",Suppressed,481128,Suppressed,Suppressed,Suppressed
+,"Crisp County, GA","13081",Suppressed,60013,Suppressed,Suppressed,Suppressed
+,"DeKalb County, GA","13089",21,2631831,0.8,0.5,1.2
+,"Dougherty County, GA","13095",Suppressed,273742,Suppressed,Suppressed,Suppressed
+,"Douglas County, GA","13097",Suppressed,493742,Suppressed,Suppressed,Suppressed
+,"Emanuel County, GA","13107",Suppressed,71911,Suppressed,Suppressed,Suppressed
+,"Evans County, GA","13109",Suppressed,33014,Suppressed,Suppressed,Suppressed
+,"Fayette County, GA","13113",Suppressed,342438,Suppressed,Suppressed,Suppressed
+,"Floyd County, GA","13115",Suppressed,317103,Suppressed,Suppressed,Suppressed
+,"Forsyth County, GA","13117",Suppressed,853530,Suppressed,Suppressed,Suppressed
+,"Fulton County, GA","13121",25,3908687,0.6,0.4,0.9
+,"Glynn County, GA","13127",Suppressed,244602,Suppressed,Suppressed,Suppressed
+,"Gordon County, GA","13129",Suppressed,187865,Suppressed,Suppressed,Suppressed
+,"Gwinnett County, GA","13135",18,3286465,0.5,0.3,0.9
+,"Hall County, GA","13139",Suppressed,670394,Suppressed,Suppressed,Suppressed
+,"Hancock County, GA","13141",Suppressed,24873,Suppressed,Suppressed,Suppressed
+,"Harris County, GA","13145",Suppressed,103498,Suppressed,Suppressed,Suppressed
+,"Hart County, GA","13147",Suppressed,73813,Suppressed,Suppressed,Suppressed
+,"Henry County, GA","13151",Suppressed,817626,Suppressed,Suppressed,Suppressed
+,"Houston County, GA","13153",Suppressed,548379,Suppressed,Suppressed,Suppressed
+,"Irwin County, GA","13155",Suppressed,29452,Suppressed,Suppressed,Suppressed
+,"Jackson County, GA","13157",Suppressed,260566,Suppressed,Suppressed,Suppressed
+,"Jones County, GA","13169",Suppressed,86575,Suppressed,Suppressed,Suppressed
+,"Lamar County, GA","13171",Suppressed,63030,Suppressed,Suppressed,Suppressed
+,"Laurens County, GA","13175",Suppressed,145237,Suppressed,Suppressed,Suppressed
+,"Liberty County, GA","13179",Suppressed,240567,Suppressed,Suppressed,Suppressed
+,"Lowndes County, GA","13185",Suppressed,428851,Suppressed,Suppressed,Suppressed
+,"McDuffie County, GA","13189",Suppressed,62058,Suppressed,Suppressed,Suppressed
+,"Macon County, GA","13193",Suppressed,39745,Suppressed,Suppressed,Suppressed
+,"Meriwether County, GA","13199",Suppressed,59183,Suppressed,Suppressed,Suppressed
+,"Mitchell County, GA","13205",Suppressed,66083,Suppressed,Suppressed,Suppressed
+,"Murray County, GA","13213",Suppressed,126561,Suppressed,Suppressed,Suppressed
+,"Muscogee County, GA","13215",Suppressed,669338,Suppressed,Suppressed,Suppressed
+,"Newton County, GA","13217",Suppressed,381416,Suppressed,Suppressed,Suppressed
+,"Paulding County, GA","13223",Suppressed,596223,Suppressed,Suppressed,Suppressed
+,"Peach County, GA","13225",Suppressed,91657,Suppressed,Suppressed,Suppressed
+,"Pickens County, GA","13227",Suppressed,93255,Suppressed,Suppressed,Suppressed
+,"Polk County, GA","13233",Suppressed,135729,Suppressed,Suppressed,Suppressed
+,"Rabun County, GA","13241",Suppressed,43551,Suppressed,Suppressed,Suppressed
+,"Randolph County, GA","13243",Suppressed,16530,Suppressed,Suppressed,Suppressed
+,"Richmond County, GA","13245",Suppressed,692423,Suppressed,Suppressed,Suppressed
+,"Rockdale County, GA","13247",Suppressed,290927,Suppressed,Suppressed,Suppressed
+,"Spalding County, GA","13255",Suppressed,206033,Suppressed,Suppressed,Suppressed
+,"Stephens County, GA","13257",Suppressed,77511,Suppressed,Suppressed,Suppressed
+,"Sumter County, GA","13261",Suppressed,93430,Suppressed,Suppressed,Suppressed
+,"Tattnall County, GA","13267",Suppressed,85148,Suppressed,Suppressed,Suppressed
+,"Taylor County, GA","13269",Suppressed,22263,Suppressed,Suppressed,Suppressed
+,"Thomas County, GA","13275",Suppressed,131613,Suppressed,Suppressed,Suppressed
+,"Tift County, GA","13277",Suppressed,132556,Suppressed,Suppressed,Suppressed
+,"Towns County, GA","13281",Suppressed,28663,Suppressed,Suppressed,Suppressed
+,"Troup County, GA","13285",Suppressed,223484,Suppressed,Suppressed,Suppressed
+,"Twiggs County, GA","13289",Suppressed,20422,Suppressed,Suppressed,Suppressed
+,"Upson County, GA","13293",Suppressed,80128,Suppressed,Suppressed,Suppressed
+,"Walker County, GA","13295",Suppressed,208618,Suppressed,Suppressed,Suppressed
+,"Wayne County, GA","13305",Suppressed,96943,Suppressed,Suppressed,Suppressed
+,"Whitfield County, GA","13313",Suppressed,338812,Suppressed,Suppressed,Suppressed
+,"Worth County, GA","13321",Suppressed,57994,Suppressed,Suppressed,Suppressed
+,"Hawaii County, HI","15001",Suppressed,571924,Suppressed,Suppressed,Suppressed
+,"Honolulu County, HI","15003",14,3150062,0.4,0.2,0.7
+,"Kauai County, HI","15007",Suppressed,208311,Suppressed,Suppressed,Suppressed
+,"Maui County, HI","15009",Suppressed,485070,Suppressed,Suppressed,Suppressed
+,"Ada County, ID","16001",Suppressed,1693905,Suppressed,Suppressed,Suppressed
+,"Bingham County, ID","16011",Suppressed,152536,Suppressed,Suppressed,Suppressed
+,"Bonneville County, ID","16019",Suppressed,408591,Suppressed,Suppressed,Suppressed
+,"Canyon County, ID","16027",Suppressed,803914,Suppressed,Suppressed,Suppressed
+,"Cassia County, ID","16031",Suppressed,78402,Suppressed,Suppressed,Suppressed
+,"Jefferson County, ID","16051",Suppressed,103268,Suppressed,Suppressed,Suppressed
+,"Jerome County, ID","16053",Suppressed,79048,Suppressed,Suppressed,Suppressed
+,"Kootenai County, ID","16055",Suppressed,524864,Suppressed,Suppressed,Suppressed
+,"Lemhi County, ID","16059",Suppressed,18880,Suppressed,Suppressed,Suppressed
+,"Minidoka County, ID","16067",Suppressed,65998,Suppressed,Suppressed,Suppressed
+,"Nez Perce County, ID","16069",Suppressed,124166,Suppressed,Suppressed,Suppressed
+,"Owyhee County, ID","16073",Suppressed,36382,Suppressed,Suppressed,Suppressed
+,"Payette County, ID","16075",Suppressed,74594,Suppressed,Suppressed,Suppressed
+,"Boone County, IL","17007",Suppressed,163559,Suppressed,Suppressed,Suppressed
+,"Champaign County, IL","17019",Suppressed,817817,Suppressed,Suppressed,Suppressed
+,"Cook County, IL","17031",76,17422324,0.4,0.3,0.5
+,"DuPage County, IL","17043",Suppressed,2891723,Suppressed,Suppressed,Suppressed
+,"Franklin County, IL","17055",Suppressed,106808,Suppressed,Suppressed,Suppressed
+,"Hancock County, IL","17067",Suppressed,45523,Suppressed,Suppressed,Suppressed
+,"Jefferson County, IL","17081",Suppressed,108994,Suppressed,Suppressed,Suppressed
+,"Jersey County, IL","17083",Suppressed,62081,Suppressed,Suppressed,Suppressed
+,"Kane County, IL","17089",Suppressed,1675316,Suppressed,Suppressed,Suppressed
+,"Kankakee County, IL","17091",Suppressed,338555,Suppressed,Suppressed,Suppressed
+,"Kendall County, IL","17093",Suppressed,468134,Suppressed,Suppressed,Suppressed
+,"Knox County, IL","17095",Suppressed,144220,Suppressed,Suppressed,Suppressed
+,"Lake County, IL","17097",Suppressed,2238302,Suppressed,Suppressed,Suppressed
+,"LaSalle County, IL","17099",Suppressed,318747,Suppressed,Suppressed,Suppressed
+,"McDonough County, IL","17109",Suppressed,99418,Suppressed,Suppressed,Suppressed
+,"McHenry County, IL","17111",Suppressed,950585,Suppressed,Suppressed,Suppressed
+,"McLean County, IL","17113",Suppressed,617765,Suppressed,Suppressed,Suppressed
+,"Macon County, IL","17115",Suppressed,297802,Suppressed,Suppressed,Suppressed
+,"Macoupin County, IL","17117",Suppressed,126149,Suppressed,Suppressed,Suppressed
+,"Madison County, IL","17119",Suppressed,809732,Suppressed,Suppressed,Suppressed
+,"Marshall County, IL","17123",Suppressed,30626,Suppressed,Suppressed,Suppressed
+,"Montgomery County, IL","17135",Suppressed,82524,Suppressed,Suppressed,Suppressed
+,"Ogle County, IL","17141",Suppressed,147280,Suppressed,Suppressed,Suppressed
+,"Peoria County, IL","17143",Suppressed,552758,Suppressed,Suppressed,Suppressed
+,"Randolph County, IL","17157",Suppressed,93726,Suppressed,Suppressed,Suppressed
+,"Rock Island County, IL","17161",Suppressed,423488,Suppressed,Suppressed,Suppressed
+,"St. Clair County, IL","17163",Suppressed,788407,Suppressed,Suppressed,Suppressed
+,"Sangamon County, IL","17167",Suppressed,584478,Suppressed,Suppressed,Suppressed
+,"Tazewell County, IL","17179",Suppressed,390212,Suppressed,Suppressed,Suppressed
+,"Vermilion County, IL","17183",Suppressed,212102,Suppressed,Suppressed,Suppressed
+,"Wayne County, IL","17191",Suppressed,43941,Suppressed,Suppressed,Suppressed
+,"White County, IL","17193",Suppressed,36839,Suppressed,Suppressed,Suppressed
+,"Will County, IL","17197",Suppressed,2263729,Suppressed,Suppressed,Suppressed
+,"Winnebago County, IL","17201",Suppressed,846960,Suppressed,Suppressed,Suppressed
+,"Adams County, IN","18001",Suppressed,103360,Suppressed,Suppressed,Suppressed
+,"Allen County, IN","18003",Suppressed,1246211,Suppressed,Suppressed,Suppressed
+,"Blackford County, IN","18009",Suppressed,32810,Suppressed,Suppressed,Suppressed
+,"Boone County, IN","18011",Suppressed,229133,Suppressed,Suppressed,Suppressed
+,"Cass County, IN","18017",Suppressed,111675,Suppressed,Suppressed,Suppressed
+,"Clark County, IN","18019",Suppressed,388329,Suppressed,Suppressed,Suppressed
+,"Clay County, IN","18021",Suppressed,77331,Suppressed,Suppressed,Suppressed
+,"Clinton County, IN","18023",Suppressed,98396,Suppressed,Suppressed,Suppressed
+,"Crawford County, IN","18025",Suppressed,28727,Suppressed,Suppressed,Suppressed
+,"Daviess County, IN","18027",Suppressed,99777,Suppressed,Suppressed,Suppressed
+,"Dearborn County, IN","18029",Suppressed,147253,Suppressed,Suppressed,Suppressed
+,"De Kalb County, IN","18033",Suppressed,132538,Suppressed,Suppressed,Suppressed
+,"Delaware County, IN","18035",Suppressed,395767,Suppressed,Suppressed,Suppressed
+,"Elkhart County, IN","18039",Suppressed,645019,Suppressed,Suppressed,Suppressed
+,"Floyd County, IN","18043",Suppressed,247190,Suppressed,Suppressed,Suppressed
+,"Fountain County, IN","18045",Suppressed,46734,Suppressed,Suppressed,Suppressed
+,"Gibson County, IN","18051",Suppressed,98767,Suppressed,Suppressed,Suppressed
+,"Grant County, IN","18053",Suppressed,201267,Suppressed,Suppressed,Suppressed
+,"Greene County, IN","18055",Suppressed,89573,Suppressed,Suppressed,Suppressed
+,"Hamilton County, IN","18057",Suppressed,1159423,Suppressed,Suppressed,Suppressed
+,"Hancock County, IN","18059",Suppressed,251925,Suppressed,Suppressed,Suppressed
+,"Harrison County, IN","18061",Suppressed,116788,Suppressed,Suppressed,Suppressed
+,"Hendricks County, IN","18063",Suppressed,583289,Suppressed,Suppressed,Suppressed
+,"Howard County, IN","18067",Suppressed,242803,Suppressed,Suppressed,Suppressed
+,"Jay County, IN","18075",Suppressed,57597,Suppressed,Suppressed,Suppressed
+,"Johnson County, IN","18081",Suppressed,528955,Suppressed,Suppressed,Suppressed
+,"Knox County, IN","18083",Suppressed,113042,Suppressed,Suppressed,Suppressed
+,"Kosciusko County, IN","18085",Suppressed,242155,Suppressed,Suppressed,Suppressed
+,"Lagrange County, IN","18087",Suppressed,121647,Suppressed,Suppressed,Suppressed
+,"Lake County, IN","18089",14,1525163,0.9,0.5,1.5
+,"La Porte County, IN","18091",Suppressed,336057,Suppressed,Suppressed,Suppressed
+,"Lawrence County, IN","18093",Suppressed,130375,Suppressed,Suppressed,Suppressed
+,"Madison County, IN","18095",Suppressed,403894,Suppressed,Suppressed,Suppressed
+,"Marion County, IN","18097",30,3320297,0.9,0.6,1.3
+,"Marshall County, IN","18099",Suppressed,135249,Suppressed,Suppressed,Suppressed
+,"Miami County, IN","18103",Suppressed,112461,Suppressed,Suppressed,Suppressed
+,"Monroe County, IN","18105",Suppressed,583403,Suppressed,Suppressed,Suppressed
+,"Montgomery County, IN","18107",Suppressed,113633,Suppressed,Suppressed,Suppressed
+,"Newton County, IN","18111",Suppressed,39717,Suppressed,Suppressed,Suppressed
+,"Noble County, IN","18113",Suppressed,142999,Suppressed,Suppressed,Suppressed
+,"Orange County, IN","18117",Suppressed,55170,Suppressed,Suppressed,Suppressed
+,"Owen County, IN","18119",Suppressed,58777,Suppressed,Suppressed,Suppressed
+,"Parke County, IN","18121",Suppressed,47901,Suppressed,Suppressed,Suppressed
+,"Pike County, IN","18125",Suppressed,34019,Suppressed,Suppressed,Suppressed
+,"Porter County, IN","18127",Suppressed,543801,Suppressed,Suppressed,Suppressed
+,"Randolph County, IN","18135",Suppressed,69064,Suppressed,Suppressed,Suppressed
+,"Ripley County, IN","18137",Suppressed,84209,Suppressed,Suppressed,Suppressed
+,"St. Joseph County, IN","18141",Suppressed,883652,Suppressed,Suppressed,Suppressed
+,"Shelby County, IN","18145",Suppressed,132785,Suppressed,Suppressed,Suppressed
+,"Spencer County, IN","18147",Suppressed,56208,Suppressed,Suppressed,Suppressed
+,"Starke County, IN","18149",Suppressed,65902,Suppressed,Suppressed,Suppressed
+,"Steuben County, IN","18151",Suppressed,98266,Suppressed,Suppressed,Suppressed
+,"Sullivan County, IN","18153",Suppressed,66780,Suppressed,Suppressed,Suppressed
+,"Tippecanoe County, IN","18157",Suppressed,763724,Suppressed,Suppressed,Suppressed
+,"Union County, IN","18161",Suppressed,19817,Suppressed,Suppressed,Suppressed
+,"Vanderburgh County, IN","18163",Suppressed,572604,Suppressed,Suppressed,Suppressed
+,"Vermillion County, IN","18165",Suppressed,44802,Suppressed,Suppressed,Suppressed
+,"Vigo County, IN","18167",Suppressed,362802,Suppressed,Suppressed,Suppressed
+,"Warrick County, IN","18173",Suppressed,193770,Suppressed,Suppressed,Suppressed
+,"Washington County, IN","18175",Suppressed,82933,Suppressed,Suppressed,Suppressed
+,"White County, IN","18181",Suppressed,67658,Suppressed,Suppressed,Suppressed
+,"Black Hawk County, IA","19013",Suppressed,438019,Suppressed,Suppressed,Suppressed
+,"Buena Vista County, IA","19021",Suppressed,62737,Suppressed,Suppressed,Suppressed
+,"Calhoun County, IA","19025",Suppressed,26737,Suppressed,Suppressed,Suppressed
+,"Cedar County, IA","19031",Suppressed,52174,Suppressed,Suppressed,Suppressed
+,"Cherokee County, IA","19035",Suppressed,29394,Suppressed,Suppressed,Suppressed
+,"Clinton County, IA","19045",Suppressed,129591,Suppressed,Suppressed,Suppressed
+,"Dallas County, IA","19049",Suppressed,351012,Suppressed,Suppressed,Suppressed
+,"Davis County, IA","19051",Suppressed,25065,Suppressed,Suppressed,Suppressed
+,"Des Moines County, IA","19057",Suppressed,109052,Suppressed,Suppressed,Suppressed
+,"Dubuque County, IA","19061",Suppressed,298103,Suppressed,Suppressed,Suppressed
+,"Floyd County, IA","19067",Suppressed,41583,Suppressed,Suppressed,Suppressed
+,"Jackson County, IA","19097",Suppressed,51238,Suppressed,Suppressed,Suppressed
+,"Jasper County, IA","19099",Suppressed,111495,Suppressed,Suppressed,Suppressed
+,"Johnson County, IA","19103",Suppressed,610306,Suppressed,Suppressed,Suppressed
+,"Lee County, IA","19111",Suppressed,92864,Suppressed,Suppressed,Suppressed
+,"Linn County, IA","19113",Suppressed,730489,Suppressed,Suppressed,Suppressed
+,"Lyon County, IA","19119",Suppressed,34755,Suppressed,Suppressed,Suppressed
+,"Marshall County, IA","19127",Suppressed,117830,Suppressed,Suppressed,Suppressed
+,"Monona County, IA","19133",Suppressed,22303,Suppressed,Suppressed,Suppressed
+,"Montgomery County, IA","19137",Suppressed,27265,Suppressed,Suppressed,Suppressed
+,"Page County, IA","19145",Suppressed,44578,Suppressed,Suppressed,Suppressed
+,"Polk County, IA","19153",Suppressed,1686181,Suppressed,Suppressed,Suppressed
+,"Pottawattamie County, IA","19155",Suppressed,279252,Suppressed,Suppressed,Suppressed
+,"Scott County, IA","19163",Suppressed,542866,Suppressed,Suppressed,Suppressed
+,"Sioux County, IA","19167",Suppressed,112891,Suppressed,Suppressed,Suppressed
+,"Story County, IA","19169",Suppressed,418943,Suppressed,Suppressed,Suppressed
+,"Wapello County, IA","19179",Suppressed,106834,Suppressed,Suppressed,Suppressed
+,"Webster County, IA","19187",Suppressed,112814,Suppressed,Suppressed,Suppressed
+,"Woodbury County, IA","19193",Suppressed,334906,Suppressed,Suppressed,Suppressed
+,"Brown County, KS","20013",Suppressed,25037,Suppressed,Suppressed,Suppressed
+,"Cheyenne County, KS","20023",Suppressed,6593,Suppressed,Suppressed,Suppressed
+,"Cowley County, KS","20035",Suppressed,105096,Suppressed,Suppressed,Suppressed
+,"Crawford County, KS","20037",Suppressed,134864,Suppressed,Suppressed,Suppressed
+,"Ellis County, KS","20051",Suppressed,102322,Suppressed,Suppressed,Suppressed
+,"Finney County, KS","20055",Suppressed,123366,Suppressed,Suppressed,Suppressed
+,"Geary County, KS","20061",Suppressed,130167,Suppressed,Suppressed,Suppressed
+,"Johnson County, KS","20091",Suppressed,1997401,Suppressed,Suppressed,Suppressed
+,"Kingman County, KS","20095",Suppressed,19612,Suppressed,Suppressed,Suppressed
+,"Leavenworth County, KS","20103",Suppressed,267701,Suppressed,Suppressed,Suppressed
+,"Lyon County, KS","20111",Suppressed,112483,Suppressed,Suppressed,Suppressed
+,"McPherson County, KS","20113",Suppressed,88406,Suppressed,Suppressed,Suppressed
+,"Marion County, KS","20115",Suppressed,32090,Suppressed,Suppressed,Suppressed
+,"Morton County, KS","20129",Suppressed,7054,Suppressed,Suppressed,Suppressed
+,"Osage County, KS","20139",Suppressed,43428,Suppressed,Suppressed,Suppressed
+,"Reno County, KS","20155",Suppressed,184896,Suppressed,Suppressed,Suppressed
+,"Sedgwick County, KS","20173",Suppressed,1690318,Suppressed,Suppressed,Suppressed
+,"Seward County, KS","20175",Suppressed,71396,Suppressed,Suppressed,Suppressed
+,"Shawnee County, KS","20177",Suppressed,532044,Suppressed,Suppressed,Suppressed
+,"Thomas County, KS","20193",Suppressed,24489,Suppressed,Suppressed,Suppressed
+,"Wyandotte County, KS","20209",Suppressed,547662,Suppressed,Suppressed,Suppressed
+,"Allen County, KY","21003",Suppressed,63280,Suppressed,Suppressed,Suppressed
+,"Barren County, KY","21009",Suppressed,131880,Suppressed,Suppressed,Suppressed
+,"Bath County, KY","21011",Suppressed,36838,Suppressed,Suppressed,Suppressed
+,"Bell County, KY","21013",Suppressed,71937,Suppressed,Suppressed,Suppressed
+,"Boone County, KY","21015",Suppressed,436488,Suppressed,Suppressed,Suppressed
+,"Bourbon County, KY","21017",Suppressed,57519,Suppressed,Suppressed,Suppressed
+,"Boyle County, KY","21021",Suppressed,96780,Suppressed,Suppressed,Suppressed
+,"Bracken County, KY","21023",Suppressed,24260,Suppressed,Suppressed,Suppressed
+,"Breathitt County, KY","21025",Suppressed,38203,Suppressed,Suppressed,Suppressed
+,"Breckinridge County, KY","21027",Suppressed,57999,Suppressed,Suppressed,Suppressed
+,"Bullitt County, KY","21029",Suppressed,258723,Suppressed,Suppressed,Suppressed
+,"Caldwell County, KY","21033",Suppressed,35471,Suppressed,Suppressed,Suppressed
+,"Calloway County, KY","21035",Suppressed,135678,Suppressed,Suppressed,Suppressed
+,"Campbell County, KY","21037",Suppressed,300860,Suppressed,Suppressed,Suppressed
+,"Christian County, KY","21047",Suppressed,252989,Suppressed,Suppressed,Suppressed
+,"Clark County, KY","21049",Suppressed,110116,Suppressed,Suppressed,Suppressed
+,"Cumberland County, KY","21057",Suppressed,16188,Suppressed,Suppressed,Suppressed
+,"Daviess County, KY","21059",Suppressed,310368,Suppressed,Suppressed,Suppressed
+,"Fayette County, KY","21067",Suppressed,1163253,Suppressed,Suppressed,Suppressed
+,"Fleming County, KY","21069",Suppressed,43532,Suppressed,Suppressed,Suppressed
+,"Floyd County, KY","21071",Suppressed,102390,Suppressed,Suppressed,Suppressed
+,"Franklin County, KY","21073",Suppressed,159365,Suppressed,Suppressed,Suppressed
+,"Graves County, KY","21083",Suppressed,106109,Suppressed,Suppressed,Suppressed
+,"Grayson County, KY","21085",Suppressed,78464,Suppressed,Suppressed,Suppressed
+,"Hardin County, KY","21093",Suppressed,359152,Suppressed,Suppressed,Suppressed
+,"Harlan County, KY","21095",Suppressed,73262,Suppressed,Suppressed,Suppressed
+,"Harrison County, KY","21097",Suppressed,55186,Suppressed,Suppressed,Suppressed
+,"Henderson County, KY","21101",Suppressed,131550,Suppressed,Suppressed,Suppressed
+,"Hopkins County, KY","21107",Suppressed,132274,Suppressed,Suppressed,Suppressed
+,"Jefferson County, KY","21111",23,2478424,0.9,0.6,1.4
+,"Jessamine County, KY","21113",Suppressed,172032,Suppressed,Suppressed,Suppressed
+,"Johnson County, KY","21115",Suppressed,65461,Suppressed,Suppressed,Suppressed
+,"Kenton County, KY","21117",Suppressed,546528,Suppressed,Suppressed,Suppressed
+,"Knott County, KY","21119",Suppressed,41204,Suppressed,Suppressed,Suppressed
+,"Lawrence County, KY","21127",Suppressed,45247,Suppressed,Suppressed,Suppressed
+,"Letcher County, KY","21133",Suppressed,58904,Suppressed,Suppressed,Suppressed
+,"Lincoln County, KY","21137",Suppressed,70167,Suppressed,Suppressed,Suppressed
+,"Logan County, KY","21141",Suppressed,80001,Suppressed,Suppressed,Suppressed
+,"McCracken County, KY","21145",Suppressed,194678,Suppressed,Suppressed,Suppressed
+,"McCreary County, KY","21147",Suppressed,55733,Suppressed,Suppressed,Suppressed
+,"Madison County, KY","21151",Suppressed,339603,Suppressed,Suppressed,Suppressed
+,"Magoffin County, KY","21153",Suppressed,33532,Suppressed,Suppressed,Suppressed
+,"Marshall County, KY","21157",Suppressed,86801,Suppressed,Suppressed,Suppressed
+,"Martin County, KY","21159",Suppressed,36590,Suppressed,Suppressed,Suppressed
+,"Mason County, KY","21161",Suppressed,48826,Suppressed,Suppressed,Suppressed
+,"Meade County, KY","21163",Suppressed,94663,Suppressed,Suppressed,Suppressed
+,"Mercer County, KY","21167",Suppressed,64012,Suppressed,Suppressed,Suppressed
+,"Monroe County, KY","21171",Suppressed,31001,Suppressed,Suppressed,Suppressed
+,"Nelson County, KY","21179",Suppressed,142738,Suppressed,Suppressed,Suppressed
+,"Ohio County, KY","21183",Suppressed,70902,Suppressed,Suppressed,Suppressed
+,"Owen County, KY","21187",Suppressed,32298,Suppressed,Suppressed,Suppressed
+,"Perry County, KY","21193",Suppressed,77959,Suppressed,Suppressed,Suppressed
+,"Russell County, KY","21207",Suppressed,49453,Suppressed,Suppressed,Suppressed
+,"Shelby County, KY","21211",Suppressed,153287,Suppressed,Suppressed,Suppressed
+,"Trigg County, KY","21221",Suppressed,37531,Suppressed,Suppressed,Suppressed
+,"Trimble County, KY","21223",Suppressed,24628,Suppressed,Suppressed,Suppressed
+,"Warren County, KY","21227",Suppressed,492440,Suppressed,Suppressed,Suppressed
+,"Whitley County, KY","21235",Suppressed,114509,Suppressed,Suppressed,Suppressed
+,"Wolfe County, KY","21237",Suppressed,19007,Suppressed,Suppressed,Suppressed
+,"Acadia Parish, LA","22001",Suppressed,179593,Suppressed,Suppressed,Suppressed
+,"Allen Parish, LA","22003",Suppressed,80128,Suppressed,Suppressed,Suppressed
+,"Ascension Parish, LA","22005",Suppressed,425801,Suppressed,Suppressed,Suppressed
+,"Assumption Parish, LA","22007",Suppressed,61448,Suppressed,Suppressed,Suppressed
+,"Beauregard Parish, LA","22011",Suppressed,115675,Suppressed,Suppressed,Suppressed
+,"Bossier Parish, LA","22015",Suppressed,423679,Suppressed,Suppressed,Suppressed
+,"Caddo Parish, LA","22017",15,710666,2.1,1.2,3.5
+,"Calcasieu Parish, LA","22019",Suppressed,644597,Suppressed,Suppressed,Suppressed
+,"Claiborne Parish, LA","22027",Suppressed,44983,Suppressed,Suppressed,Suppressed
+,"East Baton Rouge Parish, LA","22033",16,1543054,1.0,0.6,1.7
+,"East Feliciana Parish, LA","22037",Suppressed,58630,Suppressed,Suppressed,Suppressed
+,"Evangeline Parish, LA","22039",Suppressed,101745,Suppressed,Suppressed,Suppressed
+,"Grant Parish, LA","22043",Suppressed,76225,Suppressed,Suppressed,Suppressed
+,"Iberia Parish, LA","22045",Suppressed,207006,Suppressed,Suppressed,Suppressed
+,"Iberville Parish, LA","22047",Suppressed,99547,Suppressed,Suppressed,Suppressed
+,"Jackson Parish, LA","22049",Suppressed,45172,Suppressed,Suppressed,Suppressed
+,"Jefferson Parish, LA","22051",12,1304260,0.9,0.5,1.6
+,"Jefferson Davis Parish, LA","22053",Suppressed,95172,Suppressed,Suppressed,Suppressed
+,"Lafayette Parish, LA","22055",11,824887,1.3,0.7,2.4
+,"Lafourche Parish, LA","22057",Suppressed,300551,Suppressed,Suppressed,Suppressed
+,"LaSalle Parish, LA","22059",Suppressed,49339,Suppressed,Suppressed,Suppressed
+,"Lincoln Parish, LA","22061",Suppressed,184291,Suppressed,Suppressed,Suppressed
+,"Livingston Parish, LA","22063",Suppressed,483160,Suppressed,Suppressed,Suppressed
+,"Morehouse Parish, LA","22067",Suppressed,70660,Suppressed,Suppressed,Suppressed
+,"Natchitoches Parish, LA","22069",Suppressed,124294,Suppressed,Suppressed,Suppressed
+,"Orleans Parish, LA","22071",12,1276035,0.9,0.5,1.6
+,"Ouachita Parish, LA","22073",Suppressed,502889,Suppressed,Suppressed,Suppressed
+,"Plaquemines Parish, LA","22075",Suppressed,73289,Suppressed,Suppressed,Suppressed
+,"Rapides Parish, LA","22079",Suppressed,392061,Suppressed,Suppressed,Suppressed
+,"Sabine Parish, LA","22085",Suppressed,63761,Suppressed,Suppressed,Suppressed
+,"St. Bernard Parish, LA","22087",Suppressed,151595,Suppressed,Suppressed,Suppressed
+,"St. Helena Parish, LA","22091",Suppressed,30830,Suppressed,Suppressed,Suppressed
+,"St. Landry Parish, LA","22097",Suppressed,241938,Suppressed,Suppressed,Suppressed
+,"St. Mary Parish, LA","22101",Suppressed,138251,Suppressed,Suppressed,Suppressed
+,"St. Tammany Parish, LA","22103",Suppressed,800479,Suppressed,Suppressed,Suppressed
+,"Tangipahoa Parish, LA","22105",Suppressed,444908,Suppressed,Suppressed,Suppressed
+,"Terrebonne Parish, LA","22109",Suppressed,334370,Suppressed,Suppressed,Suppressed
+,"Union Parish, LA","22111",Suppressed,58952,Suppressed,Suppressed,Suppressed
+,"Vermilion Parish, LA","22113",Suppressed,177374,Suppressed,Suppressed,Suppressed
+,"Vernon Parish, LA","22115",Suppressed,169729,Suppressed,Suppressed,Suppressed
+,"Webster Parish, LA","22119",Suppressed,104941,Suppressed,Suppressed,Suppressed
+,"Androscoggin County, ME","23001",Suppressed,337447,Suppressed,Suppressed,Suppressed
+,"Cumberland County, ME","23005",Suppressed,945475,Suppressed,Suppressed,Suppressed
+,"Kennebec County, ME","23011",Suppressed,362320,Suppressed,Suppressed,Suppressed
+,"Oxford County, ME","23017",Suppressed,157649,Suppressed,Suppressed,Suppressed
+,"Penobscot County, ME","23019",Suppressed,477280,Suppressed,Suppressed,Suppressed
+,"Somerset County, ME","23025",Suppressed,139082,Suppressed,Suppressed,Suppressed
+,"York County, ME","23031",Suppressed,610610,Suppressed,Suppressed,Suppressed
+,"Allegany County, MD","24001",Suppressed,218372,Suppressed,Suppressed,Suppressed
+,"Anne Arundel County, MD","24003",Suppressed,1893709,Suppressed,Suppressed,Suppressed
+,"Baltimore County, MD","24005",16,2611845,0.6,0.4,1.0
+,"Calvert County, MD","24009",Suppressed,282130,Suppressed,Suppressed,Suppressed
+,"Caroline County, MD","24011",Suppressed,99164,Suppressed,Suppressed,Suppressed
+,"Carroll County, MD","24013",Suppressed,510373,Suppressed,Suppressed,Suppressed
+,"Cecil County, MD","24015",Suppressed,313579,Suppressed,Suppressed,Suppressed
+,"Charles County, MD","24017",Suppressed,536073,Suppressed,Suppressed,Suppressed
+,"Frederick County, MD","24021",Suppressed,884356,Suppressed,Suppressed,Suppressed
+,"Garrett County, MD","24023",Suppressed,77845,Suppressed,Suppressed,Suppressed
+,"Harford County, MD","24025",Suppressed,793881,Suppressed,Suppressed,Suppressed
+,"Howard County, MD","24027",Suppressed,1061813,Suppressed,Suppressed,Suppressed
+,"Kent County, MD","24029",Suppressed,52248,Suppressed,Suppressed,Suppressed
+,"Montgomery County, MD","24031",12,3299517,0.4,0.2,0.6
+,"Prince George's County, MD","24033",17,3065606,0.6,0.3,0.9
+,"St. Mary's County, MD","24037",Suppressed,372369,Suppressed,Suppressed,Suppressed
+,"Wicomico County, MD","24045",Suppressed,342419,Suppressed,Suppressed,Suppressed
+,"Worcester County, MD","24047",Suppressed,130617,Suppressed,Suppressed,Suppressed
+,"Baltimore city, MD","24510",Suppressed,2018847,Suppressed,Suppressed,Suppressed
+,"Berkshire County, MA","25003",Suppressed,352204,Suppressed,Suppressed,Suppressed
+,"Bristol County, MA","25005",Suppressed,1792506,Suppressed,Suppressed,Suppressed
+,"Essex County, MA","25009",11,2461823,0.4,0.2,0.8
+,"Franklin County, MA","25011",Suppressed,197247,Suppressed,Suppressed,Suppressed
+,"Hampden County, MA","25013",11,1466845,0.7,0.4,1.3
+,"Hampshire County, MA","25015",Suppressed,586833,Suppressed,Suppressed,Suppressed
+,"Middlesex County, MA","25017",Suppressed,5500540,Suppressed,Suppressed,Suppressed
+,"Nantucket County, MA","25019",Suppressed,42149,Suppressed,Suppressed,Suppressed
+,"Norfolk County, MA","25021",Suppressed,2266115,Suppressed,Suppressed,Suppressed
+,"Plymouth County, MA","25023",Suppressed,1543640,Suppressed,Suppressed,Suppressed
+,"Suffolk County, MA","25025",12,3175385,0.4,0.2,0.7
+,"Worcester County, MA","25027",Suppressed,2700379,Suppressed,Suppressed,Suppressed
+,"Allegan County, MI","26005",Suppressed,354065,Suppressed,Suppressed,Suppressed
+,"Barry County, MI","26015",Suppressed,179367,Suppressed,Suppressed,Suppressed
+,"Bay County, MI","26017",Suppressed,297304,Suppressed,Suppressed,Suppressed
+,"Benzie County, MI","26019",Suppressed,44857,Suppressed,Suppressed,Suppressed
+,"Berrien County, MI","26021",Suppressed,438281,Suppressed,Suppressed,Suppressed
+,"Calhoun County, MI","26025",Suppressed,404856,Suppressed,Suppressed,Suppressed
+,"Cass County, MI","26027",Suppressed,141275,Suppressed,Suppressed,Suppressed
+,"Chippewa County, MI","26033",Suppressed,120338,Suppressed,Suppressed,Suppressed
+,"Delta County, MI","26041",Suppressed,93776,Suppressed,Suppressed,Suppressed
+,"Eaton County, MI","26045",Suppressed,330463,Suppressed,Suppressed,Suppressed
+,"Genesee County, MI","26049",Suppressed,1211217,Suppressed,Suppressed,Suppressed
+,"Houghton County, MI","26061",Suppressed,128066,Suppressed,Suppressed,Suppressed
+,"Ingham County, MI","26065",Suppressed,1076552,Suppressed,Suppressed,Suppressed
+,"Iosco County, MI","26069",Suppressed,56758,Suppressed,Suppressed,Suppressed
+,"Jackson County, MI","26075",Suppressed,480524,Suppressed,Suppressed,Suppressed
+,"Kalamazoo County, MI","26077",Suppressed,921050,Suppressed,Suppressed,Suppressed
+,"Kalkaska County, MI","26079",Suppressed,50598,Suppressed,Suppressed,Suppressed
+,"Kent County, MI","26081",Suppressed,2220359,Suppressed,Suppressed,Suppressed
+,"Lapeer County, MI","26087",Suppressed,250314,Suppressed,Suppressed,Suppressed
+,"Lenawee County, MI","26091",Suppressed,292528,Suppressed,Suppressed,Suppressed
+,"Livingston County, MI","26093",Suppressed,558003,Suppressed,Suppressed,Suppressed
+,"Macomb County, MI","26099",13,2692011,0.5,0.3,0.8
+,"Manistee County, MI","26101",Suppressed,64636,Suppressed,Suppressed,Suppressed
+,"Mecosta County, MI","26107",Suppressed,134691,Suppressed,Suppressed,Suppressed
+,"Midland County, MI","26111",Suppressed,248695,Suppressed,Suppressed,Suppressed
+,"Monroe County, MI","26115",Suppressed,447293,Suppressed,Suppressed,Suppressed
+,"Muskegon County, MI","26121",Suppressed,534202,Suppressed,Suppressed,Suppressed
+,"Oakland County, MI","26125",Suppressed,3939287,Suppressed,Suppressed,Suppressed
+,"Oceana County, MI","26127",Suppressed,72881,Suppressed,Suppressed,Suppressed
+,"Ottawa County, MI","26139",Suppressed,984547,Suppressed,Suppressed,Suppressed
+,"Roscommon County, MI","26143",Suppressed,48573,Suppressed,Suppressed,Suppressed
+,"Saginaw County, MI","26145",Suppressed,563111,Suppressed,Suppressed,Suppressed
+,"St. Clair County, MI","26147",Suppressed,453134,Suppressed,Suppressed,Suppressed
+,"St. Joseph County, MI","26149",Suppressed,177500,Suppressed,Suppressed,Suppressed
+,"Sanilac County, MI","26151",Suppressed,108342,Suppressed,Suppressed,Suppressed
+,"Tuscola County, MI","26157",Suppressed,146736,Suppressed,Suppressed,Suppressed
+,"Washtenaw County, MI","26161",Suppressed,1362910,Suppressed,Suppressed,Suppressed
+,"Wayne County, MI","26163",36,5513155,0.7,0.5,0.9
+,"Anoka County, MN","27003",Suppressed,1152016,Suppressed,Suppressed,Suppressed
+,"Beltrami County, MN","27007",Suppressed,149111,Suppressed,Suppressed,Suppressed
+,"Carlton County, MN","27017",Suppressed,110395,Suppressed,Suppressed,Suppressed
+,"Carver County, MN","27019",Suppressed,339248,Suppressed,Suppressed,Suppressed
+,"Chippewa County, MN","27023",Suppressed,32964,Suppressed,Suppressed,Suppressed
+,"Clay County, MN","27027",Suppressed,229991,Suppressed,Suppressed,Suppressed
+,"Dakota County, MN","27037",Suppressed,1384080,Suppressed,Suppressed,Suppressed
+,"Hennepin County, MN","27053",15,4294284,0.3,0.2,0.6
+,"Isanti County, MN","27059",Suppressed,126417,Suppressed,Suppressed,Suppressed
+,"Itasca County, MN","27061",Suppressed,117213,Suppressed,Suppressed,Suppressed
+,"Kandiyohi County, MN","27067",Suppressed,125610,Suppressed,Suppressed,Suppressed
+,"Le Sueur County, MN","27079",Suppressed,84065,Suppressed,Suppressed,Suppressed
+,"Morrison County, MN","27097",Suppressed,93358,Suppressed,Suppressed,Suppressed
+,"Olmsted County, MN","27109",Suppressed,517958,Suppressed,Suppressed,Suppressed
+,"Pennington County, MN","27113",Suppressed,41686,Suppressed,Suppressed,Suppressed
+,"Polk County, MN","27119",Suppressed,90076,Suppressed,Suppressed,Suppressed
+,"Ramsey County, MN","27123",Suppressed,1830173,Suppressed,Suppressed,Suppressed
+,"Redwood County, MN","27127",Suppressed,41356,Suppressed,Suppressed,Suppressed
+,"Roseau County, MN","27135",Suppressed,42068,Suppressed,Suppressed,Suppressed
+,"St. Louis County, MN","27137",Suppressed,620658,Suppressed,Suppressed,Suppressed
+,"Scott County, MN","27139",Suppressed,496849,Suppressed,Suppressed,Suppressed
+,"Stearns County, MN","27145",Suppressed,531471,Suppressed,Suppressed,Suppressed
+,"Todd County, MN","27153",Suppressed,64051,Suppressed,Suppressed,Suppressed
+,"Wabasha County, MN","27157",Suppressed,56410,Suppressed,Suppressed,Suppressed
+,"Washington County, MN","27163",Suppressed,831098,Suppressed,Suppressed,Suppressed
+,"Winona County, MN","27169",Suppressed,174407,Suppressed,Suppressed,Suppressed
+,"Wright County, MN","27171",Suppressed,458463,Suppressed,Suppressed,Suppressed
+,"Attala County, MS","28007",Suppressed,50926,Suppressed,Suppressed,Suppressed
+,"Benton County, MS","28009",Suppressed,22784,Suppressed,Suppressed,Suppressed
+,"Bolivar County, MS","28011",Suppressed,92766,Suppressed,Suppressed,Suppressed
+,"Calhoun County, MS","28013",Suppressed,38477,Suppressed,Suppressed,Suppressed
+,"Claiborne County, MS","28021",Suppressed,29974,Suppressed,Suppressed,Suppressed
+,"Coahoma County, MS","28027",Suppressed,63465,Suppressed,Suppressed,Suppressed
+,"Covington County, MS","28031",Suppressed,55074,Suppressed,Suppressed,Suppressed
+,"DeSoto County, MS","28033",Suppressed,631538,Suppressed,Suppressed,Suppressed
+,"Forrest County, MS","28035",Suppressed,272377,Suppressed,Suppressed,Suppressed
+,"George County, MS","28039",Suppressed,77464,Suppressed,Suppressed,Suppressed
+,"Grenada County, MS","28043",Suppressed,62073,Suppressed,Suppressed,Suppressed
+,"Hancock County, MS","28045",Suppressed,130137,Suppressed,Suppressed,Suppressed
+,"Harrison County, MS","28047",Suppressed,665881,Suppressed,Suppressed,Suppressed
+,"Hinds County, MS","28049",11,730852,1.5,0.8,2.7
+,"Holmes County, MS","28051",Suppressed,51715,Suppressed,Suppressed,Suppressed
+,"Humphreys County, MS","28053",Suppressed,21980,Suppressed,Suppressed,Suppressed
+,"Jackson County, MS","28059",Suppressed,450014,Suppressed,Suppressed,Suppressed
+,"Kemper County, MS","28069",Suppressed,28780,Suppressed,Suppressed,Suppressed
+,"Lamar County, MS","28073",Suppressed,214365,Suppressed,Suppressed,Suppressed
+,"Lauderdale County, MS","28075",Suppressed,221202,Suppressed,Suppressed,Suppressed
+,"Lawrence County, MS","28077",Suppressed,34503,Suppressed,Suppressed,Suppressed
+,"Leflore County, MS","28083",Suppressed,86302,Suppressed,Suppressed,Suppressed
+,"Lincoln County, MS","28085",Suppressed,105357,Suppressed,Suppressed,Suppressed
+,"Madison County, MS","28089",Suppressed,349772,Suppressed,Suppressed,Suppressed
+,"Marion County, MS","28091",Suppressed,73146,Suppressed,Suppressed,Suppressed
+,"Marshall County, MS","28093",Suppressed,104600,Suppressed,Suppressed,Suppressed
+,"Monroe County, MS","28095",Suppressed,99790,Suppressed,Suppressed,Suppressed
+,"Neshoba County, MS","28099",Suppressed,88418,Suppressed,Suppressed,Suppressed
+,"Oktibbeha County, MS","28105",Suppressed,215273,Suppressed,Suppressed,Suppressed
+,"Panola County, MS","28107",Suppressed,100181,Suppressed,Suppressed,Suppressed
+,"Pearl River County, MS","28109",Suppressed,167208,Suppressed,Suppressed,Suppressed
+,"Pike County, MS","28113",Suppressed,119443,Suppressed,Suppressed,Suppressed
+,"Pontotoc County, MS","28115",Suppressed,99057,Suppressed,Suppressed,Suppressed
+,"Prentiss County, MS","28117",Suppressed,78124,Suppressed,Suppressed,Suppressed
+,"Rankin County, MS","28121",Suppressed,516540,Suppressed,Suppressed,Suppressed
+,"Scott County, MS","28123",Suppressed,83037,Suppressed,Suppressed,Suppressed
+,"Sharkey County, MS","28125",Suppressed,10092,Suppressed,Suppressed,Suppressed
+,"Smith County, MS","28129",Suppressed,42389,Suppressed,Suppressed,Suppressed
+,"Stone County, MS","28131",Suppressed,59514,Suppressed,Suppressed,Suppressed
+,"Sunflower County, MS","28133",Suppressed,85988,Suppressed,Suppressed,Suppressed
+,"Tishomingo County, MS","28141",Suppressed,54110,Suppressed,Suppressed,Suppressed
+,"Tunica County, MS","28143",Suppressed,30292,Suppressed,Suppressed,Suppressed
+,"Warren County, MS","28149",Suppressed,131175,Suppressed,Suppressed,Suppressed
+,"Washington County, MS","28151",Suppressed,125736,Suppressed,Suppressed,Suppressed
+,"Wayne County, MS","28153",Suppressed,59004,Suppressed,Suppressed,Suppressed
+,"Wilkinson County, MS","28157",Suppressed,25994,Suppressed,Suppressed,Suppressed
+,"Yalobusha County, MS","28161",Suppressed,34738,Suppressed,Suppressed,Suppressed
+,"Yazoo County, MS","28163",Suppressed,95182,Suppressed,Suppressed,Suppressed
+,"Adair County, MO","29001",Suppressed,96809,Suppressed,Suppressed,Suppressed
+,"Andrew County, MO","29003",Suppressed,51123,Suppressed,Suppressed,Suppressed
+,"Bates County, MO","29013",Suppressed,46530,Suppressed,Suppressed,Suppressed
+,"Bollinger County, MO","29017",Suppressed,30532,Suppressed,Suppressed,Suppressed
+,"Boone County, MO","29019",Suppressed,705537,Suppressed,Suppressed,Suppressed
+,"Buchanan County, MO","29021",Suppressed,269015,Suppressed,Suppressed,Suppressed
+,"Caldwell County, MO","29025",Suppressed,25247,Suppressed,Suppressed,Suppressed
+,"Camden County, MO","29029",Suppressed,102671,Suppressed,Suppressed,Suppressed
+,"Cass County, MO","29037",Suppressed,327849,Suppressed,Suppressed,Suppressed
+,"Christian County, MO","29043",Suppressed,283887,Suppressed,Suppressed,Suppressed
+,"Clay County, MO","29047",Suppressed,841801,Suppressed,Suppressed,Suppressed
+,"Cole County, MO","29051",Suppressed,241858,Suppressed,Suppressed,Suppressed
+,"DeKalb County, MO","29063",Suppressed,35894,Suppressed,Suppressed,Suppressed
+,"Dunklin County, MO","29069",Suppressed,79810,Suppressed,Suppressed,Suppressed
+,"Franklin County, MO","29071",Suppressed,302851,Suppressed,Suppressed,Suppressed
+,"Greene County, MO","29077",Suppressed,1019288,Suppressed,Suppressed,Suppressed
+,"Harrison County, MO","29081",Suppressed,22130,Suppressed,Suppressed,Suppressed
+,"Howell County, MO","29091",Suppressed,116003,Suppressed,Suppressed,Suppressed
+,"Jackson County, MO","29095",13,2323984,0.6,0.3,1.0
+,"Jasper County, MO","29097",Suppressed,396671,Suppressed,Suppressed,Suppressed
+,"Jefferson County, MO","29099",Suppressed,702023,Suppressed,Suppressed,Suppressed
+,"Lawrence County, MO","29109",Suppressed,112535,Suppressed,Suppressed,Suppressed
+,"Lewis County, MO","29111",Suppressed,30054,Suppressed,Suppressed,Suppressed
+,"Livingston County, MO","29117",Suppressed,45391,Suppressed,Suppressed,Suppressed
+,"McDonald County, MO","29119",Suppressed,69500,Suppressed,Suppressed,Suppressed
+,"Miller County, MO","29131",Suppressed,72408,Suppressed,Suppressed,Suppressed
+,"Morgan County, MO","29141",Suppressed,53352,Suppressed,Suppressed,Suppressed
+,"Osage County, MO","29151",Suppressed,40006,Suppressed,Suppressed,Suppressed
+,"Pettis County, MO","29159",Suppressed,130690,Suppressed,Suppressed,Suppressed
+,"Phelps County, MO","29161",Suppressed,151387,Suppressed,Suppressed,Suppressed
+,"Pike County, MO","29163",Suppressed,54690,Suppressed,Suppressed,Suppressed
+,"Platte County, MO","29165",Suppressed,349792,Suppressed,Suppressed,Suppressed
+,"Pulaski County, MO","29169",Suppressed,222008,Suppressed,Suppressed,Suppressed
+,"Ray County, MO","29177",Suppressed,65737,Suppressed,Suppressed,Suppressed
+,"St. Charles County, MO","29183",Suppressed,1297097,Suppressed,Suppressed,Suppressed
+,"St. Louis County, MO","29189",25,3018781,0.8,0.5,1.2
+,"Saline County, MO","29195",Suppressed,72361,Suppressed,Suppressed,Suppressed
+,"Scott County, MO","29201",Suppressed,112110,Suppressed,Suppressed,Suppressed
+,"Shannon County, MO","29203",Suppressed,19563,Suppressed,Suppressed,Suppressed
+,"Texas County, MO","29215",Suppressed,72336,Suppressed,Suppressed,Suppressed
+,"Warren County, MO","29219",Suppressed,106206,Suppressed,Suppressed,Suppressed
+,"Wright County, MO","29229",Suppressed,52133,Suppressed,Suppressed,Suppressed
+,"St. Louis city, MO","29510",Suppressed,1041784,Suppressed,Suppressed,Suppressed
+,"Cascade County, MT","30013",Suppressed,256126,Suppressed,Suppressed,Suppressed
+,"Deer Lodge County, MT","30023",Suppressed,26701,Suppressed,Suppressed,Suppressed
+,"Flathead County, MT","30029",Suppressed,316790,Suppressed,Suppressed,Suppressed
+,"Lake County, MT","30047",Suppressed,86130,Suppressed,Suppressed,Suppressed
+,"Missoula County, MT","30063",Suppressed,435749,Suppressed,Suppressed,Suppressed
+,"Phillips County, MT","30071",Suppressed,10135,Suppressed,Suppressed,Suppressed
+,"Pondera County, MT","30073",Suppressed,16279,Suppressed,Suppressed,Suppressed
+,"Roosevelt County, MT","30085",Suppressed,33069,Suppressed,Suppressed,Suppressed
+,"Sanders County, MT","30089",Suppressed,27987,Suppressed,Suppressed,Suppressed
+,"Toole County, MT","30101",Suppressed,15260,Suppressed,Suppressed,Suppressed
+,"Yellowstone County, MT","30111",Suppressed,522646,Suppressed,Suppressed,Suppressed
+,"Buffalo County, NE","31019",Suppressed,173043,Suppressed,Suppressed,Suppressed
+,"Custer County, NE","31041",Suppressed,28310,Suppressed,Suppressed,Suppressed
+,"Dawson County, NE","31047",Suppressed,72121,Suppressed,Suppressed,Suppressed
+,"Dodge County, NE","31053",Suppressed,108332,Suppressed,Suppressed,Suppressed
+,"Douglas County, NE","31055",10,1957033,0.5,0.2,0.9
+,"Frontier County, NE","31063",Suppressed,7125,Suppressed,Suppressed,Suppressed
+,"Garden County, NE","31069",Suppressed,4172,Suppressed,Suppressed,Suppressed
+,"Hall County, NE","31079",Suppressed,191394,Suppressed,Suppressed,Suppressed
+,"Keith County, NE","31101",Suppressed,19720,Suppressed,Suppressed,Suppressed
+,"Lancaster County, NE","31109",Suppressed,1145717,Suppressed,Suppressed,Suppressed
+,"Lincoln County, NE","31111",Suppressed,98900,Suppressed,Suppressed,Suppressed
+,"Loup County, NE","31115",Suppressed,1412,Suppressed,Suppressed,Suppressed
+,"McPherson County, NE","31117",Suppressed,1064,Suppressed,Suppressed,Suppressed
+,"Sarpy County, NE","31153",Suppressed,654884,Suppressed,Suppressed,Suppressed
+,"Scotts Bluff County, NE","31157",Suppressed,103584,Suppressed,Suppressed,Suppressed
+,"Sheridan County, NE","31161",Suppressed,12660,Suppressed,Suppressed,Suppressed
+,"Stanton County, NE","31167",Suppressed,16238,Suppressed,Suppressed,Suppressed
+,"Thurston County, NE","31173",Suppressed,20840,Suppressed,Suppressed,Suppressed
+,"Valley County, NE","31175",Suppressed,10375,Suppressed,Suppressed,Suppressed
+,"Clark County, NV","32003",37,7660864,0.5,0.3,0.7
+,"Elko County, NV","32007",Suppressed,176875,Suppressed,Suppressed,Suppressed
+,"Nye County, NV","32023",Suppressed,119511,Suppressed,Suppressed,Suppressed
+,"Washoe County, NV","32031",Suppressed,1579614,Suppressed,Suppressed,Suppressed
+,"Carson City, NV","32510",Suppressed,168869,Suppressed,Suppressed,Suppressed
+,"Belknap County, NH","33001",Suppressed,168605,Suppressed,Suppressed,Suppressed
+,"Hillsborough County, NH","33011",Suppressed,1334819,Suppressed,Suppressed,Suppressed
+,"Merrimack County, NH","33013",Suppressed,470775,Suppressed,Suppressed,Suppressed
+,"Rockingham County, NH","33015",Suppressed,912423,Suppressed,Suppressed,Suppressed
+,"Strafford County, NH","33017",Suppressed,455177,Suppressed,Suppressed,Suppressed
+,"Atlantic County, NJ","34001",Suppressed,794001,Suppressed,Suppressed,Suppressed
+,"Bergen County, NJ","34003",11,2899793,0.4,0.2,0.7
+,"Burlington County, NJ","34005",Suppressed,1406134,Suppressed,Suppressed,Suppressed
+,"Camden County, NJ","34007",15,1644513,0.9,0.5,1.5
+,"Cumberland County, NJ","34011",Suppressed,483411,Suppressed,Suppressed,Suppressed
+,"Essex County, NJ","34013",30,2756006,1.1,0.7,1.6
+,"Gloucester County, NJ","34015",Suppressed,946445,Suppressed,Suppressed,Suppressed
+,"Hudson County, NJ","34017",18,2624081,0.7,0.4,1.1
+,"Mercer County, NJ","34021",Suppressed,1226331,Suppressed,Suppressed,Suppressed
+,"Middlesex County, NJ","34023",13,2784023,0.5,0.2,0.8
+,"Monmouth County, NJ","34025",Suppressed,1838015,Suppressed,Suppressed,Suppressed
+,"Morris County, NJ","34027",Suppressed,1519764,Suppressed,Suppressed,Suppressed
+,"Ocean County, NJ","34029",Suppressed,1674027,Suppressed,Suppressed,Suppressed
+,"Passaic County, NJ","34031",16,1632157,1.0,0.6,1.6
+,"Salem County, NJ","34033",Suppressed,187947,Suppressed,Suppressed,Suppressed
+,"Somerset County, NJ","34035",Suppressed,1045951,Suppressed,Suppressed,Suppressed
+,"Sussex County, NJ","34037",Suppressed,418592,Suppressed,Suppressed,Suppressed
+,"Union County, NJ","34039",15,1817362,0.8,0.5,1.4
+,"Warren County, NJ","34041",Suppressed,316197,Suppressed,Suppressed,Suppressed
+,"Bernalillo County, NM","35001",Suppressed,2218017,Suppressed,Suppressed,Suppressed
+,"Chaves County, NM","35005",Suppressed,206041,Suppressed,Suppressed,Suppressed
+,"Curry County, NM","35009",Suppressed,168346,Suppressed,Suppressed,Suppressed
+,"Dona Ana County, NM","35013",Suppressed,752926,Suppressed,Suppressed,Suppressed
+,"Eddy County, NM","35015",Suppressed,192815,Suppressed,Suppressed,Suppressed
+,"Los Alamos County, NM","35028",Suppressed,59701,Suppressed,Suppressed,Suppressed
+,"McKinley County, NM","35031",Suppressed,232346,Suppressed,Suppressed,Suppressed
+,"Otero County, NM","35035",Suppressed,223328,Suppressed,Suppressed,Suppressed
+,"Quay County, NM","35037",Suppressed,21177,Suppressed,Suppressed,Suppressed
+,"San Juan County, NM","35045",Suppressed,386133,Suppressed,Suppressed,Suppressed
+,"San Miguel County, NM","35047",Suppressed,77709,Suppressed,Suppressed,Suppressed
+,"Albany County, NY","36001",Suppressed,1055662,Suppressed,Suppressed,Suppressed
+,"Bronx County, NY","36005",37,4660557,0.8,0.6,1.1
+,"Broome County, NY","36007",Suppressed,610087,Suppressed,Suppressed,Suppressed
+,"Cattaraugus County, NY","36009",Suppressed,216432,Suppressed,Suppressed,Suppressed
+,"Cayuga County, NY","36011",Suppressed,220024,Suppressed,Suppressed,Suppressed
+,"Chautauqua County, NY","36013",Suppressed,363034,Suppressed,Suppressed,Suppressed
+,"Chemung County, NY","36015",Suppressed,243178,Suppressed,Suppressed,Suppressed
+,"Clinton County, NY","36019",Suppressed,254672,Suppressed,Suppressed,Suppressed
+,"Delaware County, NY","36025",Suppressed,119432,Suppressed,Suppressed,Suppressed
+,"Dutchess County, NY","36027",Suppressed,918584,Suppressed,Suppressed,Suppressed
+,"Erie County, NY","36029",18,2893492,0.6,0.4,1.0
+,"Franklin County, NY","36033",Suppressed,150962,Suppressed,Suppressed,Suppressed
+,"Genesee County, NY","36037",Suppressed,166429,Suppressed,Suppressed,Suppressed
+,"Greene County, NY","36039",Suppressed,134735,Suppressed,Suppressed,Suppressed
+,"Jefferson County, NY","36045",Suppressed,384802,Suppressed,Suppressed,Suppressed
+,"Kings County, NY","36047",44,8876245,0.5,0.4,0.7
+,"Madison County, NY","36053",Suppressed,206503,Suppressed,Suppressed,Suppressed
+,"Monroe County, NY","36055",13,2353098,0.6,0.3,0.9
+,"Montgomery County, NY","36057",Suppressed,144879,Suppressed,Suppressed,Suppressed
+,"Nassau County, NY","36059",14,4112112,0.3,0.2,0.6
+,"New York County, NY","36061",22,5960236,0.4,0.2,0.6
+,"Niagara County, NY","36063",Suppressed,607508,Suppressed,Suppressed,Suppressed
+,"Oneida County, NY","36065",Suppressed,681689,Suppressed,Suppressed,Suppressed
+,"Onondaga County, NY","36067",12,1447072,0.8,0.4,1.4
+,"Ontario County, NY","36069",Suppressed,318814,Suppressed,Suppressed,Suppressed
+,"Orange County, NY","36071",11,1256882,0.9,0.4,1.6
+,"Orleans County, NY","36073",Suppressed,118059,Suppressed,Suppressed,Suppressed
+,"Oswego County, NY","36075",Suppressed,358176,Suppressed,Suppressed,Suppressed
+,"Otsego County, NY","36077",Suppressed,191137,Suppressed,Suppressed,Suppressed
+,"Putnam County, NY","36079",Suppressed,290097,Suppressed,Suppressed,Suppressed
+,"Queens County, NY","36081",29,7312070,0.4,0.3,0.6
+,"Rensselaer County, NY","36083",Suppressed,509476,Suppressed,Suppressed,Suppressed
+,"Richmond County, NY","36085",Suppressed,1512282,Suppressed,Suppressed,Suppressed
+,"Rockland County, NY","36087",11,988191,1.1,0.6,2.0
+,"St. Lawrence County, NY","36089",Suppressed,340649,Suppressed,Suppressed,Suppressed
+,"Saratoga County, NY","36091",Suppressed,701995,Suppressed,Suppressed,Suppressed
+,"Schuyler County, NY","36097",Suppressed,46977,Suppressed,Suppressed,Suppressed
+,"Seneca County, NY","36099",Suppressed,97942,Suppressed,Suppressed,Suppressed
+,"Steuben County, NY","36101",Suppressed,265202,Suppressed,Suppressed,Suppressed
+,"Suffolk County, NY","36103",21,4552647,0.5,0.3,0.7
+,"Tioga County, NY","36107",Suppressed,132773,Suppressed,Suppressed,Suppressed
+,"Tompkins County, NY","36109",Suppressed,413129,Suppressed,Suppressed,Suppressed
+,"Warren County, NY","36113",Suppressed,176672,Suppressed,Suppressed,Suppressed
+,"Washington County, NY","36115",Suppressed,175425,Suppressed,Suppressed,Suppressed
+,"Wayne County, NY","36117",Suppressed,251084,Suppressed,Suppressed,Suppressed
+,"Westchester County, NY","36119",11,3014143,0.4,0.2,0.7
+,"Yates County, NY","36123",Suppressed,68157,Suppressed,Suppressed,Suppressed
+,"Alamance County, NC","37001",Suppressed,549167,Suppressed,Suppressed,Suppressed
+,"Bladen County, NC","37017",Suppressed,84958,Suppressed,Suppressed,Suppressed
+,"Brunswick County, NC","37019",Suppressed,326467,Suppressed,Suppressed,Suppressed
+,"Burke County, NC","37023",Suppressed,257153,Suppressed,Suppressed,Suppressed
+,"Cabarrus County, NC","37025",Suppressed,754316,Suppressed,Suppressed,Suppressed
+,"Catawba County, NC","37035",Suppressed,484375,Suppressed,Suppressed,Suppressed
+,"Chatham County, NC","37037",Suppressed,202187,Suppressed,Suppressed,Suppressed
+,"Cherokee County, NC","37039",Suppressed,66991,Suppressed,Suppressed,Suppressed
+,"Clay County, NC","37043",Suppressed,25400,Suppressed,Suppressed,Suppressed
+,"Cleveland County, NC","37045",Suppressed,294159,Suppressed,Suppressed,Suppressed
+,"Columbus County, NC","37047",Suppressed,155128,Suppressed,Suppressed,Suppressed
+,"Craven County, NC","37049",Suppressed,313986,Suppressed,Suppressed,Suppressed
+,"Cumberland County, NC","37051",13,1192751,1.1,0.6,1.9
+,"Davidson County, NC","37057",Suppressed,501196,Suppressed,Suppressed,Suppressed
+,"Davie County, NC","37059",Suppressed,119863,Suppressed,Suppressed,Suppressed
+,"Duplin County, NC","37061",Suppressed,153777,Suppressed,Suppressed,Suppressed
+,"Durham County, NC","37063",Suppressed,1195505,Suppressed,Suppressed,Suppressed
+,"Edgecombe County, NC","37065",Suppressed,140856,Suppressed,Suppressed,Suppressed
+,"Forsyth County, NC","37067",11,1230040,0.9,0.4,1.6
+,"Franklin County, NC","37069",Suppressed,221483,Suppressed,Suppressed,Suppressed
+,"Gaston County, NC","37071",Suppressed,724384,Suppressed,Suppressed,Suppressed
+,"Gates County, NC","37073",Suppressed,28768,Suppressed,Suppressed,Suppressed
+,"Granville County, NC","37077",Suppressed,184951,Suppressed,Suppressed,Suppressed
+,"Greene County, NC","37079",Suppressed,68282,Suppressed,Suppressed,Suppressed
+,"Guilford County, NC","37081",12,1798590,0.7,0.3,1.2
+,"Halifax County, NC","37083",Suppressed,134104,Suppressed,Suppressed,Suppressed
+,"Harnett County, NC","37085",Suppressed,465536,Suppressed,Suppressed,Suppressed
+,"Henderson County, NC","37089",Suppressed,309182,Suppressed,Suppressed,Suppressed
+,"Hertford County, NC","37091",Suppressed,64322,Suppressed,Suppressed,Suppressed
+,"Hoke County, NC","37093",Suppressed,188006,Suppressed,Suppressed,Suppressed
+,"Iredell County, NC","37097",Suppressed,589565,Suppressed,Suppressed,Suppressed
+,"Jackson County, NC","37099",Suppressed,147389,Suppressed,Suppressed,Suppressed
+,"Johnston County, NC","37101",Suppressed,731055,Suppressed,Suppressed,Suppressed
+,"Jones County, NC","37103",Suppressed,24784,Suppressed,Suppressed,Suppressed
+,"Lee County, NC","37105",Suppressed,196369,Suppressed,Suppressed,Suppressed
+,"Lenoir County, NC","37107",Suppressed,155299,Suppressed,Suppressed,Suppressed
+,"Lincoln County, NC","37109",Suppressed,262019,Suppressed,Suppressed,Suppressed
+,"McDowell County, NC","37111",Suppressed,130155,Suppressed,Suppressed,Suppressed
+,"Madison County, NC","37115",Suppressed,64257,Suppressed,Suppressed,Suppressed
+,"Mecklenburg County, NC","37119",13,4110538,0.3,0.2,0.5
+,"Montgomery County, NC","37123",Suppressed,74572,Suppressed,Suppressed,Suppressed
+,"Nash County, NC","37127",Suppressed,281918,Suppressed,Suppressed,Suppressed
+,"New Hanover County, NC","37129",Suppressed,780413,Suppressed,Suppressed,Suppressed
+,"Onslow County, NC","37133",Suppressed,818239,Suppressed,Suppressed,Suppressed
+,"Orange County, NC","37135",Suppressed,537539,Suppressed,Suppressed,Suppressed
+,"Perquimans County, NC","37143",Suppressed,32581,Suppressed,Suppressed,Suppressed
+,"Pitt County, NC","37147",Suppressed,646042,Suppressed,Suppressed,Suppressed
+,"Polk County, NC","37149",Suppressed,45694,Suppressed,Suppressed,Suppressed
+,"Randolph County, NC","37151",Suppressed,430737,Suppressed,Suppressed,Suppressed
+,"Richmond County, NC","37153",Suppressed,129915,Suppressed,Suppressed,Suppressed
+,"Robeson County, NC","37155",10,384812,2.6,1.2,4.8
+,"Rockingham County, NC","37157",Suppressed,255311,Suppressed,Suppressed,Suppressed
+,"Rowan County, NC","37159",Suppressed,447379,Suppressed,Suppressed,Suppressed
+,"Rutherford County, NC","37161",Suppressed,181845,Suppressed,Suppressed,Suppressed
+,"Sampson County, NC","37163",Suppressed,180478,Suppressed,Suppressed,Suppressed
+,"Stanly County, NC","37167",Suppressed,190768,Suppressed,Suppressed,Suppressed
+,"Stokes County, NC","37169",Suppressed,123179,Suppressed,Suppressed,Suppressed
+,"Surry County, NC","37171",Suppressed,202268,Suppressed,Suppressed,Suppressed
+,"Vance County, NC","37181",Suppressed,125086,Suppressed,Suppressed,Suppressed
+,"Wake County, NC","37183",19,4042891,0.5,0.3,0.7
+,"Warren County, NC","37185",Suppressed,49192,Suppressed,Suppressed,Suppressed
+,"Washington County, NC","37187",Suppressed,27319,Suppressed,Suppressed,Suppressed
+,"Wayne County, NC","37191",Suppressed,375001,Suppressed,Suppressed,Suppressed
+,"Wilkes County, NC","37193",Suppressed,185797,Suppressed,Suppressed,Suppressed
+,"Wilson County, NC","37195",Suppressed,237613,Suppressed,Suppressed,Suppressed
+,"Burleigh County, ND","38015",Suppressed,313706,Suppressed,Suppressed,Suppressed
+,"Cass County, ND","38017",Suppressed,708477,Suppressed,Suppressed,Suppressed
+,"Grand Forks County, ND","38035",Suppressed,269805,Suppressed,Suppressed,Suppressed
+,"McKenzie County, ND","38053",Suppressed,48394,Suppressed,Suppressed,Suppressed
+,"Morton County, ND","38059",Suppressed,102604,Suppressed,Suppressed,Suppressed
+,"Mountrail County, ND","38061",Suppressed,31880,Suppressed,Suppressed,Suppressed
+,"Rolette County, ND","38079",Suppressed,38276,Suppressed,Suppressed,Suppressed
+,"Ward County, ND","38101",Suppressed,243524,Suppressed,Suppressed,Suppressed
+,"Allen County, OH","39003",Suppressed,308707,Suppressed,Suppressed,Suppressed
+,"Ashland County, OH","39005",Suppressed,156008,Suppressed,Suppressed,Suppressed
+,"Ashtabula County, OH","39007",Suppressed,277285,Suppressed,Suppressed,Suppressed
+,"Athens County, OH","39009",Suppressed,254201,Suppressed,Suppressed,Suppressed
+,"Auglaize County, OH","39011",Suppressed,131875,Suppressed,Suppressed,Suppressed
+,"Brown County, OH","39015",Suppressed,125852,Suppressed,Suppressed,Suppressed
+,"Butler County, OH","39017",Suppressed,1264043,Suppressed,Suppressed,Suppressed
+,"Clark County, OH","39023",Suppressed,391186,Suppressed,Suppressed,Suppressed
+,"Clermont County, OH","39025",Suppressed,633490,Suppressed,Suppressed,Suppressed
+,"Clinton County, OH","39027",Suppressed,126076,Suppressed,Suppressed,Suppressed
+,"Columbiana County, OH","39029",Suppressed,284852,Suppressed,Suppressed,Suppressed
+,"Coshocton County, OH","39031",Suppressed,103254,Suppressed,Suppressed,Suppressed
+,"Crawford County, OH","39033",Suppressed,117714,Suppressed,Suppressed,Suppressed
+,"Cuyahoga County, OH","39035",27,3819516,0.7,0.5,1.0
+,"Darke County, OH","39037",Suppressed,143950,Suppressed,Suppressed,Suppressed
+,"Delaware County, OH","39041",Suppressed,702393,Suppressed,Suppressed,Suppressed
+,"Erie County, OH","39043",Suppressed,204344,Suppressed,Suppressed,Suppressed
+,"Fairfield County, OH","39045",Suppressed,500748,Suppressed,Suppressed,Suppressed
+,"Fayette County, OH","39047",Suppressed,85361,Suppressed,Suppressed,Suppressed
+,"Franklin County, OH","39049",30,4719595,0.6,0.4,0.9
+,"Fulton County, OH","39051",Suppressed,122117,Suppressed,Suppressed,Suppressed
+,"Greene County, OH","39057",Suppressed,542657,Suppressed,Suppressed,Suppressed
+,"Guernsey County, OH","39059",Suppressed,109851,Suppressed,Suppressed,Suppressed
+,"Hamilton County, OH","39061",18,2667818,0.7,0.4,1.1
+,"Hardin County, OH","39065",Suppressed,100247,Suppressed,Suppressed,Suppressed
+,"Highland County, OH","39071",Suppressed,124916,Suppressed,Suppressed,Suppressed
+,"Holmes County, OH","39075",Suppressed,137861,Suppressed,Suppressed,Suppressed
+,"Knox County, OH","39083",Suppressed,188514,Suppressed,Suppressed,Suppressed
+,"Lake County, OH","39085",Suppressed,668589,Suppressed,Suppressed,Suppressed
+,"Lawrence County, OH","39087",Suppressed,170359,Suppressed,Suppressed,Suppressed
+,"Licking County, OH","39089",Suppressed,548362,Suppressed,Suppressed,Suppressed
+,"Lorain County, OH","39093",Suppressed,928845,Suppressed,Suppressed,Suppressed
+,"Lucas County, OH","39095",Suppressed,1333438,Suppressed,Suppressed,Suppressed
+,"Mahoning County, OH","39099",Suppressed,653155,Suppressed,Suppressed,Suppressed
+,"Marion County, OH","39101",Suppressed,199790,Suppressed,Suppressed,Suppressed
+,"Medina County, OH","39103",Suppressed,529785,Suppressed,Suppressed,Suppressed
+,"Mercer County, OH","39107",Suppressed,117407,Suppressed,Suppressed,Suppressed
+,"Miami County, OH","39109",Suppressed,319402,Suppressed,Suppressed,Suppressed
+,"Monroe County, OH","39111",Suppressed,35378,Suppressed,Suppressed,Suppressed
+,"Montgomery County, OH","39113",18,1654368,1.1,0.6,1.7
+,"Muskingum County, OH","39119",Suppressed,257949,Suppressed,Suppressed,Suppressed
+,"Pike County, OH","39131",Suppressed,80085,Suppressed,Suppressed,Suppressed
+,"Portage County, OH","39133",Suppressed,538233,Suppressed,Suppressed,Suppressed
+,"Preble County, OH","39135",Suppressed,116290,Suppressed,Suppressed,Suppressed
+,"Richland County, OH","39139",Suppressed,370852,Suppressed,Suppressed,Suppressed
+,"Ross County, OH","39141",Suppressed,236349,Suppressed,Suppressed,Suppressed
+,"Seneca County, OH","39147",Suppressed,168936,Suppressed,Suppressed,Suppressed
+,"Stark County, OH","39151",Suppressed,1090586,Suppressed,Suppressed,Suppressed
+,"Summit County, OH","39153",Suppressed,1634532,Suppressed,Suppressed,Suppressed
+,"Trumbull County, OH","39155",Suppressed,560559,Suppressed,Suppressed,Suppressed
+,"Tuscarawas County, OH","39157",Suppressed,264416,Suppressed,Suppressed,Suppressed
+,"Union County, OH","39159",Suppressed,214887,Suppressed,Suppressed,Suppressed
+,"Wayne County, OH","39169",Suppressed,346354,Suppressed,Suppressed,Suppressed
+,"Alfalfa County, OK","40003",Suppressed,17410,Suppressed,Suppressed,Suppressed
+,"Bryan County, OK","40013",Suppressed,153685,Suppressed,Suppressed,Suppressed
+,"Caddo County, OK","40015",Suppressed,87508,Suppressed,Suppressed,Suppressed
+,"Canadian County, OK","40017",Suppressed,548982,Suppressed,Suppressed,Suppressed
+,"Carter County, OK","40019",Suppressed,148485,Suppressed,Suppressed,Suppressed
+,"Choctaw County, OK","40023",Suppressed,39656,Suppressed,Suppressed,Suppressed
+,"Cleveland County, OK","40027",Suppressed,1069430,Suppressed,Suppressed,Suppressed
+,"Comanche County, OK","40031",Suppressed,427627,Suppressed,Suppressed,Suppressed
+,"Craig County, OK","40035",Suppressed,42038,Suppressed,Suppressed,Suppressed
+,"Creek County, OK","40037",Suppressed,215333,Suppressed,Suppressed,Suppressed
+,"Custer County, OK","40039",Suppressed,99107,Suppressed,Suppressed,Suppressed
+,"Garfield County, OK","40047",Suppressed,192276,Suppressed,Suppressed,Suppressed
+,"Jackson County, OK","40065",Suppressed,80010,Suppressed,Suppressed,Suppressed
+,"Johnston County, OK","40069",Suppressed,31763,Suppressed,Suppressed,Suppressed
+,"Kay County, OK","40071",Suppressed,128959,Suppressed,Suppressed,Suppressed
+,"Kingfisher County, OK","40073",Suppressed,47248,Suppressed,Suppressed,Suppressed
+,"Latimer County, OK","40077",Suppressed,27821,Suppressed,Suppressed,Suppressed
+,"Le Flore County, OK","40079",Suppressed,149662,Suppressed,Suppressed,Suppressed
+,"Lincoln County, OK","40081",Suppressed,100153,Suppressed,Suppressed,Suppressed
+,"McClain County, OK","40087",Suppressed,137359,Suppressed,Suppressed,Suppressed
+,"McCurtain County, OK","40089",Suppressed,93084,Suppressed,Suppressed,Suppressed
+,"Mayes County, OK","40097",Suppressed,119667,Suppressed,Suppressed,Suppressed
+,"Muskogee County, OK","40101",Suppressed,210102,Suppressed,Suppressed,Suppressed
+,"Oklahoma County, OK","40109",25,2677575,0.9,0.6,1.4
+,"Pittsburg County, OK","40121",Suppressed,129468,Suppressed,Suppressed,Suppressed
+,"Pontotoc County, OK","40123",Suppressed,121449,Suppressed,Suppressed,Suppressed
+,"Pushmataha County, OK","40127",Suppressed,29254,Suppressed,Suppressed,Suppressed
+,"Rogers County, OK","40131",Suppressed,296190,Suppressed,Suppressed,Suppressed
+,"Seminole County, OK","40133",Suppressed,71037,Suppressed,Suppressed,Suppressed
+,"Sequoyah County, OK","40135",Suppressed,119142,Suppressed,Suppressed,Suppressed
+,"Tulsa County, OK","40143",11,2196645,0.5,0.2,0.9
+,"Wagoner County, OK","40145",Suppressed,266617,Suppressed,Suppressed,Suppressed
+,"Washington County, OK","40147",Suppressed,155621,Suppressed,Suppressed,Suppressed
+,"Washita County, OK","40149",Suppressed,31068,Suppressed,Suppressed,Suppressed
+,"Woodward County, OK","40153",Suppressed,64411,Suppressed,Suppressed,Suppressed
+,"Baker County, OR","41001",Suppressed,41986,Suppressed,Suppressed,Suppressed
+,"Benton County, OR","41003",Suppressed,362046,Suppressed,Suppressed,Suppressed
+,"Clackamas County, OR","41005",Suppressed,1288905,Suppressed,Suppressed,Suppressed
+,"Columbia County, OR","41009",Suppressed,155837,Suppressed,Suppressed,Suppressed
+,"Curry County, OR","41015",Suppressed,47650,Suppressed,Suppressed,Suppressed
+,"Deschutes County, OR","41017",Suppressed,621366,Suppressed,Suppressed,Suppressed
+,"Jackson County, OR","41029",Suppressed,639875,Suppressed,Suppressed,Suppressed
+,"Jefferson County, OR","41031",Suppressed,72974,Suppressed,Suppressed,Suppressed
+,"Klamath County, OR","41035",Suppressed,198240,Suppressed,Suppressed,Suppressed
+,"Lane County, OR","41039",Suppressed,1252952,Suppressed,Suppressed,Suppressed
+,"Lincoln County, OR","41041",Suppressed,119787,Suppressed,Suppressed,Suppressed
+,"Marion County, OR","41047",Suppressed,1132911,Suppressed,Suppressed,Suppressed
+,"Morrow County, OR","41049",Suppressed,36056,Suppressed,Suppressed,Suppressed
+,"Multnomah County, OR","41051",14,2990233,0.5,0.3,0.8
+,"Umatilla County, OR","41059",Suppressed,256821,Suppressed,Suppressed,Suppressed
+,"Washington County, OR","41067",Suppressed,2102815,Suppressed,Suppressed,Suppressed
+,"Adams County, PA","42001",Suppressed,298458,Suppressed,Suppressed,Suppressed
+,"Allegheny County, PA","42003",12,3875524,0.3,0.2,0.5
+,"Beaver County, PA","42007",Suppressed,460264,Suppressed,Suppressed,Suppressed
+,"Bedford County, PA","42009",Suppressed,125995,Suppressed,Suppressed,Suppressed
+,"Berks County, PA","42011",Suppressed,1314655,Suppressed,Suppressed,Suppressed
+,"Blair County, PA","42013",Suppressed,350902,Suppressed,Suppressed,Suppressed
+,"Bucks County, PA","42017",Suppressed,1838253,Suppressed,Suppressed,Suppressed
+,"Butler County, PA","42019",Suppressed,565618,Suppressed,Suppressed,Suppressed
+,"Cambria County, PA","42021",Suppressed,362184,Suppressed,Suppressed,Suppressed
+,"Chester County, PA","42029",Suppressed,1655019,Suppressed,Suppressed,Suppressed
+,"Cumberland County, PA","42041",Suppressed,828568,Suppressed,Suppressed,Suppressed
+,"Dauphin County, PA","42043",Suppressed,879531,Suppressed,Suppressed,Suppressed
+,"Delaware County, PA","42045",15,1804995,0.8,0.5,1.4
+,"Erie County, PA","42049",Suppressed,824719,Suppressed,Suppressed,Suppressed
+,"Franklin County, PA","42055",Suppressed,455484,Suppressed,Suppressed,Suppressed
+,"Greene County, PA","42059",Suppressed,106611,Suppressed,Suppressed,Suppressed
+,"Huntingdon County, PA","42061",Suppressed,132886,Suppressed,Suppressed,Suppressed
+,"Indiana County, PA","42063",Suppressed,265396,Suppressed,Suppressed,Suppressed
+,"Jefferson County, PA","42065",Suppressed,119520,Suppressed,Suppressed,Suppressed
+,"Lackawanna County, PA","42069",Suppressed,635064,Suppressed,Suppressed,Suppressed
+,"Lancaster County, PA","42071",Suppressed,1665480,Suppressed,Suppressed,Suppressed
+,"Lebanon County, PA","42075",Suppressed,419199,Suppressed,Suppressed,Suppressed
+,"Lehigh County, PA","42077",Suppressed,1181750,Suppressed,Suppressed,Suppressed
+,"Luzerne County, PA","42079",Suppressed,969950,Suppressed,Suppressed,Suppressed
+,"Mercer County, PA","42085",Suppressed,309154,Suppressed,Suppressed,Suppressed
+,"Monroe County, PA","42089",Suppressed,499705,Suppressed,Suppressed,Suppressed
+,"Montgomery County, PA","42091",Suppressed,2600263,Suppressed,Suppressed,Suppressed
+,"Northampton County, PA","42095",Suppressed,959563,Suppressed,Suppressed,Suppressed
+,"Perry County, PA","42099",Suppressed,130727,Suppressed,Suppressed,Suppressed
+,"Philadelphia County, PA","42101",33,5568864,0.6,0.4,0.8
+,"Pike County, PA","42103",Suppressed,154402,Suppressed,Suppressed,Suppressed
+,"Schuylkill County, PA","42107",Suppressed,414456,Suppressed,Suppressed,Suppressed
+,"Somerset County, PA","42111",Suppressed,203061,Suppressed,Suppressed,Suppressed
+,"Susquehanna County, PA","42115",Suppressed,99367,Suppressed,Suppressed,Suppressed
+,"Venango County, PA","42121",Suppressed,130679,Suppressed,Suppressed,Suppressed
+,"Washington County, PA","42125",Suppressed,595298,Suppressed,Suppressed,Suppressed
+,"Wayne County, PA","42127",Suppressed,137648,Suppressed,Suppressed,Suppressed
+,"Westmoreland County, PA","42129",Suppressed,949102,Suppressed,Suppressed,Suppressed
+,"York County, PA","42133",Suppressed,1375633,Suppressed,Suppressed,Suppressed
+,"Kent County, RI","44003",Suppressed,503019,Suppressed,Suppressed,Suppressed
+,"Newport County, RI","44005",Suppressed,237694,Suppressed,Suppressed,Suppressed
+,"Providence County, RI","44007",Suppressed,2189858,Suppressed,Suppressed,Suppressed
+,"Washington County, RI","44009",Suppressed,381224,Suppressed,Suppressed,Suppressed
+,"Abbeville County, SC","45001",Suppressed,68995,Suppressed,Suppressed,Suppressed
+,"Aiken County, SC","45003",10,506760,2.0,0.9,3.6
+,"Anderson County, SC","45007",Suppressed,625790,Suppressed,Suppressed,Suppressed
+,"Bamberg County, SC","45009",Suppressed,38975,Suppressed,Suppressed,Suppressed
+,"Barnwell County, SC","45011",Suppressed,58985,Suppressed,Suppressed,Suppressed
+,"Beaufort County, SC","45013",Suppressed,511214,Suppressed,Suppressed,Suppressed
+,"Berkeley County, SC","45015",Suppressed,800334,Suppressed,Suppressed,Suppressed
+,"Calhoun County, SC","45017",Suppressed,37870,Suppressed,Suppressed,Suppressed
+,"Charleston County, SC","45019",11,1384417,0.8,0.4,1.4
+,"Chesterfield County, SC","45025",Suppressed,129505,Suppressed,Suppressed,Suppressed
+,"Darlington County, SC","45031",Suppressed,189139,Suppressed,Suppressed,Suppressed
+,"Dorchester County, SC","45035",Suppressed,538442,Suppressed,Suppressed,Suppressed
+,"Fairfield County, SC","45039",Suppressed,55811,Suppressed,Suppressed,Suppressed
+,"Florence County, SC","45041",Suppressed,421971,Suppressed,Suppressed,Suppressed
+,"Georgetown County, SC","45043",Suppressed,152202,Suppressed,Suppressed,Suppressed
+,"Greenville County, SC","45045",Suppressed,1729237,Suppressed,Suppressed,Suppressed
+,"Greenwood County, SC","45047",Suppressed,210691,Suppressed,Suppressed,Suppressed
+,"Hampton County, SC","45049",Suppressed,56016,Suppressed,Suppressed,Suppressed
+,"Horry County, SC","45051",10,988130,1.0,0.5,1.9
+,"Kershaw County, SC","45055",Suppressed,198979,Suppressed,Suppressed,Suppressed
+,"Laurens County, SC","45059",Suppressed,201576,Suppressed,Suppressed,Suppressed
+,"Lee County, SC","45061",Suppressed,50385,Suppressed,Suppressed,Suppressed
+,"Lexington County, SC","45063",Suppressed,947120,Suppressed,Suppressed,Suppressed
+,"Marion County, SC","45067",Suppressed,83533,Suppressed,Suppressed,Suppressed
+,"Newberry County, SC","45071",Suppressed,111096,Suppressed,Suppressed,Suppressed
+,"Oconee County, SC","45073",Suppressed,213646,Suppressed,Suppressed,Suppressed
+,"Orangeburg County, SC","45075",Suppressed,245356,Suppressed,Suppressed,Suppressed
+,"Pickens County, SC","45077",Suppressed,453089,Suppressed,Suppressed,Suppressed
+,"Richland County, SC","45079",10,1523010,0.7,0.3,1.2
+,"Saluda County, SC","45081",Suppressed,54802,Suppressed,Suppressed,Suppressed
+,"Spartanburg County, SC","45083",Suppressed,1076656,Suppressed,Suppressed,Suppressed
+,"Sumter County, SC","45085",Suppressed,328641,Suppressed,Suppressed,Suppressed
+,"Union County, SC","45087",Suppressed,75284,Suppressed,Suppressed,Suppressed
+,"Williamsburg County, SC","45089",Suppressed,87196,Suppressed,Suppressed,Suppressed
+,"York County, SC","45091",Suppressed,930451,Suppressed,Suppressed,Suppressed
+,"Bon Homme County, SD","46009",Suppressed,21687,Suppressed,Suppressed,Suppressed
+,"Brown County, SD","46013",Suppressed,117999,Suppressed,Suppressed,Suppressed
+,"Codington County, SD","46029",Suppressed,84674,Suppressed,Suppressed,Suppressed
+,"Dewey County, SD","46041",Suppressed,16080,Suppressed,Suppressed,Suppressed
+,"Fall River County, SD","46047",Suppressed,16121,Suppressed,Suppressed,Suppressed
+,"Lyman County, SD","46085",Suppressed,10578,Suppressed,Suppressed,Suppressed
+,"Mellette County, SD","46095",Suppressed,5528,Suppressed,Suppressed,Suppressed
+,"Minnehaha County, SD","46099",Suppressed,664464,Suppressed,Suppressed,Suppressed
+,"Pennington County, SD","46103",Suppressed,337246,Suppressed,Suppressed,Suppressed
+,"Shannon County, SD","46113",Suppressed,46616,Suppressed,Suppressed,Suppressed
+,"Bedford County, TN","47003",Suppressed,163056,Suppressed,Suppressed,Suppressed
+,"Bledsoe County, TN","47007",Suppressed,47390,Suppressed,Suppressed,Suppressed
+,"Blount County, TN","47009",Suppressed,396380,Suppressed,Suppressed,Suppressed
+,"Bradley County, TN","47011",Suppressed,345183,Suppressed,Suppressed,Suppressed
+,"Campbell County, TN","47013",Suppressed,114611,Suppressed,Suppressed,Suppressed
+,"Carroll County, TN","47017",Suppressed,82185,Suppressed,Suppressed,Suppressed
+,"Claiborne County, TN","47025",Suppressed,97332,Suppressed,Suppressed,Suppressed
+,"Cocke County, TN","47029",Suppressed,100126,Suppressed,Suppressed,Suppressed
+,"Coffee County, TN","47031",Suppressed,176155,Suppressed,Suppressed,Suppressed
+,"Crockett County, TN","47033",Suppressed,41190,Suppressed,Suppressed,Suppressed
+,"Cumberland County, TN","47035",Suppressed,142689,Suppressed,Suppressed,Suppressed
+,"Davidson County, TN","47037",25,2624815,1.0,0.6,1.4
+,"DeKalb County, TN","47041",Suppressed,61088,Suppressed,Suppressed,Suppressed
+,"Dickson County, TN","47043",Suppressed,170676,Suppressed,Suppressed,Suppressed
+,"Dyer County, TN","47045",Suppressed,110656,Suppressed,Suppressed,Suppressed
+,"Fayette County, TN","47047",Suppressed,115088,Suppressed,Suppressed,Suppressed
+,"Fentress County, TN","47049",Suppressed,50577,Suppressed,Suppressed,Suppressed
+,"Franklin County, TN","47051",Suppressed,130958,Suppressed,Suppressed,Suppressed
+,"Gibson County, TN","47053",Suppressed,150708,Suppressed,Suppressed,Suppressed
+,"Giles County, TN","47055",Suppressed,85318,Suppressed,Suppressed,Suppressed
+,"Greene County, TN","47059",Suppressed,201636,Suppressed,Suppressed,Suppressed
+,"Hamblen County, TN","47063",Suppressed,195925,Suppressed,Suppressed,Suppressed
+,"Hamilton County, TN","47065",Suppressed,1182580,Suppressed,Suppressed,Suppressed
+,"Hardin County, TN","47071",Suppressed,71216,Suppressed,Suppressed,Suppressed
+,"Hawkins County, TN","47073",Suppressed,161400,Suppressed,Suppressed,Suppressed
+,"Haywood County, TN","47075",Suppressed,49200,Suppressed,Suppressed,Suppressed
+,"Hickman County, TN","47081",Suppressed,78467,Suppressed,Suppressed,Suppressed
+,"Humphreys County, TN","47085",Suppressed,54568,Suppressed,Suppressed,Suppressed
+,"Jefferson County, TN","47089",Suppressed,161978,Suppressed,Suppressed,Suppressed
+,"Knox County, TN","47093",15,1638817,0.9,0.5,1.5
+,"Lauderdale County, TN","47097",Suppressed,80472,Suppressed,Suppressed,Suppressed
+,"Lawrence County, TN","47099",Suppressed,131893,Suppressed,Suppressed,Suppressed
+,"Lincoln County, TN","47103",Suppressed,100111,Suppressed,Suppressed,Suppressed
+,"Macon County, TN","47111",Suppressed,78114,Suppressed,Suppressed,Suppressed
+,"Madison County, TN","47113",Suppressed,305476,Suppressed,Suppressed,Suppressed
+,"Marshall County, TN","47117",Suppressed,109562,Suppressed,Suppressed,Suppressed
+,"Maury County, TN","47119",Suppressed,324395,Suppressed,Suppressed,Suppressed
+,"Monroe County, TN","47123",Suppressed,130454,Suppressed,Suppressed,Suppressed
+,"Montgomery County, TN","47125",Suppressed,832672,Suppressed,Suppressed,Suppressed
+,"Obion County, TN","47131",Suppressed,86793,Suppressed,Suppressed,Suppressed
+,"Overton County, TN","47133",Suppressed,65512,Suppressed,Suppressed,Suppressed
+,"Putnam County, TN","47141",Suppressed,276983,Suppressed,Suppressed,Suppressed
+,"Rhea County, TN","47143",Suppressed,99278,Suppressed,Suppressed,Suppressed
+,"Roane County, TN","47145",Suppressed,148134,Suppressed,Suppressed,Suppressed
+,"Robertson County, TN","47147",Suppressed,231979,Suppressed,Suppressed,Suppressed
+,"Rutherford County, TN","47149",Suppressed,1268995,Suppressed,Suppressed,Suppressed
+,"Sequatchie County, TN","47153",Suppressed,45679,Suppressed,Suppressed,Suppressed
+,"Sevier County, TN","47155",Suppressed,283958,Suppressed,Suppressed,Suppressed
+,"Shelby County, TN","47157",47,3007836,1.6,1.1,2.1
+,"Stewart County, TN","47161",Suppressed,39176,Suppressed,Suppressed,Suppressed
+,"Sullivan County, TN","47163",Suppressed,457429,Suppressed,Suppressed,Suppressed
+,"Sumner County, TN","47165",Suppressed,622847,Suppressed,Suppressed,Suppressed
+,"Tipton County, TN","47167",Suppressed,193725,Suppressed,Suppressed,Suppressed
+,"Trousdale County, TN","47169",Suppressed,44833,Suppressed,Suppressed,Suppressed
+,"Unicoi County, TN","47171",Suppressed,48659,Suppressed,Suppressed,Suppressed
+,"Van Buren County, TN","47175",Suppressed,16138,Suppressed,Suppressed,Suppressed
+,"Warren County, TN","47177",Suppressed,127259,Suppressed,Suppressed,Suppressed
+,"Washington County, TN","47179",Suppressed,430393,Suppressed,Suppressed,Suppressed
+,"White County, TN","47185",Suppressed,79676,Suppressed,Suppressed,Suppressed
+,"Williamson County, TN","47187",Suppressed,784668,Suppressed,Suppressed,Suppressed
+,"Wilson County, TN","47189",Suppressed,483945,Suppressed,Suppressed,Suppressed
+,"Anderson County, TX","48001",Suppressed,207928,Suppressed,Suppressed,Suppressed
+,"Andrews County, TX","48003",Suppressed,62704,Suppressed,Suppressed,Suppressed
+,"Angelina County, TX","48005",Suppressed,267512,Suppressed,Suppressed,Suppressed
+,"Aransas County, TX","48007",Suppressed,59427,Suppressed,Suppressed,Suppressed
+,"Archer County, TX","48009",Suppressed,24385,Suppressed,Suppressed,Suppressed
+,"Atascosa County, TX","48013",Suppressed,163088,Suppressed,Suppressed,Suppressed
+,"Austin County, TX","48015",Suppressed,86982,Suppressed,Suppressed,Suppressed
+,"Bandera County, TX","48019",Suppressed,52175,Suppressed,Suppressed,Suppressed
+,"Bastrop County, TX","48021",Suppressed,310615,Suppressed,Suppressed,Suppressed
+,"Bell County, TX","48027",Suppressed,1334591,Suppressed,Suppressed,Suppressed
+,"Bexar County, TX","48029",57,7228409,0.8,0.6,1.0
+,"Bosque County, TX","48035",Suppressed,48028,Suppressed,Suppressed,Suppressed
+,"Bowie County, TX","48037",Suppressed,292569,Suppressed,Suppressed,Suppressed
+,"Brazoria County, TX","48039",Suppressed,1312782,Suppressed,Suppressed,Suppressed
+,"Brazos County, TX","48041",Suppressed,1002035,Suppressed,Suppressed,Suppressed
+,"Brown County, TX","48049",Suppressed,114574,Suppressed,Suppressed,Suppressed
+,"Burleson County, TX","48051",Suppressed,51419,Suppressed,Suppressed,Suppressed
+,"Burnet County, TX","48053",Suppressed,139341,Suppressed,Suppressed,Suppressed
+,"Caldwell County, TX","48055",Suppressed,157949,Suppressed,Suppressed,Suppressed
+,"Calhoun County, TX","48057",Suppressed,60588,Suppressed,Suppressed,Suppressed
+,"Callahan County, TX","48059",Suppressed,39784,Suppressed,Suppressed,Suppressed
+,"Cameron County, TX","48061",18,1392650,1.3,0.8,2.0
+,"Camp County, TX","48063",Suppressed,37111,Suppressed,Suppressed,Suppressed
+,"Castro County, TX","48069",Suppressed,22403,Suppressed,Suppressed,Suppressed
+,"Cherokee County, TX","48073",Suppressed,158406,Suppressed,Suppressed,Suppressed
+,"Coleman County, TX","48083",Suppressed,19885,Suppressed,Suppressed,Suppressed
+,"Collin County, TX","48085",13,3902933,0.3,0.2,0.6
+,"Comal County, TX","48091",Suppressed,520871,Suppressed,Suppressed,Suppressed
+,"Coryell County, TX","48099",Suppressed,318792,Suppressed,Suppressed,Suppressed
+,"Crosby County, TX","48107",Suppressed,15636,Suppressed,Suppressed,Suppressed
+,"Dallas County, TX","48113",74,9261147,0.8,0.6,1.0
+,"Denton County, TX","48121",Suppressed,3390364,Suppressed,Suppressed,Suppressed
+,"DeWitt County, TX","48123",Suppressed,58252,Suppressed,Suppressed,Suppressed
+,"Duval County, TX","48131",Suppressed,32396,Suppressed,Suppressed,Suppressed
+,"Eastland County, TX","48133",Suppressed,52131,Suppressed,Suppressed,Suppressed
+,"Ector County, TX","48135",Suppressed,577956,Suppressed,Suppressed,Suppressed
+,"Ellis County, TX","48139",Suppressed,672088,Suppressed,Suppressed,Suppressed
+,"El Paso County, TX","48141",16,2973523,0.5,0.3,0.9
+,"Erath County, TX","48143",Suppressed,158123,Suppressed,Suppressed,Suppressed
+,"Falls County, TX","48145",Suppressed,54097,Suppressed,Suppressed,Suppressed
+,"Fort Bend County, TX","48157",17,2902522,0.6,0.3,0.9
+,"Gaines County, TX","48165",Suppressed,71716,Suppressed,Suppressed,Suppressed
+,"Galveston County, TX","48167",10,1125991,0.9,0.4,1.6
+,"Gonzales County, TX","48177",Suppressed,60070,Suppressed,Suppressed,Suppressed
+,"Grayson County, TX","48181",Suppressed,423023,Suppressed,Suppressed,Suppressed
+,"Guadalupe County, TX","48187",Suppressed,590606,Suppressed,Suppressed,Suppressed
+,"Hamilton County, TX","48193",Suppressed,22211,Suppressed,Suppressed,Suppressed
+,"Hardin County, TX","48199",Suppressed,174741,Suppressed,Suppressed,Suppressed
+,"Harris County, TX","48201",120,16849202,0.7,0.6,0.8
+,"Harrison County, TX","48203",Suppressed,208947,Suppressed,Suppressed,Suppressed
+,"Hays County, TX","48209",Suppressed,968195,Suppressed,Suppressed,Suppressed
+,"Henderson County, TX","48213",Suppressed,231393,Suppressed,Suppressed,Suppressed
+,"Hidalgo County, TX","48215",22,3007657,0.7,0.5,1.1
+,"Hill County, TX","48217",Suppressed,105899,Suppressed,Suppressed,Suppressed
+,"Hockley County, TX","48219",Suppressed,71687,Suppressed,Suppressed,Suppressed
+,"Hood County, TX","48221",Suppressed,167752,Suppressed,Suppressed,Suppressed
+,"Hopkins County, TX","48223",Suppressed,111319,Suppressed,Suppressed,Suppressed
+,"Houston County, TX","48225",Suppressed,64790,Suppressed,Suppressed,Suppressed
+,"Howard County, TX","48227",Suppressed,119479,Suppressed,Suppressed,Suppressed
+,"Hunt County, TX","48231",Suppressed,334559,Suppressed,Suppressed,Suppressed
+,"Jasper County, TX","48241",Suppressed,94597,Suppressed,Suppressed,Suppressed
+,"Jefferson County, TX","48245",13,820914,1.6,0.8,2.7
+,"Jim Wells County, TX","48249",Suppressed,124088,Suppressed,Suppressed,Suppressed
+,"Johnson County, TX","48251",Suppressed,613068,Suppressed,Suppressed,Suppressed
+,"Karnes County, TX","48255",Suppressed,56605,Suppressed,Suppressed,Suppressed
+,"Kaufman County, TX","48257",Suppressed,548525,Suppressed,Suppressed,Suppressed
+,"Kendall County, TX","48259",Suppressed,141166,Suppressed,Suppressed,Suppressed
+,"Kleberg County, TX","48273",Suppressed,114511,Suppressed,Suppressed,Suppressed
+,"Lamar County, TX","48277",Suppressed,146425,Suppressed,Suppressed,Suppressed
+,"Lamb County, TX","48279",Suppressed,38129,Suppressed,Suppressed,Suppressed
+,"Liberty County, TX","48291",Suppressed,323634,Suppressed,Suppressed,Suppressed
+,"Live Oak County, TX","48297",Suppressed,36813,Suppressed,Suppressed,Suppressed
+,"Lubbock County, TX","48303",Suppressed,1164080,Suppressed,Suppressed,Suppressed
+,"McLennan County, TX","48309",Suppressed,896880,Suppressed,Suppressed,Suppressed
+,"Matagorda County, TX","48321",Suppressed,106783,Suppressed,Suppressed,Suppressed
+,"Maverick County, TX","48323",Suppressed,195244,Suppressed,Suppressed,Suppressed
+,"Medina County, TX","48325",Suppressed,164931,Suppressed,Suppressed,Suppressed
+,"Midland County, TX","48329",Suppressed,617359,Suppressed,Suppressed,Suppressed
+,"Montague County, TX","48337",Suppressed,56406,Suppressed,Suppressed,Suppressed
+,"Montgomery County, TX","48339",13,2147593,0.6,0.3,1.0
+,"Moore County, TX","48341",Suppressed,68828,Suppressed,Suppressed,Suppressed
+,"Nacogdoches County, TX","48347",Suppressed,224728,Suppressed,Suppressed,Suppressed
+,"Navarro County, TX","48349",Suppressed,158422,Suppressed,Suppressed,Suppressed
+,"Nolan County, TX","48353",Suppressed,43375,Suppressed,Suppressed,Suppressed
+,"Nueces County, TX","48355",Suppressed,1181211,Suppressed,Suppressed,Suppressed
+,"Orange County, TX","48361",Suppressed,261085,Suppressed,Suppressed,Suppressed
+,"Palo Pinto County, TX","48363",Suppressed,82868,Suppressed,Suppressed,Suppressed
+,"Parker County, TX","48367",Suppressed,483666,Suppressed,Suppressed,Suppressed
+,"Parmer County, TX","48369",Suppressed,29927,Suppressed,Suppressed,Suppressed
+,"Pecos County, TX","48371",Suppressed,52804,Suppressed,Suppressed,Suppressed
+,"Polk County, TX","48373",Suppressed,150360,Suppressed,Suppressed,Suppressed
+,"Potter County, TX","48375",Suppressed,385973,Suppressed,Suppressed,Suppressed
+,"Randall County, TX","48381",Suppressed,479803,Suppressed,Suppressed,Suppressed
+,"Red River County, TX","48387",Suppressed,30436,Suppressed,Suppressed,Suppressed
+,"Robertson County, TX","48395",Suppressed,48466,Suppressed,Suppressed,Suppressed
+,"Rockwall County, TX","48397",Suppressed,388820,Suppressed,Suppressed,Suppressed
+,"San Augustine County, TX","48405",Suppressed,19186,Suppressed,Suppressed,Suppressed
+,"San Jacinto County, TX","48407",Suppressed,77214,Suppressed,Suppressed,Suppressed
+,"San Patricio County, TX","48409",Suppressed,221456,Suppressed,Suppressed,Suppressed
+,"Shelby County, TX","48419",Suppressed,72014,Suppressed,Suppressed,Suppressed
+,"Smith County, TX","48423",Suppressed,755382,Suppressed,Suppressed,Suppressed
+,"Starr County, TX","48427",Suppressed,216313,Suppressed,Suppressed,Suppressed
+,"Tarrant County, TX","48439",45,7394189,0.6,0.4,0.8
+,"Taylor County, TX","48441",Suppressed,493710,Suppressed,Suppressed,Suppressed
+,"Titus County, TX","48449",Suppressed,99226,Suppressed,Suppressed,Suppressed
+,"Tom Green County, TX","48451",Suppressed,396898,Suppressed,Suppressed,Suppressed
+,"Travis County, TX","48453",20,5100573,0.4,0.2,0.6
+,"Upshur County, TX","48459",Suppressed,122621,Suppressed,Suppressed,Suppressed
+,"Val Verde County, TX","48465",Suppressed,162480,Suppressed,Suppressed,Suppressed
+,"Van Zandt County, TX","48467",Suppressed,171402,Suppressed,Suppressed,Suppressed
+,"Victoria County, TX","48469",Suppressed,289661,Suppressed,Suppressed,Suppressed
+,"Walker County, TX","48471",Suppressed,301239,Suppressed,Suppressed,Suppressed
+,"Waller County, TX","48473",Suppressed,218458,Suppressed,Suppressed,Suppressed
+,"Webb County, TX","48479",Suppressed,936159,Suppressed,Suppressed,Suppressed
+,"Wichita County, TX","48485",Suppressed,448605,Suppressed,Suppressed,Suppressed
+,"Willacy County, TX","48489",Suppressed,75127,Suppressed,Suppressed,Suppressed
+,"Williamson County, TX","48491",Suppressed,2282433,Suppressed,Suppressed,Suppressed
+,"Wilson County, TX","48493",Suppressed,158459,Suppressed,Suppressed,Suppressed
+,"Wise County, TX","48497",Suppressed,225742,Suppressed,Suppressed,Suppressed
+,"Wood County, TX","48499",Suppressed,118456,Suppressed,Suppressed,Suppressed
+,"Zavala County, TX","48507",Suppressed,34224,Suppressed,Suppressed,Suppressed
+,"Box Elder County, UT","49003",Suppressed,194539,Suppressed,Suppressed,Suppressed
+,"Cache County, UT","49005",Suppressed,518829,Suppressed,Suppressed,Suppressed
+,"Carbon County, UT","49007",Suppressed,63282,Suppressed,Suppressed,Suppressed
+,"Davis County, UT","49011",Suppressed,1275372,Suppressed,Suppressed,Suppressed
+,"Salt Lake County, UT","49035",16,4276294,0.4,0.2,0.6
+,"San Juan County, UT","49037",Suppressed,46016,Suppressed,Suppressed,Suppressed
+,"Sevier County, UT","49041",Suppressed,68490,Suppressed,Suppressed,Suppressed
+,"Tooele County, UT","49045",Suppressed,273045,Suppressed,Suppressed,Suppressed
+,"Utah County, UT","49049",Suppressed,2609995,Suppressed,Suppressed,Suppressed
+,"Wasatch County, UT","49051",Suppressed,114868,Suppressed,Suppressed,Suppressed
+,"Washington County, UT","49053",Suppressed,566085,Suppressed,Suppressed,Suppressed
+,"Weber County, UT","49057",Suppressed,929359,Suppressed,Suppressed,Suppressed
+,"Orleans County, VT","50019",Suppressed,75342,Suppressed,Suppressed,Suppressed
+,"Accomack County, VA","51001",Suppressed,83070,Suppressed,Suppressed,Suppressed
+,"Albemarle County, VA","51003",Suppressed,359364,Suppressed,Suppressed,Suppressed
+,"Augusta County, VA","51015",Suppressed,221099,Suppressed,Suppressed,Suppressed
+,"Bedford County, VA","51019",Suppressed,214437,Suppressed,Suppressed,Suppressed
+,"Brunswick County, VA","51025",Suppressed,49111,Suppressed,Suppressed,Suppressed
+,"Buchanan County, VA","51027",Suppressed,55038,Suppressed,Suppressed,Suppressed
+,"Campbell County, VA","51031",Suppressed,161792,Suppressed,Suppressed,Suppressed
+,"Caroline County, VA","51033",Suppressed,96826,Suppressed,Suppressed,Suppressed
+,"Carroll County, VA","51035",Suppressed,75527,Suppressed,Suppressed,Suppressed
+,"Charlotte County, VA","51037",Suppressed,29991,Suppressed,Suppressed,Suppressed
+,"Chesterfield County, VA","51041",10,1172810,0.9,0.4,1.6
+,"Culpeper County, VA","51047",Suppressed,162799,Suppressed,Suppressed,Suppressed
+,"Cumberland County, VA","51049",Suppressed,26511,Suppressed,Suppressed,Suppressed
+,"Dickenson County, VA","51051",Suppressed,38645,Suppressed,Suppressed,Suppressed
+,"Essex County, VA","51057",Suppressed,28486,Suppressed,Suppressed,Suppressed
+,"Fairfax County, VA","51059",15,3775889,0.4,0.2,0.7
+,"Franklin County, VA","51067",Suppressed,143231,Suppressed,Suppressed,Suppressed
+,"Frederick County, VA","51069",Suppressed,277455,Suppressed,Suppressed,Suppressed
+,"Giles County, VA","51071",Suppressed,46084,Suppressed,Suppressed,Suppressed
+,"Goochland County, VA","51075",Suppressed,66837,Suppressed,Suppressed,Suppressed
+,"Greene County, VA","51079",Suppressed,60460,Suppressed,Suppressed,Suppressed
+,"Halifax County, VA","51083",Suppressed,87573,Suppressed,Suppressed,Suppressed
+,"Henrico County, VA","51087",Suppressed,1074037,Suppressed,Suppressed,Suppressed
+,"Henry County, VA","51089",Suppressed,130690,Suppressed,Suppressed,Suppressed
+,"Isle of Wight County, VA","51093",Suppressed,109280,Suppressed,Suppressed,Suppressed
+,"James City County, VA","51095",Suppressed,207922,Suppressed,Suppressed,Suppressed
+,"King George County, VA","51099",Suppressed,88298,Suppressed,Suppressed,Suppressed
+,"Loudoun County, VA","51107",Suppressed,1457901,Suppressed,Suppressed,Suppressed
+,"Mecklenburg County, VA","51117",Suppressed,77094,Suppressed,Suppressed,Suppressed
+,"New Kent County, VA","51127",Suppressed,74168,Suppressed,Suppressed,Suppressed
+,"Nottoway County, VA","51135",Suppressed,48565,Suppressed,Suppressed,Suppressed
+,"Orange County, VA","51137",Suppressed,106838,Suppressed,Suppressed,Suppressed
+,"Prince Edward County, VA","51147",Suppressed,84141,Suppressed,Suppressed,Suppressed
+,"Prince George County, VA","51149",Suppressed,148479,Suppressed,Suppressed,Suppressed
+,"Prince William County, VA","51153",12,1640150,0.7,0.4,1.3
+,"Pulaski County, VA","51155",Suppressed,93682,Suppressed,Suppressed,Suppressed
+,"Roanoke County, VA","51161",Suppressed,279201,Suppressed,Suppressed,Suppressed
+,"Rockbridge County, VA","51163",Suppressed,57988,Suppressed,Suppressed,Suppressed
+,"Rockingham County, VA","51165",Suppressed,249684,Suppressed,Suppressed,Suppressed
+,"Smyth County, VA","51173",Suppressed,83491,Suppressed,Suppressed,Suppressed
+,"Spotsylvania County, VA","51177",Suppressed,451996,Suppressed,Suppressed,Suppressed
+,"Stafford County, VA","51179",Suppressed,545430,Suppressed,Suppressed,Suppressed
+,"Tazewell County, VA","51185",Suppressed,113297,Suppressed,Suppressed,Suppressed
+,"Wise County, VA","51195",Suppressed,113841,Suppressed,Suppressed,Suppressed
+,"York County, VA","51199",Suppressed,216906,Suppressed,Suppressed,Suppressed
+,"Alexandria city, VA","51510",Suppressed,596798,Suppressed,Suppressed,Suppressed
+,"Bristol city, VA","51520",Suppressed,48947,Suppressed,Suppressed,Suppressed
+,"Charlottesville city, VA","51540",Suppressed,187093,Suppressed,Suppressed,Suppressed
+,"Chesapeake city, VA","51550",Suppressed,822285,Suppressed,Suppressed,Suppressed
+,"Colonial Heights city, VA","51570",Suppressed,53256,Suppressed,Suppressed,Suppressed
+,"Danville city, VA","51590",Suppressed,118316,Suppressed,Suppressed,Suppressed
+,"Emporia city, VA","51595",Suppressed,15285,Suppressed,Suppressed,Suppressed
+,"Falls Church city, VA","51610",Suppressed,47203,Suppressed,Suppressed,Suppressed
+,"Hampton city, VA","51650",Suppressed,453164,Suppressed,Suppressed,Suppressed
+,"Hopewell city, VA","51670",Suppressed,70735,Suppressed,Suppressed,Suppressed
+,"Lynchburg city, VA","51680",Suppressed,312926,Suppressed,Suppressed,Suppressed
+,"Manassas city, VA","51683",Suppressed,143550,Suppressed,Suppressed,Suppressed
+,"Martinsville city, VA","51690",Suppressed,37562,Suppressed,Suppressed,Suppressed
+,"Newport News city, VA","51700",Suppressed,629935,Suppressed,Suppressed,Suppressed
+,"Norfolk city, VA","51710",10,915650,1.1,0.5,2.0
+,"Petersburg city, VA","51730",Suppressed,98691,Suppressed,Suppressed,Suppressed
+,"Poquoson city, VA","51735",Suppressed,36742,Suppressed,Suppressed,Suppressed
+,"Portsmouth city, VA","51740",Suppressed,318942,Suppressed,Suppressed,Suppressed
+,"Richmond city, VA","51760",Suppressed,869889,Suppressed,Suppressed,Suppressed
+,"Roanoke city, VA","51770",Suppressed,310078,Suppressed,Suppressed,Suppressed
+,"Salem city, VA","51775",Suppressed,80599,Suppressed,Suppressed,Suppressed
+,"Staunton city, VA","51790",Suppressed,78095,Suppressed,Suppressed,Suppressed
+,"Suffolk city, VA","51800",Suppressed,304965,Suppressed,Suppressed,Suppressed
+,"Virginia Beach city, VA","51810",Suppressed,1519718,Suppressed,Suppressed,Suppressed
+,"Waynesboro city, VA","51820",Suppressed,70630,Suppressed,Suppressed,Suppressed
+,"Adams County, WA","53001",Suppressed,63952,Suppressed,Suppressed,Suppressed
+,"Benton County, WA","53005",Suppressed,668095,Suppressed,Suppressed,Suppressed
+,"Clark County, WA","53011",Suppressed,1627536,Suppressed,Suppressed,Suppressed
+,"Cowlitz County, WA","53015",Suppressed,328895,Suppressed,Suppressed,Suppressed
+,"Ferry County, WA","53019",Suppressed,18116,Suppressed,Suppressed,Suppressed
+,"Grant County, WA","53025",Suppressed,322630,Suppressed,Suppressed,Suppressed
+,"Grays Harbor County, WA","53027",Suppressed,211662,Suppressed,Suppressed,Suppressed
+,"King County, WA","53033",22,8261434,0.3,0.2,0.4
+,"Kitsap County, WA","53035",Suppressed,872446,Suppressed,Suppressed,Suppressed
+,"Lewis County, WA","53041",Suppressed,239580,Suppressed,Suppressed,Suppressed
+,"Mason County, WA","53045",Suppressed,185733,Suppressed,Suppressed,Suppressed
+,"Okanogan County, WA","53047",Suppressed,117908,Suppressed,Suppressed,Suppressed
+,"Pierce County, WA","53053",16,3095937,0.5,0.3,0.8
+,"Skagit County, WA","53057",Suppressed,379079,Suppressed,Suppressed,Suppressed
+,"Snohomish County, WA","53061",13,2788715,0.5,0.2,0.8
+,"Spokane County, WA","53063",Suppressed,1759520,Suppressed,Suppressed,Suppressed
+,"Stevens County, WA","53065",Suppressed,120033,Suppressed,Suppressed,Suppressed
+,"Thurston County, WA","53067",Suppressed,950133,Suppressed,Suppressed,Suppressed
+,"Whatcom County, WA","53073",Suppressed,784760,Suppressed,Suppressed,Suppressed
+,"Yakima County, WA","53077",Suppressed,814270,Suppressed,Suppressed,Suppressed
+,"Berkeley County, WV","54003",Suppressed,404894,Suppressed,Suppressed,Suppressed
+,"Cabell County, WV","54011",Suppressed,300904,Suppressed,Suppressed,Suppressed
+,"Greenbrier County, WV","54025",Suppressed,89490,Suppressed,Suppressed,Suppressed
+,"Hancock County, WV","54029",Suppressed,77445,Suppressed,Suppressed,Suppressed
+,"Kanawha County, WV","54039",Suppressed,515168,Suppressed,Suppressed,Suppressed
+,"Lewis County, WV","54041",Suppressed,46152,Suppressed,Suppressed,Suppressed
+,"McDowell County, WV","54047",Suppressed,48512,Suppressed,Suppressed,Suppressed
+,"Mercer County, WV","54055",Suppressed,166013,Suppressed,Suppressed,Suppressed
+,"Monongalia County, WV","54061",Suppressed,430461,Suppressed,Suppressed,Suppressed
+,"Nicholas County, WV","54067",Suppressed,65629,Suppressed,Suppressed,Suppressed
+,"Preston County, WV","54077",Suppressed,101902,Suppressed,Suppressed,Suppressed
+,"Putnam County, WV","54079",Suppressed,169058,Suppressed,Suppressed,Suppressed
+,"Raleigh County, WV","54081",Suppressed,216596,Suppressed,Suppressed,Suppressed
+,"Barron County, WI","55005",Suppressed,123484,Suppressed,Suppressed,Suppressed
+,"Brown County, WI","55009",Suppressed,855476,Suppressed,Suppressed,Suppressed
+,"Chippewa County, WI","55017",Suppressed,195493,Suppressed,Suppressed,Suppressed
+,"Clark County, WI","55019",Suppressed,95055,Suppressed,Suppressed,Suppressed
+,"Dane County, WI","55025",Suppressed,2049192,Suppressed,Suppressed,Suppressed
+,"Eau Claire County, WI","55035",Suppressed,372932,Suppressed,Suppressed,Suppressed
+,"Grant County, WI","55043",Suppressed,168524,Suppressed,Suppressed,Suppressed
+,"Green County, WI","55045",Suppressed,104118,Suppressed,Suppressed,Suppressed
+,"Iowa County, WI","55049",Suppressed,65894,Suppressed,Suppressed,Suppressed
+,"Jackson County, WI","55053",Suppressed,59604,Suppressed,Suppressed,Suppressed
+,"Langlade County, WI","55067",Suppressed,47997,Suppressed,Suppressed,Suppressed
+,"Manitowoc County, WI","55071",Suppressed,219130,Suppressed,Suppressed,Suppressed
+,"Marathon County, WI","55073",Suppressed,403564,Suppressed,Suppressed,Suppressed
+,"Marinette County, WI","55075",Suppressed,103855,Suppressed,Suppressed,Suppressed
+,"Marquette County, WI","55077",Suppressed,37324,Suppressed,Suppressed,Suppressed
+,"Milwaukee County, WI","55079",14,3163222,0.4,0.2,0.7
+,"Oneida County, WI","55085",Suppressed,87002,Suppressed,Suppressed,Suppressed
+,"Outagamie County, WI","55087",Suppressed,601212,Suppressed,Suppressed,Suppressed
+,"Ozaukee County, WI","55089",Suppressed,257977,Suppressed,Suppressed,Suppressed
+,"Pepin County, WI","55091",Suppressed,18705,Suppressed,Suppressed,Suppressed
+,"Racine County, WI","55101",Suppressed,587556,Suppressed,Suppressed,Suppressed
+,"Rock County, WI","55105",Suppressed,499120,Suppressed,Suppressed,Suppressed
+,"St. Croix County, WI","55109",Suppressed,288917,Suppressed,Suppressed,Suppressed
+,"Sheboygan County, WI","55117",Suppressed,344689,Suppressed,Suppressed,Suppressed
+,"Washington County, WI","55131",Suppressed,389096,Suppressed,Suppressed,Suppressed
+,"Waukesha County, WI","55133",Suppressed,1180593,Suppressed,Suppressed,Suppressed
+,"Winnebago County, WI","55139",Suppressed,561194,Suppressed,Suppressed,Suppressed
+,"Big Horn County, WY","56003",Suppressed,32686,Suppressed,Suppressed,Suppressed
+,"Carbon County, WY","56007",Suppressed,45198,Suppressed,Suppressed,Suppressed
+,"Crook County, WY","56011",Suppressed,18602,Suppressed,Suppressed,Suppressed
+,"Fremont County, WY","56013",Suppressed,113610,Suppressed,Suppressed,Suppressed
+,"Laramie County, WY","56021",Suppressed,322609,Suppressed,Suppressed,Suppressed
+,"Natrona County, WY","56025",Suppressed,254638,Suppressed,Suppressed,Suppressed
+,"Park County, WY","56029",Suppressed,80973,Suppressed,Suppressed,Suppressed
+,"Platte County, WY","56031",Suppressed,21185,Suppressed,Suppressed,Suppressed
+,"Sweetwater County, WY","56037",Suppressed,138987,Suppressed,Suppressed,Suppressed
+,"Washakie County, WY","56043",Suppressed,21375,Suppressed,Suppressed,Suppressed
+"Total",,,5576,1062904127,0.5,0.5,0.5
+"---"
+"Dataset: Underlying Cause of Death, 2018-2024, Single Race"
+"Query Parameters:"
+"Five-Year Age Groups: 15-19 years; 20-24 years; 25-29 years; 30-34 years; 35-39 years; 40-44 years; 45-49 years"
+"ICD-10 Codes: A34 (Obstetrical tetanus); O00-O07 (Pregnancy with abortive outcome); O10-O16 (Oedema, proteinuria and"
+"hypertensive disorders in pregnancy, childbirth and the puerperium); O20-O29 (Other maternal disorders predominantly related to"
+"pregnancy); O30-O48 (Maternal care related to the fetus and amniotic cavity and possible delivery problems); O60-O75"
+"(Complications of labour and delivery); O85-O92 (Complications predominantly related to the puerperium); O95 (Obstetric death of"
+"unspecified cause); O98.0 (Tuberculosis complicating pregnancy, childbirth and the puerperium); O98.1 (Syphilis complicating"
+"pregnancy, childbirth and the puerperium); O98.2 (Gonorrhoea complicating pregnancy, childbirth and the puerperium); O98.3"
+"(Other infections with a predominantly sexual mode of transmission complicating pregnancy, childbirth and the puerperium); O98.4"
+"(Viral hepatitis complicating pregnancy, childbirth and the puerperium); O98.5 (Other viral diseases complicating pregnancy,"
+"childbirth and the puerperium); O98.6 (Protozoal diseases complicating pregnancy, childbirth and the puerperium); O98.7 (Human"
+"immunodeficiency [HIV] disease complicating pregnancy, childbirth and the puerperium); O98.8 (Other maternal infectious and"
+"parasitic diseases complicating pregnancy, childbirth and the puerperium); O98.9 (Unspecified maternal infectious or parasitic"
+"disease complicating pregnancy, childbirth and the puerperium); O99.0 (Anaemia complicating pregnancy, childbirth and the"
+"puerperium); O99.1 (Other diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism"
+"complicating pregnancy, childbirth and the puerperium); O99.2 (Endocrine, nutritional and metabolic diseases complicating"
+"pregnancy, childbirth and the puerperium); O99.3 (Mental disorders and diseases of the nervous system complicating pregnancy,"
+"childbirth and the puerperium); O99.4 (Diseases of the circulatory system complicating pregnancy, childbirth and the"
+"puerperium); O99.5 (Diseases of the respiratory system complicating pregnancy, childbirth and the puerperium); O99.6 (Diseases"
+"of the digestive system complicating pregnancy, childbirth and the puerperium); O99.7 (Diseases of the skin and subcutaneous"
+"tissue complicating pregnancy, childbirth and the puerperium); O99.8 (Other specified diseases and conditions complicating"
+"pregnancy, childbirth and the puerperium)"
+"Group By: County"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: May 21, 2026 3:31:44 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2024 on CDC WONDER Online Database, released in 2026. Data are from the Multiple Cause of Death Files,"
+"2018-2024, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on May 21, 2026 3:31:44 PM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"---"
+Caveats:
+"1. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"2. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"3. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189)."
+"4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Not Stated."
+"6. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Confidence-Intervals."
+"7. The population figures for year 2024 are single-race estimates of the July 1 resident population, from the Vintage 2024"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2024 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for year 2023 are single-race estimates of the July 1"
+"resident population, from the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2022 are"
+"single-race estimates of the July 1 resident population, from the Vintage 2022 postcensal series released by the Census Bureau"
+"on June 22, 2023. The 2022 series is based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1,"
+"2020 decennial population count. The Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates"
+"for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The"
+"population figures for years 2021 are single-race estimates of the July 1 resident population, based on the Blended Base"
+"produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021 postcensal"
+"series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from the"
+"Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data."
+"8. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Connecticut-2022."
+"9. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#ICD-10 Changes."

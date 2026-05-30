@@ -1,0 +1,32 @@
+"Notes","Age of Mother 10","Age of Mother 10 Code",Births
+,"15 - 17 years","15-17",265102
+,"18 - 19 years","18-19",813498
+,"20-24 years","20-24",4612051
+,"25-29 years","25-29",7216780
+,"30-34 years","30-34",7694265
+,"35-39 years","35-39",4129368
+,"40-44 years","40-44",896398
+,"45-49 years","45-49",62252
+"Total",,,25689714
+"---"
+"Dataset: Natality, 2016-2024 expanded"
+"Query Parameters:"
+"Age of Mother 10: 15 - 17 years; 18 - 19 years; 20-24 years; 25-29 years; 30-34 years; 35-39 years; 40-44 years; 45-49 years"
+"Year: 2018; 2019; 2020; 2021; 2022; 2023; 2024"
+"Group By: Age of Mother 10"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality-expanded.html for more information."
+"---"
+"Query Date: May 22, 2026 4:35:40 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2024, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-expanded-current.html on May 22, 2026 4:35:40 AM"
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."
