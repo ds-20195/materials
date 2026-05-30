@@ -1,0 +1,75 @@
+"Notes","State of Residence","State of Residence Code",Births
+,"Alabama","01",405638
+,"Alaska","02",66030
+,"Arizona","04",549984
+,"Arkansas","05",250692
+,"California","06",2960609
+,"Colorado","08",438090
+,"Connecticut","09",242411
+,"Delaware","10",73797
+,"District of Columbia","11",59318
+,"Florida","12",1536569
+,"Georgia","13",875970
+,"Hawaii","15",110369
+,"Idaho","16",155429
+,"Illinois","17",928684
+,"Indiana","18",559598
+,"Iowa","19",257258
+,"Kansas","20",243048
+,"Kentucky","21",367802
+,"Louisiana","22",397584
+,"Maine","23",82916
+,"Maryland","24",477704
+,"Massachusetts","25",477347
+,"Michigan","26",727498
+,"Minnesota","27",448780
+,"Mississippi","28",246550
+,"Missouri","29",487934
+,"Montana","30",78165
+,"Nebraska","31",172289
+,"Nevada","32",235298
+,"New Hampshire","33",84000
+,"New Jersey","34",704986
+,"New Mexico","35",153056
+,"New York","36",1483345
+,"North Carolina","37",838764
+,"North Dakota","38",70079
+,"Ohio","39",909826
+,"Oklahoma","40",338926
+,"Oregon","41",281420
+,"Pennsylvania","42",917063
+,"Rhode Island","44",71287
+,"South Carolina","45",400593
+,"South Dakota","46",79475
+,"Tennessee","47",570225
+,"Texas","48",2664134
+,"Utah","49",323805
+,"Vermont","50",36700
+,"Virginia","51",669697
+,"Washington","53",585005
+,"West Virginia","54",121350
+,"Wisconsin","55",429018
+,"Wyoming","56",43599
+"Total",,,25689714
+"---"
+"Dataset: Natality, 2016-2024 expanded"
+"Query Parameters:"
+"Age of Mother 10: 15 - 17 years; 18 - 19 years; 20-24 years; 25-29 years; 30-34 years; 35-39 years; 40-44 years; 45-49 years"
+"Year: 2018; 2019; 2020; 2021; 2022; 2023; 2024"
+"Group By: State of Residence"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality-expanded.html for more information."
+"---"
+"Query Date: May 22, 2026 4:33:44 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2024, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-expanded-current.html on May 22, 2026 4:33:44 AM"
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."

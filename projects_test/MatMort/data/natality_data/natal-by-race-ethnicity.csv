@@ -1,0 +1,51 @@
+"Notes","Mother's Single Race 6","Mother's Single Race 6 Code","Mother's Hispanic Origin","Mother's Hispanic Origin Code",Births
+,"American Indian or Alaska Native","1002-5","Hispanic or Latino","2135-2",61312
+,"American Indian or Alaska Native","1002-5","Not Hispanic or Latino","2186-5",184583
+,"American Indian or Alaska Native","1002-5","Unknown or Not Stated","9",2881
+"Total","American Indian or Alaska Native","1002-5",,,248776
+,"Asian","A","Hispanic or Latino","2135-2",48299
+,"Asian","A","Not Hispanic or Latino","2186-5",1572875
+,"Asian","A","Unknown or Not Stated","9",44569
+"Total","Asian","A",,,1665743
+,"Black or African American","2054-5","Hispanic or Latino","2135-2",371479
+,"Black or African American","2054-5","Not Hispanic or Latino","2186-5",3618955
+,"Black or African American","2054-5","Unknown or Not Stated","9",33965
+"Total","Black or African American","2054-5",,,4024399
+,"Native Hawaiian or Other Pacific Islander","NHOPI","Hispanic or Latino","2135-2",22956
+,"Native Hawaiian or Other Pacific Islander","NHOPI","Not Hispanic or Latino","2186-5",68985
+,"Native Hawaiian or Other Pacific Islander","NHOPI","Unknown or Not Stated","9",2386
+"Total","Native Hawaiian or Other Pacific Islander","NHOPI",,,94327
+,"White","2106-3","Hispanic or Latino","2135-2",5764066
+,"White","2106-3","Not Hispanic or Latino","2186-5",13008744
+,"White","2106-3","Unknown or Not Stated","9",155686
+"Total","White","2106-3",,,18928496
+,"More than one race","M","Hispanic or Latino","2135-2",117518
+,"More than one race","M","Not Hispanic or Latino","2186-5",607658
+,"More than one race","M","Unknown or Not Stated","9",2797
+"Total","More than one race","M",,,727973
+"Total",,,,,25689714
+"---"
+"Dataset: Natality, 2016-2024 expanded"
+"Query Parameters:"
+"Age of Mother 10: 15 - 17 years; 18 - 19 years; 20-24 years; 25-29 years; 30-34 years; 35-39 years; 40-44 years; 45-49 years"
+"Year: 2018; 2019; 2020; 2021; 2022; 2023; 2024"
+"Group By: Mother's Single Race 6; Mother's Hispanic Origin"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: True"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality-expanded.html for more information."
+"---"
+"Query Date: May 22, 2026 4:36:44 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2024, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-expanded-current.html on May 22, 2026 4:36:44 AM"
+"---"
+Messages:
+"1. Rows with zero Births are hidden. Use Quick Options above to show zero rows."
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."
