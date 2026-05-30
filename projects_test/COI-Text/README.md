@@ -1,5 +1,5 @@
-# Aine-Micro-Project
-Aine's Micro Project for Data and the State (DS-30195, Spring 2026)
+# COI Text
+Micro Project for Data and the State (DS-30195, Spring 2026)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XxOdYBPcxWMekJtWEIsbSq-LamAJHBQy?usp=sharing)
 
 Welcome! 
